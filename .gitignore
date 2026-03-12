@@ -40,7 +40,7 @@ jspm_packages/
 .eslintcache
 
 # MacOS
-.DS_Store 
+.DS_Store
 
 # Windows
 Thumbs.db
