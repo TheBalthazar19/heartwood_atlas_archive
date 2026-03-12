@@ -1,0 +1,2108 @@
+[
+  {
+    "name": "Obtained From",
+    "icon": null,
+    "category": "items",
+    "details": [
+      "Used For"
+    ],
+    "search": "obtained from used for"
+  },
+  {
+    "name": "10,000 Gold - Purchase from NPC Ezra",
+    "icon": "/images/items/adventurers_horse_crate.png",
+    "category": "items",
+    "details": [
+      "Contains: Adventurer's Horse (Mount)"
+    ],
+    "search": "10,000 gold - purchase from npc ezra contains: adventurer's horse (mount)"
+  },
+  {
+    "name": "Combine: Tattered Curse (Piece 1) Tattered Curse (Piece 2) Tattered Curse (Piece 3) Tattered Curse (Piece 4)",
+    "icon": "/images/items/ancient_curse.png",
+    "category": "items",
+    "details": [
+      "Trade With NPC Zil for: Magic Blueprint: Overseer's Grasp Magic Blueprint: Spinal Recurve Magic Blueprint: Temporal Will"
+    ],
+    "search": "combine: tattered curse (piece 1) tattered curse (piece 2) tattered curse (piece 3) tattered curse (piece 4) trade with npc zil for: magic blueprint: overseer's grasp magic blueprint: spinal recurve magic blueprint: temporal will"
+  },
+  {
+    "name": "Combine: Tattered Hex (Piece 1) Tattered Hex (Piece 2) Tattered Hex (Piece 3) Tattered Hex (Piece 4)",
+    "icon": "/images/items/ancient_hex.png",
+    "category": "items",
+    "details": [
+      "Trade With NPC Zil for: Magic Blueprint: Bone Splinter Magic Blueprint: Loyalty of Canis Magic Blueprint: Memoriam Magic Blueprint: Pillar of Balance Magic Blueprint: Radiant Protector Magic Blueprint: Spinal Tap Magic Blueprint: Wrath of Canis"
+    ],
+    "search": "combine: tattered hex (piece 1) tattered hex (piece 2) tattered hex (piece 3) tattered hex (piece 4) trade with npc zil for: magic blueprint: bone splinter magic blueprint: loyalty of canis magic blueprint: memoriam magic blueprint: pillar of balance magic blueprint: radiant protector magic blueprint: spinal tap magic blueprint: wrath of canis"
+  },
+  {
+    "name": "5 gold - Purchase from NPC Yorvik",
+    "icon": "/images/items/bait_kit.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item"
+    ],
+    "search": "5 gold - purchase from npc yorvik cooking - item"
+  },
+  {
+    "name": "Drop: Cave Bat",
+    "icon": "/images/items/bat_wing.png",
+    "category": "items",
+    "details": [
+      "Quest: Aging Fur Trapper (Step 11)"
+    ],
+    "search": "drop: cave bat quest: aging fur trapper (step 11)"
+  },
+  {
+    "name": "Carpentry - Item",
+    "icon": "/images/items/birch_boards.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "carpentry - item carpentry"
+  },
+  {
+    "name": "Woodcutting - Nodes",
+    "icon": "/images/items/birch_log.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Item"
+    ],
+    "search": "woodcutting - nodes carpentry - item"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/bitter_pellet.png",
+    "category": "items",
+    "details": [
+      "- Fishing Bait"
+    ],
+    "search": "cooking - item - fishing bait"
+  },
+  {
+    "name": "Drop: Black Sheep",
+    "icon": "/images/items/black_wool.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Item"
+    ],
+    "search": "drop: black sheep tailoring - item"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/black_wool_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "tailoring - item tailoring"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Combine: Stolen Nice List Innocent Doll Pattern",
+    "icon": "/images/items/blessed_doll.png",
+    "category": "items",
+    "details": [
+      "Event Quest: Blessing Friends / Cursing Enemies Event Quest: Weary Plea"
+    ],
+    "search": "(event: winterforge 2023) combine: stolen nice list innocent doll pattern event quest: blessing friends / cursing enemies event quest: weary plea"
+  },
+  {
+    "name": "Drop: Canis",
+    "icon": "/images/items/blood_of_canis.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon Quest: Vengeance (Step 1)"
+    ],
+    "search": "drop: canis carpentry - weapon quest: vengeance (step 1)"
+  },
+  {
+    "name": "Cooking - Item 175 Lumin Shards - Trade with NPC Zil",
+    "icon": "/images/items/blood_offering.png",
+    "category": "items",
+    "details": [
+      "Monster Bait for Canis"
+    ],
+    "search": "cooking - item 175 lumin shards - trade with npc zil monster bait for canis"
+  },
+  {
+    "name": "(Event: Dryad Bloom Festival, 1st Anniversary) (Event: Dryad Bloom Festival, 2nd Anniversary) 4 Dryad Blossoms - Purchase from NPC Linden",
+    "icon": "/images/items/blue_firework.png",
+    "category": "items",
+    "details": [
+      "- Fire and celebrate Heartwood's first anniversary! Note: These are temporary event items that are only available while the Dryad Festival is active."
+    ],
+    "search": "(event: dryad bloom festival, 1st anniversary) (event: dryad bloom festival, 2nd anniversary) 4 dryad blossoms - purchase from npc linden - fire and celebrate heartwood's first anniversary! note: these are temporary event items that are only available while the dryad festival is active."
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/bluegill_salmon.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: Orange Fish Meat"
+    ],
+    "search": "fishing cut to receive one of: orange fish meat"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/boar_guardian_offering.png",
+    "category": "items",
+    "details": [
+      "Monster Bait for Razorback"
+    ],
+    "search": "cooking - item monster bait for razorback"
+  },
+  {
+    "name": "Drop: Boar Warthog Razorback",
+    "icon": "/images/items/boar_tusk.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon Quest: Aging Fur Trapper (Step 5)"
+    ],
+    "search": "drop: boar warthog razorback carpentry - weapon quest: aging fur trapper (step 5)"
+  },
+  {
+    "name": "Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Worker 2 Skeletal Miner Skeletal Dog Skeletal Mage Skeletal Prospector Bones",
+    "icon": "/images/items/bone.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Item Blacksmithing - Weapon Quest: Aging Fur Trapper (Step 7) Quest: Greenflock Resupply"
+    ],
+    "search": "drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal worker 2 skeletal miner skeletal dog skeletal mage skeletal prospector bones leatherworking - item blacksmithing - weapon quest: aging fur trapper (step 7) quest: greenflock resupply"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/bone_dust.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Item"
+    ],
+    "search": "leatherworking - item leatherworking - item"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/broken_wagon_wheel.png",
+    "category": "items",
+    "details": [
+      "- Junk"
+    ],
+    "search": "fishing - junk"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/clam.png",
+    "category": "items",
+    "details": [
+      "Open to receive one of: Pearl Clam Meat"
+    ],
+    "search": "fishing open to receive one of: pearl clam meat"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/clam_cubes.png",
+    "category": "items",
+    "details": [
+      "- Fishing Bait"
+    ],
+    "search": "cooking - item - fishing bait"
+  },
+  {
+    "name": "Container: Clam",
+    "icon": "/images/items/clam_meat.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item"
+    ],
+    "search": "container: clam cooking - item"
+  },
+  {
+    "name": "Mining - Nodes Blacksmithing - Item",
+    "icon": "/images/items/coal.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item blacksmithing - item"
+  },
+  {
+    "name": "Blacksmithing - Item",
+    "icon": "/images/items/cobalt_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item blacksmithing"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/cobalt_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item"
+  },
+  {
+    "name": "Blacksmithing - Item Container: Rusty Strongbox",
+    "icon": "/images/items/copper_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item container: rusty strongbox blacksmithing"
+  },
+  {
+    "name": "Mining - Nodes Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Miner Skeletal Prospector",
+    "icon": "/images/items/copper_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal miner skeletal prospector blacksmithing - item"
+  },
+  {
+    "name": "Herbalism",
+    "icon": "/images/items/cotton.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Item"
+    ],
+    "search": "herbalism tailoring - item"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Combine: Stolen Naughty List Sinful Doll Pattern",
+    "icon": "/images/items/cursed_doll.png",
+    "category": "items",
+    "details": [
+      "Event Quest: Blessing Friends / Cursing Enemies Event Quest: Slothful Request"
+    ],
+    "search": "(event: winterforge 2023) combine: stolen naughty list sinful doll pattern event quest: blessing friends / cursing enemies event quest: slothful request"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2024) Combine: Client List (Piece 1) Torn Client List (Piece 2)",
+    "icon": "/images/items/darian_client_list.png",
+    "category": "items",
+    "details": [
+      "(Event: Pumpkin Festival 2024) Event Quest: Client List"
+    ],
+    "search": "(event: pumpkin festival 2024) combine: client list (piece 1) torn client list (piece 2) (event: pumpkin festival 2024) event quest: client list"
+  },
+  {
+    "name": "Open container: Message in a Bottle",
+    "icon": "/images/items/day_dreamers_poem.png",
+    "category": "items",
+    "details": [
+      "Combine with: Sailor's Song Fisherman's Tale To form: Salty Anthology"
+    ],
+    "search": "open container: message in a bottle combine with: sailor's song fisherman's tale to form: salty anthology"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/deer_guardian_offering.png",
+    "category": "items",
+    "details": [
+      "Monster Bait for Elder Stag"
+    ],
+    "search": "cooking - item monster bait for elder stag"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/delicate_leather.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Armor"
+    ],
+    "search": "leatherworking - item leatherworking - armor"
+  },
+  {
+    "name": "Drop: Skeletal Dog Bones",
+    "icon": "/images/items/dog_tooth.png",
+    "category": "items",
+    "details": [
+      "Quest: Aging Fur Trapper (Step 10)"
+    ],
+    "search": "drop: skeletal dog bones quest: aging fur trapper (step 10)"
+  },
+  {
+    "name": "(Event: Dryad Bloom Festival, 1st Anniversary) (Event: Dryad Bloom Festival, 2nd Anniversary) Drop: Dryad Bloom Quest: Event Quest: Dryad Bloom Festival",
+    "icon": "/images/items/dryad_blossom.png",
+    "category": "items",
+    "details": [
+      "- Trade with NPC Linden for fireworks Note: This is a temporary event item that is only available while the Dryad Festival is active."
+    ],
+    "search": "(event: dryad bloom festival, 1st anniversary) (event: dryad bloom festival, 2nd anniversary) drop: dryad bloom quest: event quest: dryad bloom festival - trade with npc linden for fireworks note: this is a temporary event item that is only available while the dryad festival is active."
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/durable_leather.png",
+    "category": "items",
+    "details": [
+      "Leatherworking"
+    ],
+    "search": "leatherworking - item leatherworking"
+  },
+  {
+    "name": "(Event: Winterforge 2025) Event Quest: Winterforge Memories",
+    "icon": "/images/items/edible_snow.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2025) - Consumable: Eating it will create a rainy snow effect above you for a few seconds."
+    ],
+    "search": "(event: winterforge 2025) event quest: winterforge memories (event: winterforge 2025) - consumable: eating it will create a rainy snow effect above you for a few seconds."
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/empty_can.png",
+    "category": "items",
+    "details": [
+      "- Junk"
+    ],
+    "search": "fishing - junk"
+  },
+  {
+    "name": "100 gold - Purchase from NPC Yorvik",
+    "icon": "/images/items/exotic_bait_kit.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item"
+    ],
+    "search": "100 gold - purchase from npc yorvik cooking - item"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2024) Drop: Any Monster",
+    "icon": "/images/items/fake_pumpkin_bag.png",
+    "category": "items",
+    "details": [
+      "Contains one of: Bat Wing Rat Tail Silk Bone Worm Pumpkin Festival Dye (Cosmetic / Wardrobe) Magic Token Fake Pumpkin Staff Spectral Vulture (Mount) Torn Client List (Piece 1) Torn Client List (Piece 2) Magic Pumpkin Pumpkin Hat (Cosmetic / Wardrobe)"
+    ],
+    "search": "(event: pumpkin festival 2024) drop: any monster contains one of: bat wing rat tail silk bone worm pumpkin festival dye (cosmetic / wardrobe) magic token fake pumpkin staff spectral vulture (mount) torn client list (piece 1) torn client list (piece 2) magic pumpkin pumpkin hat (cosmetic / wardrobe)"
+  },
+  {
+    "name": "Drop: - Vulture - Blight",
+    "icon": "/images/items/feather.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon Quest: Aging Fur Trapper (Step 6)"
+    ],
+    "search": "drop: - vulture - blight carpentry - weapon quest: aging fur trapper (step 6)"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Stocking Starter Event Quest: Restocking Rush",
+    "icon": "/images/items/holiday_stocking.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Event Item"
+    ],
+    "search": "(event: winterforge 2024) event quest: stocking starter event quest: restocking rush tailoring - event item"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Jolly Jam Event Quest: Making Music",
+    "icon": "/images/items/shiny_tambourine.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Event Item"
+    ],
+    "search": "(event: winterforge 2024) event quest: jolly jam event quest: making music blacksmithing - event item"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Globe Getter Event Quest: Holiday Homesick",
+    "icon": "/images/items/snow_globe.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Event Item"
+    ],
+    "search": "(event: winterforge 2024) event quest: globe getter event quest: holiday homesick carpentry - event item"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Tinsel Time Event Quest: Ornament Orders",
+    "icon": "/images/items/winterforge_tinsel.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Event Item"
+    ],
+    "search": "(event: winterforge 2024) event quest: tinsel time event quest: ornament orders leatherworking - event item"
+  },
+  {
+    "name": "(Event: Dryad Bloom Festival, 1st Anniversary) Event Quest: Dryad Bloom Festival",
+    "icon": "/images/items/first_starbloom_crown_giftbox.png",
+    "category": "items",
+    "details": [
+      "Open to receive: First Starbloom Crown (Cosmetic / Wardrobe)"
+    ],
+    "search": "(event: dryad bloom festival, 1st anniversary) event quest: dryad bloom festival open to receive: first starbloom crown (cosmetic / wardrobe)"
+  },
+  {
+    "name": "Drop: Stone Jaw Cutting Fish: Sweetwater Catfish Thornspine",
+    "icon": "/images/items/fish_barb.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon Carpentry - Armor Carpentry - Fishing Rod Cooking - Item"
+    ],
+    "search": "drop: stone jaw cutting fish: sweetwater catfish thornspine blacksmithing - weapon carpentry - armor carpentry - fishing rod cooking - item"
+  },
+  {
+    "name": "500 Gold - Purchase from NPC Yorvik",
+    "icon": "/images/items/fish_resin.png",
+    "category": "items",
+    "details": [
+      "Carpentry Blacksmithing"
+    ],
+    "search": "500 gold - purchase from npc yorvik carpentry blacksmithing"
+  },
+  {
+    "name": "Open container: Message in a Bottle",
+    "icon": "/images/items/fishermans_tale.png",
+    "category": "items",
+    "details": [
+      "Combine with: Day Dreamer's Poem Sailor's Song Salty Anthology"
+    ],
+    "search": "open container: message in a bottle combine with: day dreamer's poem sailor's song salty anthology"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/flimsy_leather.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Armor"
+    ],
+    "search": "leatherworking - item leatherworking - armor"
+  },
+  {
+    "name": "Drop: Bunny Doe Buck Stag Boar Warthog Vulture",
+    "icon": "/images/items/forest_critters_mount_box.png",
+    "category": "items",
+    "details": [
+      "Contains one of several mounts: Boar Buck Doe Rabbit Stag Warthog Blackthorn Shadowtusk Vulture Plaguewing"
+    ],
+    "search": "drop: bunny doe buck stag boar warthog vulture contains one of several mounts: boar buck doe rabbit stag warthog blackthorn shadowtusk vulture plaguewing"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/foul_blood_bait.png",
+    "category": "items",
+    "details": [
+      "- Fishing Bait"
+    ],
+    "search": "cooking - item - fishing bait"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/fragile_leather.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Armor"
+    ],
+    "search": "leatherworking - item leatherworking - armor"
+  },
+  {
+    "name": "Quest: Aging Fur Trapper (Step 12)",
+    "icon": "/images/items/fur_trapper_horse_crate.png",
+    "category": "items",
+    "details": [
+      "Contains: Fur Trapper Horse (Mount)"
+    ],
+    "search": "quest: aging fur trapper (step 12) contains: fur trapper horse (mount)"
+  },
+  {
+    "name": "Herbalism",
+    "icon": "/images/items/gin_berry.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item"
+    ],
+    "search": "herbalism cooking - item"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Event Quest: Slothful Request",
+    "icon": "/images/items/gluttonous_elven_stash.png",
+    "category": "items",
+    "details": [
+      "Open to receive: Voodoo Essence (100)"
+    ],
+    "search": "(event: winterforge 2023) event quest: slothful request open to receive: voodoo essence (100)"
+  },
+  {
+    "name": "(Event: Dryad Bloom Festival, 1st Anniversary) (Event: Dryad Bloom Festival, 2nd Anniversary) 6 Dryad Blossoms - Purchase from NPC Linden",
+    "icon": "/images/items/gold_firework.png",
+    "category": "items",
+    "details": [
+      "- Fire and celebrate Heartwood's first anniversary! Note: These are temporary event items that are only available while the Dryad Festival is active."
+    ],
+    "search": "(event: dryad bloom festival, 1st anniversary) (event: dryad bloom festival, 2nd anniversary) 6 dryad blossoms - purchase from npc linden - fire and celebrate heartwood's first anniversary! note: these are temporary event items that are only available while the dryad festival is active."
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/graceful_leather.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Armor"
+    ],
+    "search": "leatherworking - item leatherworking - armor"
+  },
+  {
+    "name": "(Event: Dryad Bloom Festival, 1st Anniversary) (Event: Dryad Bloom Festival, 2nd Anniversary) 3 Dryad Blossoms - Purchase from NPC Linden",
+    "icon": "/images/items/green_firework.png",
+    "category": "items",
+    "details": [
+      "- Fire and celebrate Heartwood's first anniversary! Note: These are temporary event items that are only available while the Dryad Festival is active."
+    ],
+    "search": "(event: dryad bloom festival, 1st anniversary) (event: dryad bloom festival, 2nd anniversary) 3 dryad blossoms - purchase from npc linden - fire and celebrate heartwood's first anniversary! note: these are temporary event items that are only available while the dryad festival is active."
+  },
+  {
+    "name": "Drop: Doe Buck Stag Elder Stag Boar Warthog Razorback Sheep Ram Black Sheep",
+    "icon": "/images/items/grizzled_steak.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item"
+    ],
+    "search": "drop: doe buck stag elder stag boar warthog razorback sheep ram black sheep cooking - item"
+  },
+  {
+    "name": "Drop: Stone Jaw Cutting Fish: Pebblefin Stoneglade Trout Thornspine Rockscale Bass",
+    "icon": "/images/items/hardened_scale.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item Carpentry - Fishing Rod Blacksmithing - Weapon Blacksmithing - Armor"
+    ],
+    "search": "drop: stone jaw cutting fish: pebblefin stoneglade trout thornspine rockscale bass cooking - item carpentry - fishing rod blacksmithing - weapon blacksmithing - armor"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/heavy_cotton_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Armor"
+    ],
+    "search": "tailoring - item tailoring - armor"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/heavy_leather_cord.png",
+    "category": "items",
+    "details": [
+      "Leatherworking"
+    ],
+    "search": "leatherworking - item leatherworking"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/hexweave_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "tailoring - item tailoring"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Tailoring - Event Item",
+    "icon": "/images/items/holiday_stocking.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Event Quest: Restocking Rush"
+    ],
+    "search": "(event: winterforge 2024) tailoring - event item (event: winterforge 2024) event quest: restocking rush"
+  },
+  {
+    "name": "Drop: Sheep Ram Greenflock Private Greenflock Sergeant 1 Greenflock Sergeant 2 Silk Worm Cave Rat Skeletal Worker 1c Skeletal Worker 2 Skeletal Miner Skeletal Dog Skeletal Mage Cave Bat Skeletal Prospector",
+    "icon": "/images/items/horse_mount_box.png",
+    "category": "items",
+    "details": [
+      "Contains one of several mounts: Blonde Horse Brown Horse Grey Horse Buckskin Horse Chestnut Horse Gypsy Horse White Horse Unicorn Wildhair Steed Nightmare"
+    ],
+    "search": "drop: sheep ram greenflock private greenflock sergeant 1 greenflock sergeant 2 silk worm cave rat skeletal worker 1c skeletal worker 2 skeletal miner skeletal dog skeletal mage cave bat skeletal prospector contains one of several mounts: blonde horse brown horse grey horse buckskin horse chestnut horse gypsy horse white horse unicorn wildhair steed nightmare"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Event Quest: Blessing Friends / Cursing Enemies Event Quest: Weary Plea",
+    "icon": "/images/items/humble_elven_stash.png",
+    "category": "items",
+    "details": [
+      "Open to receive: Voodoo Essence (50)"
+    ],
+    "search": "(event: winterforge 2023) event quest: blessing friends / cursing enemies event quest: weary plea open to receive: voodoo essence (50)"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Drop: Naughty Elf",
+    "icon": "/images/items/innocent_doll_pattern.png",
+    "category": "items",
+    "details": [
+      "Combine with Stolen Nice List to form: Blessed Doll"
+    ],
+    "search": "(event: winterforge 2023) drop: naughty elf combine with stolen nice list to form: blessed doll"
+  },
+  {
+    "name": "Blacksmithing - Item Container: Rusty Strongbox",
+    "icon": "/images/items/iron_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item container: rusty strongbox blacksmithing"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/iron_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item"
+  },
+  {
+    "name": "10 Lumin Crystal - Trade with NPC Zil",
+    "icon": "/images/items/kor_dye.png",
+    "category": "items",
+    "details": [
+      "- Clothing Dye (Cosmetic / Wardrobe)"
+    ],
+    "search": "10 lumin crystal - trade with npc zil - clothing dye (cosmetic / wardrobe)"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/lace_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "tailoring - item tailoring"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/leaf_minnow.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: White Fish Meat"
+    ],
+    "search": "fishing cut to receive one of: white fish meat"
+  },
+  {
+    "name": "N/A",
+    "icon": "/images/items/leather_oil.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Item"
+    ],
+    "search": "n/a leatherworking - item"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/light_cotton_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Armor"
+    ],
+    "search": "tailoring - item tailoring - armor"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/light_leather_cord.png",
+    "category": "items",
+    "details": [
+      "Leatherworking"
+    ],
+    "search": "leatherworking - item leatherworking"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/linen_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "tailoring - item tailoring"
+  },
+  {
+    "name": "Drop: Doe Buck Stag Boar Warthog Vulture Elder Stag Razorback Blight",
+    "icon": "/images/items/lost_hunters_sack.png",
+    "category": "items",
+    "details": [
+      "Contains: 50 - 100 Gold Contains one of: Love Letter Promise Ring Cutting Board Hunting Knife Hunter's Broadsword Vagabond Harp"
+    ],
+    "search": "drop: doe buck stag boar warthog vulture elder stag razorback blight contains: 50 - 100 gold contains one of: love letter promise ring cutting board hunting knife hunter's broadsword vagabond harp"
+  },
+  {
+    "name": "Drop: Stone Jaw Open container: Message in a Bottle",
+    "icon": "/images/items/barbed_chakram.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon"
+    ],
+    "search": "drop: stone jaw open container: message in a bottle blacksmithing - weapon"
+  },
+  {
+    "name": "Drop: Stone Jaw Open container: Message in a Bottle",
+    "icon": "/images/items/pearl_wand.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "drop: stone jaw open container: message in a bottle carpentry - weapon"
+  },
+  {
+    "name": "Drop: Stone Jaw Open container: Message in a Bottle",
+    "icon": "/images/items/sparkling_lasher.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "drop: stone jaw open container: message in a bottle carpentry - weapon"
+  },
+  {
+    "name": "Drop: Stone Jaw Open container: Message in a Bottle",
+    "icon": "/images/items/stonescale_brutalizer.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon"
+    ],
+    "search": "drop: stone jaw open container: message in a bottle blacksmithing - weapon"
+  },
+  {
+    "name": "Drop: Overseer",
+    "icon": "/images/items/lost_soul.png",
+    "category": "items",
+    "details": [
+      "Quest: Vengeance (Step 2)"
+    ],
+    "search": "drop: overseer quest: vengeance (step 2)"
+  },
+  {
+    "name": "Container: Lost Hunter's Sack",
+    "icon": "/images/items/love_letter.png",
+    "category": "items",
+    "details": [
+      "Quest: Final Words"
+    ],
+    "search": "container: lost hunter's sack quest: final words"
+  },
+  {
+    "name": "Quest: Vengeance (Step 1) Quest: Vengeance (Step 2) Quest: Obelisk Crystal",
+    "icon": "/images/items/lumin_crystal.png",
+    "category": "items",
+    "details": [
+      "Trade With NPC Zil: Lumin Crystal (10) Kor Dye (1) Quest: Skeletal Steed Blacksmithing - Weapon Carpentry - Weapon Carpentry - Armor"
+    ],
+    "search": "quest: vengeance (step 1) quest: vengeance (step 2) quest: obelisk crystal trade with npc zil: lumin crystal (10) kor dye (1) quest: skeletal steed blacksmithing - weapon carpentry - weapon carpentry - armor"
+  },
+  {
+    "name": "Mining - Nodes: Tungsten Platinum Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Worker 2 Cave Rat Skeletal Miner Skeletal Dog Cave Bat Skeletal Mage Skeletal Prospector Bones Canis Overseer",
+    "icon": "/images/items/lumin_shard.png",
+    "category": "items",
+    "details": [
+      "Quest: Obelisk Crystal Cooking - Item"
+    ],
+    "search": "mining - nodes: tungsten platinum drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal worker 2 cave rat skeletal miner skeletal dog cave bat skeletal mage skeletal prospector bones canis overseer quest: obelisk crystal cooking - item"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Hex (1)",
+    "icon": "/images/items/bone_splinter.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon"
+    ],
+    "search": "trade with npc zil: ancient hex (1) blacksmithing - weapon"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Hex (1)",
+    "icon": "/images/items/loyalty_of_canis.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "trade with npc zil: ancient hex (1) carpentry - weapon"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Hex (1)",
+    "icon": "/images/items/memoriam.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "trade with npc zil: ancient hex (1) carpentry - weapon"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Curse (1)",
+    "icon": "/images/items/overseers_grasp.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon"
+    ],
+    "search": "trade with npc zil: ancient curse (1) blacksmithing - weapon"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Hex (1)",
+    "icon": "/images/items/pillar_of_balance.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "trade with npc zil: ancient hex (1) carpentry - weapon"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Hex (1)",
+    "icon": "/images/items/radiant_protector.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Armor"
+    ],
+    "search": "trade with npc zil: ancient hex (1) carpentry - armor"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Curse (1)",
+    "icon": "/images/items/spinal_recurve.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "trade with npc zil: ancient curse (1) carpentry - weapon"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Hex (1)",
+    "icon": "/images/items/spinal_tap.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon"
+    ],
+    "search": "trade with npc zil: ancient hex (1) blacksmithing - weapon"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Curse (1)",
+    "icon": "/images/items/temporal_will.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "trade with npc zil: ancient curse (1) carpentry - weapon"
+  },
+  {
+    "name": "Trade With NPC Zil: Ancient Hex (1)",
+    "icon": "/images/items/wrath_of_canis.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon"
+    ],
+    "search": "trade with npc zil: ancient hex (1) blacksmithing - weapon"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2023) Container: Pumpkin Bag Royal Pumpkin Bag (Event: Pumpkin Festival 2024) Event Quest: Client List Container: Fake Pumpkin Bag",
+    "icon": "/images/items/magic_pumpkin.png",
+    "category": "items",
+    "details": [
+      "(Event: Pumpkin Festival 2024) Event Quest: Pumpkin Festival Fiasco (Event: Pumpkin Festival 2025) Event Quest: Definitely Darian - Consumable: Eating it will turn your skin green for 5 minutes. Note: During its effect some NPCs may talk to you in a different manner."
+    ],
+    "search": "(event: pumpkin festival 2023) container: pumpkin bag royal pumpkin bag (event: pumpkin festival 2024) event quest: client list container: fake pumpkin bag (event: pumpkin festival 2024) event quest: pumpkin festival fiasco (event: pumpkin festival 2025) event quest: definitely darian - consumable: eating it will turn your skin green for 5 minutes. note: during its effect some npcs may talk to you in a different manner."
+  },
+  {
+    "name": "Drop: Greenflock Private Greenflock Sergeant 1 Greenflock Sergeant 2 Greenflock Lieutenant Black Sheep",
+    "icon": "/images/items/black_wool_ushanka.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Armor"
+    ],
+    "search": "drop: greenflock private greenflock sergeant 1 greenflock sergeant 2 greenflock lieutenant black sheep tailoring - armor"
+  },
+  {
+    "name": "Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Worker 2",
+    "icon": "/images/items/bone_blade.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon"
+    ],
+    "search": "drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal worker 2 blacksmithing - weapon"
+  },
+  {
+    "name": "Drop: Skeletal Miner",
+    "icon": "/images/items/bone_harp.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "drop: skeletal miner carpentry - weapon"
+  },
+  {
+    "name": "Drop: Vulture Blight",
+    "icon": "/images/items/carrions_cry.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "drop: vulture blight carpentry - weapon"
+  },
+  {
+    "name": "Drop: Elder Stag",
+    "icon": "/images/items/elders_crown.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Armor"
+    ],
+    "search": "drop: elder stag blacksmithing - armor"
+  },
+  {
+    "name": "Woodcutting",
+    "icon": "/images/items/forest_guardian_headdress.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Armor"
+    ],
+    "search": "woodcutting tailoring - armor"
+  },
+  {
+    "name": "Container: Weapon Crate",
+    "icon": "/images/items/oppressor.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Weapon"
+    ],
+    "search": "container: weapon crate blacksmithing - weapon"
+  },
+  {
+    "name": "Container: Weapon Crate",
+    "icon": "/images/items/ritual_staff.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "container: weapon crate carpentry - weapon"
+  },
+  {
+    "name": "Drop: Warthog Razorback",
+    "icon": "/images/items/swine_fury.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Weapon"
+    ],
+    "search": "drop: warthog razorback carpentry - weapon"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Drop: Any Monster (Event: Winterforge 2025) Drop: Naughty Elf",
+    "icon": "/images/items/magic_snowflake.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Leatherworking - Event Item Tailoring - Event Item Carpentry - Event Item Blacksmithing - Event Item (Event: Winterforge 2025) Event Quest: Winterforge Memories Event Quest: The First Friend Event Quest: Blessed Friend, Cursed Foe Event Quest: Winterforge Wisdom Event Quest: Weaponized Snowballs"
+    ],
+    "search": "(event: winterforge 2024) drop: any monster (event: winterforge 2025) drop: naughty elf (event: winterforge 2024) leatherworking - event item tailoring - event item carpentry - event item blacksmithing - event item (event: winterforge 2025) event quest: winterforge memories event quest: the first friend event quest: blessed friend, cursed foe event quest: winterforge wisdom event quest: weaponized snowballs"
+  },
+  {
+    "name": "Unlocking a duplicate cosmetic",
+    "icon": "/images/items/magic_token.png",
+    "category": "items",
+    "details": [
+      "Redemption Uncertain (Coming Soon!)"
+    ],
+    "search": "unlocking a duplicate cosmetic redemption uncertain (coming soon!)"
+  },
+  {
+    "name": "Carpentry - Item",
+    "icon": "/images/items/mandrove_boards.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "carpentry - item carpentry"
+  },
+  {
+    "name": "Woodcutting - Nodes",
+    "icon": "/images/items/mandrove_log.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Item"
+    ],
+    "search": "woodcutting - nodes carpentry - item"
+  },
+  {
+    "name": "Carpentry - Item",
+    "icon": "/images/items/maple_boards.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "carpentry - item carpentry"
+  },
+  {
+    "name": "Woodcutting - Nodes",
+    "icon": "/images/items/maple_log.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Item"
+    ],
+    "search": "woodcutting - nodes carpentry - item"
+  },
+  {
+    "name": "Cooking - Item 12 Gold - Purchase from NPC Yorvik",
+    "icon": "/images/items/meatball_bait.png",
+    "category": "items",
+    "details": [
+      "- Fishing Bait"
+    ],
+    "search": "cooking - item 12 gold - purchase from npc yorvik - fishing bait"
+  },
+  {
+    "name": "Drop: Sheep Ram Black Sheep",
+    "icon": "/images/items/medium_hide.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Item"
+    ],
+    "search": "drop: sheep ram black sheep leatherworking - item"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/message_in_a_bottle.png",
+    "category": "items",
+    "details": [
+      "Open to receive one of: Day Dreamer's Poem Sailor's Song Fisherman's Tale Barbed Chakram Lost Recipe: Pearl Wand Lost Recipe: Sparkling Lasher Lost Recipe: Stonescale Brutalizer"
+    ],
+    "search": "fishing open to receive one of: day dreamer's poem sailor's song fisherman's tale barbed chakram lost recipe: pearl wand lost recipe: sparkling lasher lost recipe: stonescale brutalizer"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/mystic_thread.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "tailoring - item tailoring"
+  },
+  {
+    "name": "Blacksmithing - Item",
+    "icon": "/images/items/mythril_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item blacksmithing"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/mythril_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2025) 25 Pumpkin Spice - Purchase from NPC Pumpkin Cauldron",
+    "icon": "/images/items/nightshade_pumpkin.png",
+    "category": "items",
+    "details": [
+      "(Event: Pumpkin Festival 2025) Event Quest: Not Darian - Consumable: Eating it will turn your skin purple for 5 minutes. Note: During its effect some NPCs may talk to you in a different manner."
+    ],
+    "search": "(event: pumpkin festival 2025) 25 pumpkin spice - purchase from npc pumpkin cauldron (event: pumpkin festival 2025) event quest: not darian - consumable: eating it will turn your skin purple for 5 minutes. note: during its effect some npcs may talk to you in a different manner."
+  },
+  {
+    "name": "Carpentry - Item",
+    "icon": "/images/items/oak_boards.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "carpentry - item carpentry"
+  },
+  {
+    "name": "Woodcutting - Nodes",
+    "icon": "/images/items/oak_log.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Item"
+    ],
+    "search": "woodcutting - nodes carpentry - item"
+  },
+  {
+    "name": "Blacksmithing - Item",
+    "icon": "/images/items/obsidian_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item blacksmithing"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/obsidian_fragments.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Item"
+    ],
+    "search": "mining - nodes tailoring - item"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/obsidian_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/old_boot.png",
+    "category": "items",
+    "details": [
+      "- Junk"
+    ],
+    "search": "fishing - junk"
+  },
+  {
+    "name": "Cutting Fish: Stoneglade Trout Thornspine Bluegill Salmon",
+    "icon": "/images/items/orange_fish_meat.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item"
+    ],
+    "search": "cutting fish: stoneglade trout thornspine bluegill salmon cooking - item"
+  },
+  {
+    "name": "Carpentry - Item",
+    "icon": "/images/items/palm_boards.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "carpentry - item carpentry"
+  },
+  {
+    "name": "Woodcutting - Nodes",
+    "icon": "/images/items/palm_log.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Item"
+    ],
+    "search": "woodcutting - nodes carpentry - item"
+  },
+  {
+    "name": "Drop: Stone Jaw Open container: Clam",
+    "icon": "/images/items/pearl.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "drop: stone jaw open container: clam carpentry"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/pebblefin.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: White Fish Meat Hardened Scale"
+    ],
+    "search": "fishing cut to receive one of: white fish meat hardened scale"
+  },
+  {
+    "name": "Carpentry - Item",
+    "icon": "/images/items/pecan_boards.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "carpentry - item carpentry"
+  },
+  {
+    "name": "Woodcutting - Nodes",
+    "icon": "/images/items/pecan_log.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Item"
+    ],
+    "search": "woodcutting - nodes carpentry - item"
+  },
+  {
+    "name": "Carpentry - Item",
+    "icon": "/images/items/pine_boards.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "carpentry - item carpentry"
+  },
+  {
+    "name": "Woodcutting - Nodes",
+    "icon": "/images/items/pine_log.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Item"
+    ],
+    "search": "woodcutting - nodes carpentry - item"
+  },
+  {
+    "name": "Blacksmithing - Item",
+    "icon": "/images/items/platinum_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item blacksmithing"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/platinum_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/plush_leather.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Armor"
+    ],
+    "search": "leatherworking - item leatherworking - armor"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2023) Drop: Any Monster",
+    "icon": "/images/items/pumpkin_bag.png",
+    "category": "items",
+    "details": [
+      "Contains one of: Magic Pumpkin Pumpkin Necklace Pumpkin Ring Pumpkin Staff Pumpkin Festival Dye (Cosmetic / Wardrobe) Pumpkin Hat (Cosmetic / Wardrobe) Spectral Steed (Mount)"
+    ],
+    "search": "(event: pumpkin festival 2023) drop: any monster contains one of: magic pumpkin pumpkin necklace pumpkin ring pumpkin staff pumpkin festival dye (cosmetic / wardrobe) pumpkin hat (cosmetic / wardrobe) spectral steed (mount)"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2023) Container: Pumpkin Bag Royal Pumpkin Bag (Event: Pumpkin Festival 2024) Container: Fake Pumpkin Bag (Event: Pumpkin Festival 2025) 970 Gems - Purchase from the Gem Shop Drop: Any Monster",
+    "icon": "/images/items/pumpkin_festival_dye.png",
+    "category": "items",
+    "details": [
+      "- Clothing Dye (Cosmetic / Wardrobe)"
+    ],
+    "search": "(event: pumpkin festival 2023) container: pumpkin bag royal pumpkin bag (event: pumpkin festival 2024) container: fake pumpkin bag (event: pumpkin festival 2025) 970 gems - purchase from the gem shop drop: any monster - clothing dye (cosmetic / wardrobe)"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2025) Event Quest: Pumpkin Festival - Pumpkin Witch Drop: Any Monster",
+    "icon": "/images/items/pumpkin_spice.png",
+    "category": "items",
+    "details": [
+      "(Event: Pumpkin Festival 2025) Trade with NPC Pumpkin Cauldron during the Pumpkin Festival for: Magic Pumpkin Spooky Pumpkin Toadskin Pumpkin Nightshade Pumpkin"
+    ],
+    "search": "(event: pumpkin festival 2025) event quest: pumpkin festival - pumpkin witch drop: any monster (event: pumpkin festival 2025) trade with npc pumpkin cauldron during the pumpkin festival for: magic pumpkin spooky pumpkin toadskin pumpkin nightshade pumpkin"
+  },
+  {
+    "name": "(Event: Dryad Bloom Festival, 1st Anniversary) (Event: Dryad Bloom Festival, 2nd Anniversary) 4 Dryad Blossoms - Purchase from NPC Linden",
+    "icon": "/images/items/purple_firework.png",
+    "category": "items",
+    "details": [
+      "- Fire and celebrate Heartwood's first anniversary! Note: These are temporary event items that are only available while the Dryad Festival is active."
+    ],
+    "search": "(event: dryad bloom festival, 1st anniversary) (event: dryad bloom festival, 2nd anniversary) 4 dryad blossoms - purchase from npc linden - fire and celebrate heartwood's first anniversary! note: these are temporary event items that are only available while the dryad festival is active."
+  },
+  {
+    "name": "Blacksmithing - Item",
+    "icon": "/images/items/radium_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item blacksmithing"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/radium_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item"
+  },
+  {
+    "name": "Drop: Ram",
+    "icon": "/images/items/ram_horn.png",
+    "category": "items",
+    "details": [
+      "Quest: Aging Fur Trapper (Step 12)"
+    ],
+    "search": "drop: ram quest: aging fur trapper (step 12)"
+  },
+  {
+    "name": "Drop: Cave Rat",
+    "icon": "/images/items/rat_tail.png",
+    "category": "items",
+    "details": [
+      "Quest: Aging Fur Trapper (Step 9)"
+    ],
+    "search": "drop: cave rat quest: aging fur trapper (step 9)"
+  },
+  {
+    "name": "1 Lumin Crystal - Purchase from NPC Zil",
+    "icon": "/images/items/blood_offering.png",
+    "category": "items",
+    "details": [
+      "- Learn once to unlock ability to craft Blood Offering"
+    ],
+    "search": "1 lumin crystal - purchase from npc zil - learn once to unlock ability to craft blood offering"
+  },
+  {
+    "name": "1200 Gold - Purchase from NPC Yeddy after completion of Quest: Salty Angler (Step 1)",
+    "icon": "/images/items/foul_blood_bait.png",
+    "category": "items",
+    "details": [
+      "- Learn once to unlock ability to craft Foul Blood Bait"
+    ],
+    "search": "1200 gold - purchase from npc yeddy after completion of quest: salty angler (step 1) - learn once to unlock ability to craft foul blood bait"
+  },
+  {
+    "name": "2 Lumin Crystals - Purchase from NPC Zil",
+    "icon": "/images/items/soul_offering.png",
+    "category": "items",
+    "details": [
+      "- Learn once to unlock ability to craft Soul Offering"
+    ],
+    "search": "2 lumin crystals - purchase from npc zil - learn once to unlock ability to craft soul offering"
+  },
+  {
+    "name": "1200 Gold - Purchase from NPC Yeddy after completion of Quest: Salty Angler (Step 1)",
+    "icon": "/images/items/spectral_fish_bait.png",
+    "category": "items",
+    "details": [
+      "- Learn once to unlock ability to craft Spectral Fish Bait"
+    ],
+    "search": "1200 gold - purchase from npc yeddy after completion of quest: salty angler (step 1) - learn once to unlock ability to craft spectral fish bait"
+  },
+  {
+    "name": "3000 Gold - Purchase from NPC Yeddy after completion of Quest: Salty Angler (Step 1)",
+    "icon": "/images/items/stone_jaw_offering.png",
+    "category": "items",
+    "details": [
+      "- Learn once to unlock ability to craft River Guardian Offering"
+    ],
+    "search": "3000 gold - purchase from npc yeddy after completion of quest: salty angler (step 1) - learn once to unlock ability to craft river guardian offering"
+  },
+  {
+    "name": "(Event: Dryad Bloom Festival, 1st Anniversary) (Event: Dryad Bloom Festival, 2nd Anniversary) 3 Dryad Blossoms - Purchase from NPC Linden",
+    "icon": "/images/items/red_firework.png",
+    "category": "items",
+    "details": [
+      "- Fire and celebrate Heartwood's first anniversary! Note: These are temporary event items that are only available while the Dryad Festival is active."
+    ],
+    "search": "(event: dryad bloom festival, 1st anniversary) (event: dryad bloom festival, 2nd anniversary) 3 dryad blossoms - purchase from npc linden - fire and celebrate heartwood's first anniversary! note: these are temporary event items that are only available while the dryad festival is active."
+  },
+  {
+    "name": "(Event: Winterforge 2023) Event Quest: Reindeer Headdress",
+    "icon": "/images/items/reindeer_headdress_giftbox.png",
+    "category": "items",
+    "details": [
+      "Open to receive: Reindeer Headdress (Cosmetic / Wardrobe)"
+    ],
+    "search": "(event: winterforge 2023) event quest: reindeer headdress open to receive: reindeer headdress (cosmetic / wardrobe)"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/river_guardian_offering.png",
+    "category": "items",
+    "details": [
+      "Monster Bait for Stone Jaw"
+    ],
+    "search": "cooking - item monster bait for stone jaw"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/river_koi.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: Shiny Scale White Fish Meat"
+    ],
+    "search": "fishing cut to receive one of: shiny scale white fish meat"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/rockscale_bass.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: Hardened Scale White Fish Meat"
+    ],
+    "search": "fishing cut to receive one of: hardened scale white fish meat"
+  },
+  {
+    "name": "Drop: Bunny Jackrabbit Cave Rat Cave Bat",
+    "icon": "/images/items/rodent_pelt.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Item Quest: Aging Fur Trapper (Step 1)"
+    ],
+    "search": "drop: bunny jackrabbit cave rat cave bat leatherworking - item quest: aging fur trapper (step 1)"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2023) Drop: Any Monster",
+    "icon": "/images/items/royal_pumpkin_bag.png",
+    "category": "items",
+    "details": [
+      "Contains one of: Magic Pumpkin Pumpkin Necklace Pumpkin Ring Pumpkin Staff Pumpkin Festival Dye (Cosmetic / Wardrobe) Pumpkin Hat (Cosmetic / Wardrobe) Spectral Steed (Mount)"
+    ],
+    "search": "(event: pumpkin festival 2023) drop: any monster contains one of: magic pumpkin pumpkin necklace pumpkin ring pumpkin staff pumpkin festival dye (cosmetic / wardrobe) pumpkin hat (cosmetic / wardrobe) spectral steed (mount)"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/rugged_leather.png",
+    "category": "items",
+    "details": [
+      "Leatherworking"
+    ],
+    "search": "leatherworking - item leatherworking"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/runeweave_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "tailoring - item tailoring"
+  },
+  {
+    "name": "Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Worker 2",
+    "icon": "/images/items/rusty_key.png",
+    "category": "items",
+    "details": [
+      "Unlocks: Rusty Strongbox"
+    ],
+    "search": "drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal worker 2 unlocks: rusty strongbox"
+  },
+  {
+    "name": "Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Worker 2",
+    "icon": "/images/items/rusty_strongbox.png",
+    "category": "items",
+    "details": [
+      "Contains: 50 - 100 Gold Contains one of: Copper Bar Iron Bar Steel Bar Camping Knife Blessed Cudgel Battered Longsword Nimble Harp Mining Helmet Mining Boots Ancient Glaive"
+    ],
+    "search": "drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal worker 2 contains: 50 - 100 gold contains one of: copper bar iron bar steel bar camping knife blessed cudgel battered longsword nimble harp mining helmet mining boots ancient glaive"
+  },
+  {
+    "name": "Open container: Message in a Bottle",
+    "icon": "/images/items/sailors_song.png",
+    "category": "items",
+    "details": [
+      "Combine with: Day Dreamer's Poem Fisherman's Tale To Form: Salty Anthology"
+    ],
+    "search": "open container: message in a bottle combine with: day dreamer's poem fisherman's tale to form: salty anthology"
+  },
+  {
+    "name": "Combine: Day Dreamer's Poem Sailor's Song Fisherman's Tale",
+    "icon": "/images/items/salty_anthology.png",
+    "category": "items",
+    "details": [
+      "Quest: Salty Angler Cooking - Item"
+    ],
+    "search": "combine: day dreamer's poem sailor's song fisherman's tale quest: salty angler cooking - item"
+  },
+  {
+    "name": "(Event: Dryad Bloom Festival, 2nd Anniversary) Event Quest: Dryad Bloom Festival",
+    "icon": "/images/items/second_starbloom_crown_giftbox.png",
+    "category": "items",
+    "details": [
+      "Open to receive: Second Starbloom Crown (Cosmetic / Wardrobe)"
+    ],
+    "search": "(event: dryad bloom festival, 2nd anniversary) event quest: dryad bloom festival open to receive: second starbloom crown (cosmetic / wardrobe)"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/shimmerling.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: White Fish Meat Shiny Scale"
+    ],
+    "search": "fishing cut to receive one of: white fish meat shiny scale"
+  },
+  {
+    "name": "Drop: Stone Jaw Cutting Fish: Shimmerling River Koi",
+    "icon": "/images/items/shiny_scale.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item Carpentry - Weapon Carpentry - Armor"
+    ],
+    "search": "drop: stone jaw cutting fish: shimmerling river koi cooking - item carpentry - weapon carpentry - armor"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Blacksmithing - Event Item",
+    "icon": "/images/items/shiny_tambourine.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Event Quest: Making Music"
+    ],
+    "search": "(event: winterforge 2024) blacksmithing - event item (event: winterforge 2024) event quest: making music"
+  },
+  {
+    "name": "Drop: Silk Worm Baby Silk Worm",
+    "icon": "/images/items/silk.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "drop: silk worm baby silk worm tailoring"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/silk_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "tailoring - item tailoring"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/silk_thread.png",
+    "category": "items",
+    "details": [
+      "Tailoring"
+    ],
+    "search": "tailoring - item tailoring"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Drop: Naughty Elf",
+    "icon": "/images/items/sinful_doll_pattern.png",
+    "category": "items",
+    "details": [
+      "Combine with: Stolen Naughty List to form: Cursed Doll"
+    ],
+    "search": "(event: winterforge 2023) drop: naughty elf combine with: stolen naughty list to form: cursed doll"
+  },
+  {
+    "name": "Quest: Skeletal Steed",
+    "icon": "/images/items/skeletal_steed_crate.png",
+    "category": "items",
+    "details": [
+      "Contains: Skeletal Steed (Mount)"
+    ],
+    "search": "quest: skeletal steed contains: skeletal steed (mount)"
+  },
+  {
+    "name": "Drop: Bunny Jackrabbit Vulture Blight Cave Bat Cave Rat",
+    "icon": "/images/items/small_game_meat.png",
+    "category": "items",
+    "details": [
+      "Quest: Aging Fur Trapper (Step 2) Cooking - Item"
+    ],
+    "search": "drop: bunny jackrabbit vulture blight cave bat cave rat quest: aging fur trapper (step 2) cooking - item"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Carpentry - Event Item",
+    "icon": "/images/items/snow_globe.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Event Quest: Globe Getter"
+    ],
+    "search": "(event: winterforge 2024) carpentry - event item (event: winterforge 2024) event quest: globe getter"
+  },
+  {
+    "name": "Drop: Doe Buck Stag Boar Warthog Elder Stag Razorback",
+    "icon": "/images/items/soft_hide.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Item Quest: Aging Fur Trapper (Step 3)"
+    ],
+    "search": "drop: doe buck stag boar warthog elder stag razorback leatherworking - item quest: aging fur trapper (step 3)"
+  },
+  {
+    "name": "Cooking - Item 1 Lumin Crystal - Trade with NPC Zil",
+    "icon": "/images/items/soul_offering.png",
+    "category": "items",
+    "details": [
+      "Monster Bait for Overseer"
+    ],
+    "search": "cooking - item 1 lumin crystal - trade with npc zil monster bait for overseer"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/spectral_fish_bait.png",
+    "category": "items",
+    "details": [
+      "- Fishing Bait"
+    ],
+    "search": "cooking - item - fishing bait"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2025) 5 Pumpkin Spice - Purchase from NPC Pumpkin Cauldron",
+    "icon": "/images/items/spooky_pumpkin.png",
+    "category": "items",
+    "details": [
+      "(Event: Pumpkin Festival 2025) Event Quest: Probably Darian - Consumable: Eating it will turn your skin ghostly white for 5 minutes. Note: During its effect some NPCs may talk to you in a different manner."
+    ],
+    "search": "(event: pumpkin festival 2025) 5 pumpkin spice - purchase from npc pumpkin cauldron (event: pumpkin festival 2025) event quest: probably darian - consumable: eating it will turn your skin ghostly white for 5 minutes. note: during its effect some npcs may talk to you in a different manner."
+  },
+  {
+    "name": "Drop: Stag Elder Stag",
+    "icon": "/images/items/stag_rack.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Armor Quest: Aging Fur Trapper (Step 4)"
+    ],
+    "search": "drop: stag elder stag blacksmithing - armor quest: aging fur trapper (step 4)"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/steak_bites.png",
+    "category": "items",
+    "details": [
+      "- Fishing Bait"
+    ],
+    "search": "cooking - item - fishing bait"
+  },
+  {
+    "name": "Blacksmithing - Item Container: Rusty Strongbox",
+    "icon": "/images/items/steel_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item container: rusty strongbox blacksmithing"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Drop: Naughty Elf",
+    "icon": "/images/items/stolen_naughty_list.png",
+    "category": "items",
+    "details": [
+      "Combine with Sinful Doll Pattern to form: Cursed Doll"
+    ],
+    "search": "(event: winterforge 2023) drop: naughty elf combine with sinful doll pattern to form: cursed doll"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Drop: Naughty Elf",
+    "icon": "/images/items/stolen_nice_list.png",
+    "category": "items",
+    "details": [
+      "Combine with Innocent Doll Pattern to form: Blessed Doll"
+    ],
+    "search": "(event: winterforge 2023) drop: naughty elf combine with innocent doll pattern to form: blessed doll"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/stoneglade_trout.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: Orange Fish Meat Hardened Scale"
+    ],
+    "search": "fishing cut to receive one of: orange fish meat hardened scale"
+  },
+  {
+    "name": "Leatherworking - Item",
+    "icon": "/images/items/sturdy_leather.png",
+    "category": "items",
+    "details": [
+      "Leatherworking"
+    ],
+    "search": "leatherworking - item leatherworking"
+  },
+  {
+    "name": "Cooking - Item Quest: Salty Angler",
+    "icon": "/images/items/sweet_fish_paste.png",
+    "category": "items",
+    "details": [
+      "- Fishing Bait"
+    ],
+    "search": "cooking - item quest: salty angler - fishing bait"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/sweetwater_catfish.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: Fish Barb White Fish Meat"
+    ],
+    "search": "fishing cut to receive one of: fish barb white fish meat"
+  },
+  {
+    "name": "Drop: Cave Bat",
+    "icon": "/images/items/tattered_curse_(piece_1).png",
+    "category": "items",
+    "details": [
+      "Combine with 3 other Tattered Curse Pieces to form: Ancient Curse"
+    ],
+    "search": "drop: cave bat combine with 3 other tattered curse pieces to form: ancient curse"
+  },
+  {
+    "name": "Drop: Cave Bat",
+    "icon": "/images/items/tattered_curse_(piece_2).png",
+    "category": "items",
+    "details": [
+      "Combine with 3 other Tattered Curse Pieces to form: Ancient Curse"
+    ],
+    "search": "drop: cave bat combine with 3 other tattered curse pieces to form: ancient curse"
+  },
+  {
+    "name": "Drop: Skeletal Mage Skeletal Prospector",
+    "icon": "/images/items/tattered_curse_(piece_3).png",
+    "category": "items",
+    "details": [
+      "Combine with 3 other Tattered Curse Pieces to form: Ancient Curse"
+    ],
+    "search": "drop: skeletal mage skeletal prospector combine with 3 other tattered curse pieces to form: ancient curse"
+  },
+  {
+    "name": "Drop: Skeletal Mage Skeletal Prospector",
+    "icon": "/images/items/tattered_curse_(piece_4).png",
+    "category": "items",
+    "details": [
+      "Combine with 3 other Tattered Curse Pieces to form: Ancient Curse"
+    ],
+    "search": "drop: skeletal mage skeletal prospector combine with 3 other tattered curse pieces to form: ancient curse"
+  },
+  {
+    "name": "Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Worker 2 Cave Rat",
+    "icon": "/images/items/tattered_hex_(piece_1).png",
+    "category": "items",
+    "details": [
+      "Combine with 3 other Tattered Hex Pieces to form: Ancient Hex"
+    ],
+    "search": "drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal worker 2 cave rat combine with 3 other tattered hex pieces to form: ancient hex"
+  },
+  {
+    "name": "Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Worker 2 Cave Rat",
+    "icon": "/images/items/tattered_hex_(piece_2).png",
+    "category": "items",
+    "details": [
+      "Combine with 3 other Tattered Hex Pieces to form: Ancient Hex"
+    ],
+    "search": "drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal worker 2 cave rat combine with 3 other tattered hex pieces to form: ancient hex"
+  },
+  {
+    "name": "Drop: Skeletal Miner Skeletal Dog Bones",
+    "icon": "/images/items/tattered_hex_(piece_3).png",
+    "category": "items",
+    "details": [
+      "Combine with 3 other Tattered Hex Pieces to form: Ancient Hex"
+    ],
+    "search": "drop: skeletal miner skeletal dog bones combine with 3 other tattered hex pieces to form: ancient hex"
+  },
+  {
+    "name": "Drop: Skeletal Miner Skeletal Dog Bones",
+    "icon": "/images/items/tattered_hex_(piece_4).png",
+    "category": "items",
+    "details": [
+      "Combine with 3 other Tattered Hex Pieces to form: Ancient Hex"
+    ],
+    "search": "drop: skeletal miner skeletal dog bones combine with 3 other tattered hex pieces to form: ancient hex"
+  },
+  {
+    "name": "Unknown",
+    "icon": "/images/items/thick_hide.png",
+    "category": "items",
+    "details": [
+      "Leatherworking - Item"
+    ],
+    "search": "unknown leatherworking - item"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/thornspine.png",
+    "category": "items",
+    "details": [
+      "Cut to receive one of: Orange Fish Meat Fish Barb Hardened Scale"
+    ],
+    "search": "fishing cut to receive one of: orange fish meat fish barb hardened scale"
+  },
+  {
+    "name": "14 Gold - Purchase from NPC Ezra Tailoring - Item",
+    "icon": "/images/items/thread.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Armor Leatherworking - Armor"
+    ],
+    "search": "14 gold - purchase from npc ezra tailoring - item tailoring - armor leatherworking - armor"
+  },
+  {
+    "name": "Blacksmithing - Item",
+    "icon": "/images/items/tin_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item blacksmithing"
+  },
+  {
+    "name": "Fishing",
+    "icon": "/images/items/tin_can.png",
+    "category": "items",
+    "details": [
+      "Worm (varying amounts)"
+    ],
+    "search": "fishing worm (varying amounts)"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/tin_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2025) 10 Pumpkin Spice - Purchase from NPC Pumpkin Cauldron",
+    "icon": "/images/items/toadskin_pumpkin.png",
+    "category": "items",
+    "details": [
+      "(Event: Pumpkin Festival 2025) Event Quest: Maybe Darian - Consumable: Eating it will turn your skin goldish yellow for 5 minutes. Note: During its effect some NPCs may talk to you in a different manner."
+    ],
+    "search": "(event: pumpkin festival 2025) 10 pumpkin spice - purchase from npc pumpkin cauldron (event: pumpkin festival 2025) event quest: maybe darian - consumable: eating it will turn your skin goldish yellow for 5 minutes. note: during its effect some npcs may talk to you in a different manner."
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2024) Container: Fake Pumpkin Bag",
+    "icon": "/images/items/torn_client_list_(piece_1).png",
+    "category": "items",
+    "details": [
+      "Combine with: Torn Client List (Piece 2) To form: Darian Client List"
+    ],
+    "search": "(event: pumpkin festival 2024) container: fake pumpkin bag combine with: torn client list (piece 2) to form: darian client list"
+  },
+  {
+    "name": "(Event: Pumpkin Festival 2024) Container: Fake Pumpkin Bag",
+    "icon": "/images/items/torn_client_list_(piece_2).png",
+    "category": "items",
+    "details": [
+      "Combine with: Torn Client List (Piece 1) To form: Darian Client List"
+    ],
+    "search": "(event: pumpkin festival 2024) container: fake pumpkin bag combine with: torn client list (piece 1) to form: darian client list"
+  },
+  {
+    "name": "Blacksmithing - Item",
+    "icon": "/images/items/tungsten_bar.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing"
+    ],
+    "search": "blacksmithing - item blacksmithing"
+  },
+  {
+    "name": "Mining - Nodes",
+    "icon": "/images/items/tungsten_ore.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "mining - nodes blacksmithing - item"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Drop: Naughty Elf",
+    "icon": "/images/items/voodoo_essence.png",
+    "category": "items",
+    "details": [
+      "Event Quest: Reindeer Headdress Event Quest: Winterforge Reindeer"
+    ],
+    "search": "(event: winterforge 2023) drop: naughty elf event quest: reindeer headdress event quest: winterforge reindeer"
+  },
+  {
+    "name": "Cooking - Item",
+    "icon": "/images/items/vulture_guardian_offering.png",
+    "category": "items",
+    "details": [
+      "Monster Bait for Vulture"
+    ],
+    "search": "cooking - item monster bait for vulture"
+  },
+  {
+    "name": "500,000 Gold - Purchase from NPC Ezra",
+    "icon": "/images/items/wanderers_horse_crate.png",
+    "category": "items",
+    "details": [
+      "Contains: Wanderer's Horse (Mount)"
+    ],
+    "search": "500,000 gold - purchase from npc ezra contains: wanderer's horse (mount)"
+  },
+  {
+    "name": "Drop: Skeletal Worker 1a Skeletal Worker 1b Skeletal Worker 1c Skeletal Worker 2 Cave Rat Skeletal Miner Skeletal Dog Skeletal Mage Cave Bat Skeletal Prospector Bones Canis Overseer",
+    "icon": "/images/items/weapon_crate.png",
+    "category": "items",
+    "details": [
+      "Contains: 50 - 100 Gold Contains one of: Blessed Cudgel Battered Longsword Magic Recipe: Oppressor Magic Recipe: Ritual Staff Ceremonial Beads Ceremonial Crucifix Ancient Longsword"
+    ],
+    "search": "drop: skeletal worker 1a skeletal worker 1b skeletal worker 1c skeletal worker 2 cave rat skeletal miner skeletal dog skeletal mage cave bat skeletal prospector bones canis overseer contains: 50 - 100 gold contains one of: blessed cudgel battered longsword magic recipe: oppressor magic recipe: ritual staff ceremonial beads ceremonial crucifix ancient longsword"
+  },
+  {
+    "name": "5000 Gold - Purchase from NPC Yeddy after completion of Quest: Salty Angler (Step 1)",
+    "icon": "/images/items/hardened_scale_shield.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Armor"
+    ],
+    "search": "5000 gold - purchase from npc yeddy after completion of quest: salty angler (step 1) blacksmithing - armor"
+  },
+  {
+    "name": "5000 Gold - Purchase from NPC Yeddy after completion of Quest: Salty Angler (Step 1)",
+    "icon": "/images/items/shiny_scale_shield.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Armor"
+    ],
+    "search": "5000 gold - purchase from npc yeddy after completion of quest: salty angler (step 1) carpentry - armor"
+  },
+  {
+    "name": "5000 Gold - Purchase from NPC Yeddy after completion of Quest: Salty Angler (Step 1)",
+    "icon": "/images/items/spiked_scale_shield.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Armor"
+    ],
+    "search": "5000 gold - purchase from npc yeddy after completion of quest: salty angler (step 1) carpentry - armor"
+  },
+  {
+    "name": "Cutting Fish: Leaf Minnow Pebblefin Shimmerling Sweetwater Catfish Rockscale Bass River Koi",
+    "icon": "/images/items/white_fish_meat.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item"
+    ],
+    "search": "cutting fish: leaf minnow pebblefin shimmerling sweetwater catfish rockscale bass river koi cooking - item"
+  },
+  {
+    "name": "Herbalism",
+    "icon": "/images/items/wild_turnip.png",
+    "category": "items",
+    "details": [
+      "Cooking - Item"
+    ],
+    "search": "herbalism cooking - item"
+  },
+  {
+    "name": "Carpentry - Item",
+    "icon": "/images/items/willow_boards.png",
+    "category": "items",
+    "details": [
+      "Carpentry"
+    ],
+    "search": "carpentry - item carpentry"
+  },
+  {
+    "name": "Woodcutting - Nodes",
+    "icon": "/images/items/willow_log.png",
+    "category": "items",
+    "details": [
+      "Carpentry - Item"
+    ],
+    "search": "woodcutting - nodes carpentry - item"
+  },
+  {
+    "name": "(Event: Winterforge 2024) (Event: Winterforge 2025) Container: Winterforge Giftbox 970 Gems - Purchase from the Gem Shop Available only during the event !",
+    "icon": "/images/items/winterforge_dye.png",
+    "category": "items",
+    "details": [
+      "- Clothing Dye (Cosmetic / Wardrobe)"
+    ],
+    "search": "(event: winterforge 2024) (event: winterforge 2025) container: winterforge giftbox 970 gems - purchase from the gem shop available only during the event ! - clothing dye (cosmetic / wardrobe)"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Bestow Blessing (Event: Winterforge 2025) Event Quest: The First Friend Event Quest: Blessed Friend, Cursed Foe",
+    "icon": "/images/items/winterforge_giftbox.png",
+    "category": "items",
+    "details": [
+      "Contains one of: Blacksmithing - Item Blacksmithing Bars or Basic Crafted Item Tailoring - Item Tailoring Fabrics or Basic Crafted Item Leatherworking - Item Leatherworking Leathers or Basic Crafted Item Carpentry - Item Carpentry Boards or Basic Crafted Item Coal Ragged Hat Tin Bucket Hat Fishing Boots Cutting Board Razorback Mauler Scavenger's Song Carrion's Cry Mining Helmet Pearl Wand Oppressor Ancient Glaive Ritual Staff Boar Guardian Offering Deer Guardian Offering Vulture Guardian Offering River Guardian Offering Lumin Shard Lumin Crystal Clam Cubes Spectral Fish Bait Foul Blood Bait Pearl Lost Hunter Sack Weapon Crate Rusty Key Winterforge Coal Necklace Winterforge Dye Iceridge (Mount)"
+    ],
+    "search": "(event: winterforge 2024) event quest: bestow blessing (event: winterforge 2025) event quest: the first friend event quest: blessed friend, cursed foe contains one of: blacksmithing - item blacksmithing bars or basic crafted item tailoring - item tailoring fabrics or basic crafted item leatherworking - item leatherworking leathers or basic crafted item carpentry - item carpentry boards or basic crafted item coal ragged hat tin bucket hat fishing boots cutting board razorback mauler scavenger's song carrion's cry mining helmet pearl wand oppressor ancient glaive ritual staff boar guardian offering deer guardian offering vulture guardian offering river guardian offering lumin shard lumin crystal clam cubes spectral fish bait foul blood bait pearl lost hunter sack weapon crate rusty key winterforge coal necklace winterforge dye iceridge (mount)"
+  },
+  {
+    "name": "(Event: Winterforge 2023) Event Quest: Winterforge Reindeer",
+    "icon": "/images/items/winterforge_reindeer_giftbox.png",
+    "category": "items",
+    "details": [
+      "Open to receive: Winterforge Reindeer (Mount)"
+    ],
+    "search": "(event: winterforge 2023) event quest: winterforge reindeer open to receive: winterforge reindeer (mount)"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Leatherworking - Event Item",
+    "icon": "/images/items/winterforge_tinsel.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Event Quest: Ornament Orders"
+    ],
+    "search": "(event: winterforge 2024) leatherworking - event item (event: winterforge 2024) event quest: ornament orders"
+  },
+  {
+    "name": "No Longer Acquired",
+    "icon": "/images/items/wood.png",
+    "category": "items",
+    "details": [
+      "Blacksmithing - Item"
+    ],
+    "search": "no longer acquired blacksmithing - item"
+  },
+  {
+    "name": "No Longer Acquired",
+    "icon": "/images/items/wood_boards.png",
+    "category": "items",
+    "details": [
+      "N/A"
+    ],
+    "search": "no longer acquired n/a"
+  },
+  {
+    "name": "Drop: Woodpecker",
+    "icon": "/images/items/woodpecker_beak.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Armor"
+    ],
+    "search": "drop: woodpecker tailoring - armor"
+  },
+  {
+    "name": "Drop: Sheep Ram Greenflock Private Greenflock Sergeant 1 Greenflock Sergeant 2 Greenflock Lieutenant",
+    "icon": "/images/items/wool.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Item"
+    ],
+    "search": "drop: sheep ram greenflock private greenflock sergeant 1 greenflock sergeant 2 greenflock lieutenant tailoring - item"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/wool_fabric.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Armor"
+    ],
+    "search": "tailoring - item tailoring - armor"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Holiday Hire",
+    "icon": "/images/items/holiday_stocking.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Event Quest: Stocking Starter"
+    ],
+    "search": "(event: winterforge 2024) event quest: holiday hire (event: winterforge 2024) event quest: stocking starter"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Winterforge Work",
+    "icon": "/images/items/shiny_tambourine.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Event Quest: Jolly Jam"
+    ],
+    "search": "(event: winterforge 2024) event quest: winterforge work (event: winterforge 2024) event quest: jolly jam"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Merry Magic",
+    "icon": "/images/items/snow_globe.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Event Quest: Holiday Homesick"
+    ],
+    "search": "(event: winterforge 2024) event quest: merry magic (event: winterforge 2024) event quest: holiday homesick"
+  },
+  {
+    "name": "(Event: Winterforge 2024) Event Quest: Official Order",
+    "icon": "/images/items/winterforge_tinsel.png",
+    "category": "items",
+    "details": [
+      "(Event: Winterforge 2024) Event Quest: Tinsel Time"
+    ],
+    "search": "(event: winterforge 2024) event quest: official order (event: winterforge 2024) event quest: tinsel time"
+  },
+  {
+    "name": "- Picked from ground 4 Gold- Purchase from NPC Yorvik Open Container: Tin Can",
+    "icon": "/images/items/worm.png",
+    "category": "items",
+    "details": [
+      "- Fishing Bait"
+    ],
+    "search": "- picked from ground 4 gold- purchase from npc yorvik open container: tin can - fishing bait"
+  },
+  {
+    "name": "Tailoring - Item",
+    "icon": "/images/items/yarn.png",
+    "category": "items",
+    "details": [
+      "Tailoring - Armor Leatherworking - Armor"
+    ],
+    "search": "tailoring - item tailoring - armor leatherworking - armor"
+  }
+]

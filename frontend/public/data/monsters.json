@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Example 1",
+    "icon": null,
+    "category": "monsters",
+    "details": [],
+    "search": "example 1"
+  },
+  {
+    "name": "Example 2",
+    "icon": null,
+    "category": "monsters",
+    "details": [],
+    "search": "example 2"
+  },
+  {
+    "name": "Example 3",
+    "icon": null,
+    "category": "monsters",
+    "details": [],
+    "search": "example 3"
+  },
+  {
+    "name": "Example 4",
+    "icon": null,
+    "category": "monsters",
+    "details": [],
+    "search": "example 4"
+  },
+  {
+    "name": "0_1_Baby Silk Worm Baby Silk Worm Level 1 Stone Glade Silk Worm Area + Monster Notes Watch your step! These helpless creatures can be pretty tough to notice unless you're looking for them. If their larger relatives don't make you nervous, these worms can serve as a moderate source of silk. Baby Silk Worms do not attack and have very low health. Item Drops Silk",
+    "icon": "/images/monsters/silk.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_1_baby silk worm baby silk worm level 1 stone glade silk worm area + monster notes watch your step! these helpless creatures can be pretty tough to notice unless you're looking for them. if their larger relatives don't make you nervous, these worms can serve as a moderate source of silk. baby silk worms do not attack and have very low health. item drops silk"
+  },
+  {
+    "name": "0_1_Bunny Bunny Level 1 Oakwood Several Areas + Monster Notes A small, furry mammal with a pink nose and long ears. With a quick, agile hop, the bunny's fluffy tail bobs as it explores its surroundings with boundless energy and charm. Item Drops Rodent Pelt Small Game Meat Forest Critters Mount Box",
+    "icon": "/images/monsters/rodent_pelt.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_1_bunny bunny level 1 oakwood several areas + monster notes a small, furry mammal with a pink nose and long ears. with a quick, agile hop, the bunny's fluffy tail bobs as it explores its surroundings with boundless energy and charm. item drops rodent pelt small game meat forest critters mount box"
+  },
+  {
+    "name": "0_2_Jackrabbit Jackrabbit Level 2 - 4 Oakwood Rabbit Area Deer Area + Monster Notes A large, nimble hare with powerful legs. The Jackrabbit's sleek body darts across the landscape as its long ears keep it alert to the sounds of passing players. Item Drops Rodent Pelt Small Game Meat",
+    "icon": "/images/monsters/rodent_pelt.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_2_jackrabbit jackrabbit level 2 - 4 oakwood rabbit area deer area + monster notes a large, nimble hare with powerful legs. the jackrabbit's sleek body darts across the landscape as its long ears keep it alert to the sounds of passing players. item drops rodent pelt small game meat"
+  },
+  {
+    "name": "0_4_Doe Doe Level 4 - 6 Oakwood Deer Area + Monster Notes With a quiet, graceful step this shy female deer glides along grassy areas of Oakwood while her large, gentle eyes scan the surroundings and delicate ears twitch at the slightest rustle. Item Drops Grizzled Steak Soft Hide Lost Hunter's Sack Forest Critters Mount BoxArmor Drops Lumberjack Boots",
+    "icon": "/images/monsters/grizzled_steak.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_4_doe doe level 4 - 6 oakwood deer area + monster notes with a quiet, graceful step this shy female deer glides along grassy areas of oakwood while her large, gentle eyes scan the surroundings and delicate ears twitch at the slightest rustle. item drops grizzled steak soft hide lost hunter's sack forest critters mount boxarmor drops lumberjack boots"
+  },
+  {
+    "name": "0_7_Buck Buck Level 7 - 8 Oakwood Deer Area + Monster Notes This young male deer navigates with a confident, agile stride and with his budding antlers held high. Item Drops Grizzled Steak Soft Hide Lost Hunter's Sack Forest Critters Mount BoxArmor Drops Lumberjack BootsWeapon Drops Broken Stag Antler",
+    "icon": "/images/monsters/grizzled_steak.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_7_buck buck level 7 - 8 oakwood deer area + monster notes this young male deer navigates with a confident, agile stride and with his budding antlers held high. item drops grizzled steak soft hide lost hunter's sack forest critters mount boxarmor drops lumberjack bootsweapon drops broken stag antler"
+  },
+  {
+    "name": "0_9_Stag Stag Level 9 - 10 Oakwood Stag Area + Monster Notes A mature male deer distinguished by its impressive antlers and powerful physique. Item Drops Grizzled Steak Soft Hide Lost Hunter's Sack Stag Rack Forest Critters Mount BoxArmor Drops Lumberjack BootsWeapon Drops Broken Stag Antler",
+    "icon": "/images/monsters/grizzled_steak.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_9_stag stag level 9 - 10 oakwood stag area + monster notes a mature male deer distinguished by its impressive antlers and powerful physique. item drops grizzled steak soft hide lost hunter's sack stag rack forest critters mount boxarmor drops lumberjack bootsweapon drops broken stag antler"
+  },
+  {
+    "name": "0_10_Boar Boar Level 10 - 11 Oakwood Boar Area + Monster Notes A feral pig with sharp tusks and coarse hair. As you might expect, boars prefer the muddy expanse of the Swine Pits but they tend to stay clear of the Warthog area at the east end. Item Drops Boar Tusk Grizzled Steak Soft Hide Lost Hunter's Sack Forest Critters Mount BoxArmor Drops Lumberjack Boots Lumberjack HatWeapon Drops Shepherd Staff Razorback Mauler",
+    "icon": "/images/monsters/boar_tusk.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_10_boar boar level 10 - 11 oakwood boar area + monster notes a feral pig with sharp tusks and coarse hair. as you might expect, boars prefer the muddy expanse of the swine pits but they tend to stay clear of the warthog area at the east end. item drops boar tusk grizzled steak soft hide lost hunter's sack forest critters mount boxarmor drops lumberjack boots lumberjack hatweapon drops shepherd staff razorback mauler"
+  },
+  {
+    "name": "0_12_Warthog Warthog Level 12 - 13 Oakwood Warthog Area + Monster Notes An aggressive, muscular boar with distinct red eyes. Warthogs gather in the shady tree wrapped area at the east side of the Swine Pits. Item Drops Boar Tusk Grizzled Steak Soft Hide Lost Hunter's Sack Magic Recipe: Swine Fury Forest Critters Mount BoxArmor Drops Lumberjack Boots Lumberjack HatWeapon Drops Shepherd Staff Razorback Mauler",
+    "icon": "/images/monsters/boar_tusk.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_12_warthog warthog level 12 - 13 oakwood warthog area + monster notes an aggressive, muscular boar with distinct red eyes. warthogs gather in the shady tree wrapped area at the east side of the swine pits. item drops boar tusk grizzled steak soft hide lost hunter's sack magic recipe: swine fury forest critters mount boxarmor drops lumberjack boots lumberjack hatweapon drops shepherd staff razorback mauler"
+  },
+  {
+    "name": "0_13_Vulture Vulture Level 13 - 15 Oakwood Vulture Area + Monster Notes A large bird of prey known for its bald head and scavenging behavior. Some may take their proximity to the Bone Mines as a foreboding for what lurks inside. Item Drops Feather Small Game Meat Lost Hunter's Sack Magic Recipe: Carrion's Cry Forest Critters Mount BoxArmor Drops Lumberjack HatWeapon Drops Scavenger's Song",
+    "icon": "/images/monsters/feather.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_13_vulture vulture level 13 - 15 oakwood vulture area + monster notes a large bird of prey known for its bald head and scavenging behavior. some may take their proximity to the bone mines as a foreboding for what lurks inside. item drops feather small game meat lost hunter's sack magic recipe: carrion's cry forest critters mount boxarmor drops lumberjack hatweapon drops scavenger's song"
+  },
+  {
+    "name": "0_16_Skeletal Worker 1a Skeletal Worker 1a Level 16 - 17 Oakwood Outer Bone Mine Vulture Area + Monster Notes A bare-bones lesser skeleton that patrols outside the mine entrance in Oakwood. Despite its fragile appearance, this bag of bones is still plenty capable of inflicting damage on the ill-prepared. These skeletal workers seem to have an endless supply of small bones to throw at anyone who grabs their attention. Item Drops Bone Copper Ore Lumin Shard Rusty Key Tattered Hex (Piece 1) Tattered Hex (Piece 2) Magic Recipe: Bone Blade Rusty Strongbox Weapon CrateArmor Drops Mining Boots Mining HelmetWeapon Drops Battered Longsword Blessed Cudgel Camping Knife Nimble Harp Skeletal Dagger Skeletal StaffCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_16_skeletal worker 1a skeletal worker 1a level 16 - 17 oakwood outer bone mine vulture area + monster notes a bare-bones lesser skeleton that patrols outside the mine entrance in oakwood. despite its fragile appearance, this bag of bones is still plenty capable of inflicting damage on the ill-prepared. these skeletal workers seem to have an endless supply of small bones to throw at anyone who grabs their attention. item drops bone copper ore lumin shard rusty key tattered hex (piece 1) tattered hex (piece 2) magic recipe: bone blade rusty strongbox weapon cratearmor drops mining boots mining helmetweapon drops battered longsword blessed cudgel camping knife nimble harp skeletal dagger skeletal staffcosmetic drops skull cap"
+  },
+  {
+    "name": "0_17_Skeletal Worker 1b Skeletal Worker 1b Level 17 - 19 Bone Mines Entrance (Mid) + Monster Notes A slightly more daunting skeleton guarding the entry passage of the Bone Mines. These skeletal workers seem to have an endless supply of small bones to throw at anyone who grabs their attention. Item Drops Bone Copper Ore Lumin Shard Rusty Key Tattered Hex (Piece 1) Tattered Hex (Piece 2) Magic Recipe: Bone Blade Rusty Strongbox Weapon CrateArmor Drops Mining Boots Mining HelmetWeapon Drops Battered Longsword Blessed Cudgel Camping Knife Nimble Harp Skeletal Dagger Skeletal StaffCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_17_skeletal worker 1b skeletal worker 1b level 17 - 19 bone mines entrance (mid) + monster notes a slightly more daunting skeleton guarding the entry passage of the bone mines. these skeletal workers seem to have an endless supply of small bones to throw at anyone who grabs their attention. item drops bone copper ore lumin shard rusty key tattered hex (piece 1) tattered hex (piece 2) magic recipe: bone blade rusty strongbox weapon cratearmor drops mining boots mining helmetweapon drops battered longsword blessed cudgel camping knife nimble harp skeletal dagger skeletal staffcosmetic drops skull cap"
+  },
+  {
+    "name": "0_20_Sheep Sheep Level 20 - 22 Stone Glade Sheep Area + Monster Notes A large but gentle animal with a thick woolly coat, found in the fields of Stone Glade. The sheep will not attack unless provoked. Item Drops Grizzled Steak Horse Mount Box Medium Hide WoolWeapon Drops Greenflock Bow",
+    "icon": "/images/monsters/grizzled_steak.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_20_sheep sheep level 20 - 22 stone glade sheep area + monster notes a large but gentle animal with a thick woolly coat, found in the fields of stone glade. the sheep will not attack unless provoked. item drops grizzled steak horse mount box medium hide woolweapon drops greenflock bow"
+  },
+  {
+    "name": "0_20_Skeletal Worker 2 Skeletal Worker 2 Level 20 - 23 Bone Mines West Side (Top) West Side (Bottom) + Monster Notes A bony frame crowned by a vivid yellow mining helmet that stands out starkly against the darkness of the mines. These skeletal workers are known to carry a wide assortment of loot (see drops below). Item Drops Bone Copper Ore Horse Mount Box Lumin Shard Rusty Key Tattered Hex (Piece 1) Tattered Hex (Piece 2) Magic Recipe: Bone Blade Rusty Strongbox Weapon CrateArmor Drops Mining Boots Mining HelmetWeapon Drops Battered Longsword Blessed Cudgel Camping Knife Nimble Harp Skeletal Dagger Skeletal StaffCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_20_skeletal worker 2 skeletal worker 2 level 20 - 23 bone mines west side (top) west side (bottom) + monster notes a bony frame crowned by a vivid yellow mining helmet that stands out starkly against the darkness of the mines. these skeletal workers are known to carry a wide assortment of loot (see drops below). item drops bone copper ore horse mount box lumin shard rusty key tattered hex (piece 1) tattered hex (piece 2) magic recipe: bone blade rusty strongbox weapon cratearmor drops mining boots mining helmetweapon drops battered longsword blessed cudgel camping knife nimble harp skeletal dagger skeletal staffcosmetic drops skull cap"
+  },
+  {
+    "name": "0_22_Cave Rat Cave Rat Level 22 - 25 Bone Mines West Side (Mid) + Monster Notes A small and agile rodent with beady eyes, well-adapted to the darkness of the mines. The Cave Rat will not attack unless provoked. Item Drops Horse Mount Box Lumin Shard Rat Tail Rodent Pelt Small Game Meat Tattered Hex (Piece 1) Tattered Hex (Piece 2) Weapon CrateCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/horse_mount_box.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_22_cave rat cave rat level 22 - 25 bone mines west side (mid) + monster notes a small and agile rodent with beady eyes, well-adapted to the darkness of the mines. the cave rat will not attack unless provoked. item drops horse mount box lumin shard rat tail rodent pelt small game meat tattered hex (piece 1) tattered hex (piece 2) weapon cratecosmetic drops skull cap"
+  },
+  {
+    "name": "0_23_Greenflock Private Greenflock Private Level 23 - 25 Stone Glade Sheep Area + Monster Notes The lowest ranking Greenflock soldier equipped with a bow for ranged attack. Greenflock Private has a medium skin tone and wears a beret with blue tassel. Item Drops Horse Mount Box Wool Magic Recipe: Black Wool UshankaWeapon Drops Greenflock Bow",
+    "icon": "/images/monsters/horse_mount_box.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_23_greenflock private greenflock private level 23 - 25 stone glade sheep area + monster notes the lowest ranking greenflock soldier equipped with a bow for ranged attack. greenflock private has a medium skin tone and wears a beret with blue tassel. item drops horse mount box wool magic recipe: black wool ushankaweapon drops greenflock bow"
+  },
+  {
+    "name": "0_25_Skeletal Miner Skeletal Miner Level 25 - 27 Bone Mines West Side (Top) + Monster Notes An intimidating skeletal figure guarding entry to the Bone Mines west tunnels. The Skeletal Miner wields a pickaxe and occasionally strikes the ground with enough force to cause boulders to fall from above. Players are warned by a red circle before a boulder drops, giving them a chance to dodge. Item Drops Bone Copper Ore Horse Mount Box Lumin Shard Tattered Hex (Piece 3) Tattered Hex (Piece 4) Magic Recipe: Bone Harp Weapon CrateArmor Drops Mining Boots Mining HelmetWeapon Drops Skeletal Dagger Skeletal StaffCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_25_skeletal miner skeletal miner level 25 - 27 bone mines west side (top) + monster notes an intimidating skeletal figure guarding entry to the bone mines west tunnels. the skeletal miner wields a pickaxe and occasionally strikes the ground with enough force to cause boulders to fall from above. players are warned by a red circle before a boulder drops, giving them a chance to dodge. item drops bone copper ore horse mount box lumin shard tattered hex (piece 3) tattered hex (piece 4) magic recipe: bone harp weapon cratearmor drops mining boots mining helmetweapon drops skeletal dagger skeletal staffcosmetic drops skull cap"
+  },
+  {
+    "name": "0_27_Skeletal Worker 1c Skeletal Worker 1c Level 27 - 30 Bone Mines West Tunnels + Monster Notes A much tougher \"regular\" skeleton than those found near the mine entrance. These skeletal workers seem to have an endless supply of small bones to throw at anyone who grabs their attention. Item Drops Bone Copper Ore Horse Mount Box Lumin Shard Rusty Key Tattered Hex (Piece 1) Tattered Hex (Piece 2) Magic Recipe: Bone Blade Rusty Strongbox Weapon CrateArmor Drops Mining Boots Mining HelmetWeapon Drops Battered Longsword Blessed Cudgel Camping Knife Nimble Harp Skeletal Dagger Skeletal StaffCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_27_skeletal worker 1c skeletal worker 1c level 27 - 30 bone mines west tunnels + monster notes a much tougher \"regular\" skeleton than those found near the mine entrance. these skeletal workers seem to have an endless supply of small bones to throw at anyone who grabs their attention. item drops bone copper ore horse mount box lumin shard rusty key tattered hex (piece 1) tattered hex (piece 2) magic recipe: bone blade rusty strongbox weapon cratearmor drops mining boots mining helmetweapon drops battered longsword blessed cudgel camping knife nimble harp skeletal dagger skeletal staffcosmetic drops skull cap"
+  },
+  {
+    "name": "0_29_Skeletal Dog Skeletal Dog Level 29 - 32 Bone Mines West Tunnels + Monster Notes A chilling reanimated canine skeleton, devoid of flesh and fur. The skeletal dog moves with a disturbing gait, its bony limbs articulate smoothly as if driven by an unseen force. Item Drops Bone Dog Tooth Horse Mount Box Lumin Shard Tattered Hex (Piece 3) Tattered Hex (Piece 4) Weapon CrateArmor Drops Rib CageCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_29_skeletal dog skeletal dog level 29 - 32 bone mines west tunnels + monster notes a chilling reanimated canine skeleton, devoid of flesh and fur. the skeletal dog moves with a disturbing gait, its bony limbs articulate smoothly as if driven by an unseen force. item drops bone dog tooth horse mount box lumin shard tattered hex (piece 3) tattered hex (piece 4) weapon cratearmor drops rib cagecosmetic drops skull cap"
+  },
+  {
+    "name": "0_33_Cave Bat Cave Bat Level 33 - 35 Bone Mines East Side (Area A) + Monster Notes A nocturnal predator of the underground. With its sleek form and agile flight, the cave bat is a master of the Bone Mine's dark embrace. Item Drops Bat Wing Horse Mount Box Lumin Shard Rodent Pelt Small Game Meat Tattered Curse (Piece 1) Tattered Curse (Piece 2) Weapon CrateCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bat_wing.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_33_cave bat cave bat level 33 - 35 bone mines east side (area a) + monster notes a nocturnal predator of the underground. with its sleek form and agile flight, the cave bat is a master of the bone mine's dark embrace. item drops bat wing horse mount box lumin shard rodent pelt small game meat tattered curse (piece 1) tattered curse (piece 2) weapon cratecosmetic drops skull cap"
+  },
+  {
+    "name": "0_34_Skeletal Mage Skeletal Mage Level 34 - 37 Bone Mines East Side (Area A) East Side (Area B) East Tunnels + Monster Notes A bony sorcerer with lumin shards embeded in its skull. The Skeletal Mage wields a lumin infused wand and fires powerful blue orbs for ranged attack. Item Drops Bone Horse Mount Box Lumin Shard Tattered Curse (Piece 3) Tattered Curse (Piece 4) Weapon CrateWeapon Drops Skeletal WandCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_34_skeletal mage skeletal mage level 34 - 37 bone mines east side (area a) east side (area b) east tunnels + monster notes a bony sorcerer with lumin shards embeded in its skull. the skeletal mage wields a lumin infused wand and fires powerful blue orbs for ranged attack. item drops bone horse mount box lumin shard tattered curse (piece 3) tattered curse (piece 4) weapon crateweapon drops skeletal wandcosmetic drops skull cap"
+  },
+  {
+    "name": "0_36_Skeletal Prospector Skeletal Prospector Level 36 - 40 Bone Mines East Side (Area B) East Tunnels + Monster Notes A haunting skeletal figure adorned with a rare and coveted red mining helmet that stands out against the dimly lit rocky backdrop. The Skeletal Prospector wields a pickaxe and occasionally strikes the ground with enough force to cause boulders to fall from above. Players are warned by a red circle before a boulder drops, giving them a chance to dodge. Item Drops Bone Copper Ore Horse Mount Box Lumin Shard Tattered Curse (Piece 3) Tattered Curse (Piece 4) Weapon CrateArmor Drops Prospector HelmetWeapon Drops Skeletal BowCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_36_skeletal prospector skeletal prospector level 36 - 40 bone mines east side (area b) east tunnels + monster notes a haunting skeletal figure adorned with a rare and coveted red mining helmet that stands out against the dimly lit rocky backdrop. the skeletal prospector wields a pickaxe and occasionally strikes the ground with enough force to cause boulders to fall from above. players are warned by a red circle before a boulder drops, giving them a chance to dodge. item drops bone copper ore horse mount box lumin shard tattered curse (piece 3) tattered curse (piece 4) weapon cratearmor drops prospector helmetweapon drops skeletal bowcosmetic drops skull cap"
+  },
+  {
+    "name": "0_40_Ram Ram Level 40 - 43 Stone Glade Ram Area + Monster Notes A sturdy male sheep with signature curved horns found in the west fields of Stone Glade. The ram will not attack unless provoked. Item Drops Grizzled Steak Horse Mount Box Medium Hide Ram Horn Wool",
+    "icon": "/images/monsters/grizzled_steak.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_40_ram ram level 40 - 43 stone glade ram area + monster notes a sturdy male sheep with signature curved horns found in the west fields of stone glade. the ram will not attack unless provoked. item drops grizzled steak horse mount box medium hide ram horn wool"
+  },
+  {
+    "name": "0_42_Greenflock Sergeant 1 Greenflock Sergeant 1 Level 42 - 45 Stone Glade Ram Area SW Pad + Monster Notes A seasoned Greenflock soldier equipped with a bow for ranged attack. Greenflock Sergeant 1 has a darker skin tone and wears a beret with blue tassel. Item Drops Horse Mount Box Wool Magic Recipe: Black Wool UshankaArmor Drops Greenflock BeretWeapon Drops Greenflock Seeker",
+    "icon": "/images/monsters/horse_mount_box.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_42_greenflock sergeant 1 greenflock sergeant 1 level 42 - 45 stone glade ram area sw pad + monster notes a seasoned greenflock soldier equipped with a bow for ranged attack. greenflock sergeant 1 has a darker skin tone and wears a beret with blue tassel. item drops horse mount box wool magic recipe: black wool ushankaarmor drops greenflock beretweapon drops greenflock seeker"
+  },
+  {
+    "name": "0_42_Greenflock Sergeant 2 Greenflock Sergeant 2 Level 42 - 45 Stone Glade Ram Area SW Pad + Monster Notes A seasoned Greenflock soldier equipped with a bow for ranged attack. Greenflock Sergeant 2 has a lighter skin tone and wears a beret with blue tassel. Item Drops Horse Mount Box Wool Magic Recipe: Black Wool UshankaArmor Drops Greenflock BeretWeapon Drops Greenflock Seeker",
+    "icon": "/images/monsters/horse_mount_box.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_42_greenflock sergeant 2 greenflock sergeant 2 level 42 - 45 stone glade ram area sw pad + monster notes a seasoned greenflock soldier equipped with a bow for ranged attack. greenflock sergeant 2 has a lighter skin tone and wears a beret with blue tassel. item drops horse mount box wool magic recipe: black wool ushankaarmor drops greenflock beretweapon drops greenflock seeker"
+  },
+  {
+    "name": "0_42_Silk Worm Silk Worm Level 42 - 45 Stone Glade Silk Worm Area + Monster Notes A fully grown adult silk worm with rows of razor sharp teeth. It spits a toxic substance as a primary (ranged) attack. Silk worms tend to move slowly but they're well equipped to defend themselves when threatened. Item Drops Horse Mount Box Silk",
+    "icon": "/images/monsters/horse_mount_box.png",
+    "category": "monsters",
+    "details": [],
+    "search": "0_42_silk worm silk worm level 42 - 45 stone glade silk worm area + monster notes a fully grown adult silk worm with rows of razor sharp teeth. it spits a toxic substance as a primary (ranged) attack. silk worms tend to move slowly but they're well equipped to defend themselves when threatened. item drops horse mount box silk"
+  },
+  {
+    "name": "1_13_Elder Stag Elder Stag Level 13 Oakwood Stag Area + Monster Notes A particularly menacing stag with piercing blue eyes. The Elder Stag has the potential to spawn in place of common stags in Oakwood. As an alternative to the chance-spawn method, you can summon an Elder Stag by placing a Deer Guardian Offering on the shrine in the Stag Area (see map). Item Drops Grizzled Steak Soft Hide Lost Hunter's Sack Magic Recipe: Elder's Crown Stag RackArmor Drops Lumberjack BootsWeapon Drops Broken Stag AntlerMount Drops Elder Stag",
+    "icon": "/images/monsters/grizzled_steak.png",
+    "category": "monsters",
+    "details": [],
+    "search": "1_13_elder stag elder stag level 13 oakwood stag area + monster notes a particularly menacing stag with piercing blue eyes. the elder stag has the potential to spawn in place of common stags in oakwood. as an alternative to the chance-spawn method, you can summon an elder stag by placing a deer guardian offering on the shrine in the stag area (see map). item drops grizzled steak soft hide lost hunter's sack magic recipe: elder's crown stag rackarmor drops lumberjack bootsweapon drops broken stag antlermount drops elder stag"
+  },
+  {
+    "name": "1_16_Razorback Razorback Level 16 Oakwood Warthog Area + Monster Notes A notably robust warthog with a prominent ridge of bristly hair along its back. The Razorback has the potential to spawn in place of common warthogs in the Swine Pits of Oakwood. As an alternative to the chance-spawn method, you can summon a Razorback by placing a Boar Guardian Offering on the shrine in the Swine Pits (see map). Item Drops Boar Tusk Grizzled Steak Soft Hide Lost Hunter's Sack Magic Recipe: Swine FuryArmor Drops Lumberjack Boots Lumberjack HatWeapon Drops Shepherd Staff Razorback MaulerMount Drops Razorback",
+    "icon": "/images/monsters/boar_tusk.png",
+    "category": "monsters",
+    "details": [],
+    "search": "1_16_razorback razorback level 16 oakwood warthog area + monster notes a notably robust warthog with a prominent ridge of bristly hair along its back. the razorback has the potential to spawn in place of common warthogs in the swine pits of oakwood. as an alternative to the chance-spawn method, you can summon a razorback by placing a boar guardian offering on the shrine in the swine pits (see map). item drops boar tusk grizzled steak soft hide lost hunter's sack magic recipe: swine furyarmor drops lumberjack boots lumberjack hatweapon drops shepherd staff razorback maulermount drops razorback"
+  },
+  {
+    "name": "1_18_Blight Blight Level 18 Oakwood Vulture Area + Monster Notes An especially sinister looking uncommon vulture found in north Oakwood. Blight has the potential to spawn in place of common vultures in north Oakwood. As an alternative to the chance-spawn method, you can summon Blight by placing a Vulture Guardian Offering on the shrine in the Vulture Area (see map). Item Drops Feather Small Game Meat Lost Hunter's Sack Magic Recipe: Carrion's CryArmor Drops Lumberjack HatWeapon Drops Scavenger's SongMount Drops Blight",
+    "icon": "/images/monsters/feather.png",
+    "category": "monsters",
+    "details": [],
+    "search": "1_18_blight blight level 18 oakwood vulture area + monster notes an especially sinister looking uncommon vulture found in north oakwood. blight has the potential to spawn in place of common vultures in north oakwood. as an alternative to the chance-spawn method, you can summon blight by placing a vulture guardian offering on the shrine in the vulture area (see map). item drops feather small game meat lost hunter's sack magic recipe: carrion's cryarmor drops lumberjack hatweapon drops scavenger's songmount drops blight"
+  },
+  {
+    "name": "1_40_Bones Bones Level 40 Bone Mines West Tunnels + Monster Notes A dark skeletal dog with sharp teeth and mesmerizing purple eyes found in the west tunnels of the Bone Mines. Bones has a small chance to spawn in place of a common skeletal dog in the west tunnels. Bones does not have a shrine. Item Drops Bone Dog Tooth Lumin Shard Tattered Hex (Piece 3) Tattered Hex (Piece 4) Weapon CrateArmor Drops Rib Cage Tooth NecklaceCosmetic Drops Skull CapMount Drops Bones",
+    "icon": "/images/monsters/bone.png",
+    "category": "monsters",
+    "details": [],
+    "search": "1_40_bones bones level 40 bone mines west tunnels + monster notes a dark skeletal dog with sharp teeth and mesmerizing purple eyes found in the west tunnels of the bone mines. bones has a small chance to spawn in place of a common skeletal dog in the west tunnels. bones does not have a shrine. item drops bone dog tooth lumin shard tattered hex (piece 3) tattered hex (piece 4) weapon cratearmor drops rib cage tooth necklacecosmetic drops skull capmount drops bones"
+  },
+  {
+    "name": "1_46_Greenflock Lieutenant Greenflock Lieutenant Level 46 Stone Glade Ram Area SW Pad + Monster Notes A superior Greenflock soldier equipped with a bow for ranged attack. Greenflock Lieutenant has a darker skin tone and wears a beret with orange tassel. Item Drops Wool Magic Recipe: Black Wool UshankaArmor Drops Greenflock BeretWeapon Drops Greenflock Seeker",
+    "icon": "/images/monsters/wool.png",
+    "category": "monsters",
+    "details": [],
+    "search": "1_46_greenflock lieutenant greenflock lieutenant level 46 stone glade ram area sw pad + monster notes a superior greenflock soldier equipped with a bow for ranged attack. greenflock lieutenant has a darker skin tone and wears a beret with orange tassel. item drops wool magic recipe: black wool ushankaarmor drops greenflock beretweapon drops greenflock seeker"
+  },
+  {
+    "name": "1_50_Black Sheep Black Sheep Level 50 Stone Glade Sheep Area Ram Area + Monster Notes An uncharacteristically aggressive sheep found in the fields of Stone Glade. The Black Sheep has the potential to replace the spawn of a normal sheep or ram in Stone Glade and does not have a shrine from which to make offerings. The Black Sheep will not attack unless provoked. Item Drops Grizzled Steak Medium Hide Black Wool Magic Recipe: Black Wool UshankaMount Drops Black Sheep",
+    "icon": "/images/monsters/grizzled_steak.png",
+    "category": "monsters",
+    "details": [],
+    "search": "1_50_black sheep black sheep level 50 stone glade sheep area ram area + monster notes an uncharacteristically aggressive sheep found in the fields of stone glade. the black sheep has the potential to replace the spawn of a normal sheep or ram in stone glade and does not have a shrine from which to make offerings. the black sheep will not attack unless provoked. item drops grizzled steak medium hide black wool magic recipe: black wool ushankamount drops black sheep"
+  },
+  {
+    "name": "1_52_Stone Jaw Stone Jaw Level 52 Stone Glade Near Mine Entrance + Monster Notes A large tortoise with a shell resembling intricate weathered stone. Its tiny turquoise eyes gleam with a timeless wisdom. You can summon Stone Jaw by placing a River Guardian Offering on the shrine to the east of the Bone Mines entrance in Stone Glade (see map). This is the only way to attract or encounter Stone Jaw. Item Drops Fish Barb Hardened Scale Pearl Shiny Scale Lost Recipe: Barbed Chakram Lost Recipe: Pearl Wand Lost Recipe: Sparkling Lasher Lost Recipe: Stonescale BrutalizerCosmetic Drops Bucket HatMount Drops Stone Jaw",
+    "icon": "/images/monsters/fish_barb.png",
+    "category": "monsters",
+    "details": [],
+    "search": "1_52_stone jaw stone jaw level 52 stone glade near mine entrance + monster notes a large tortoise with a shell resembling intricate weathered stone. its tiny turquoise eyes gleam with a timeless wisdom. you can summon stone jaw by placing a river guardian offering on the shrine to the east of the bone mines entrance in stone glade (see map). this is the only way to attract or encounter stone jaw. item drops fish barb hardened scale pearl shiny scale lost recipe: barbed chakram lost recipe: pearl wand lost recipe: sparkling lasher lost recipe: stonescale brutalizercosmetic drops bucket hatmount drops stone jaw"
+  },
+  {
+    "name": "2_40_Canis Canis Level 40 Bone Mines Feasting Den + Monster Notes A much larger, supernatural canine skeleton. At half health, Canis will turn red and enter a 'frenzy' mode and start rapidly hurling large bones that can temporarily trap players if they hit their mark. Bosses no longer spawn routinely, but you can summon Canis by placing a Blood Offering on the shrine in Feasting Den (see map). Players can spawn multiple bosses at a time, as long as they have the offerings. The player who makes the offering is the only one eligible to gain aggro once spawned. Players can be grouped to fight Canis, but if the summoning player leaves the room or dies during combat it will regain full health. If the summoning player logs off, Canis will disappear. Item Drops Lumin Shard Blood of Canis Weapon CrateArmor Drops Rib CageWeapon Drops Fang of Canis Tail of CanisCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/lumin_shard.png",
+    "category": "monsters",
+    "details": [],
+    "search": "2_40_canis canis level 40 bone mines feasting den + monster notes a much larger, supernatural canine skeleton. at half health, canis will turn red and enter a 'frenzy' mode and start rapidly hurling large bones that can temporarily trap players if they hit their mark. bosses no longer spawn routinely, but you can summon canis by placing a blood offering on the shrine in feasting den (see map). players can spawn multiple bosses at a time, as long as they have the offerings. the player who makes the offering is the only one eligible to gain aggro once spawned. players can be grouped to fight canis, but if the summoning player leaves the room or dies during combat it will regain full health. if the summoning player logs off, canis will disappear. item drops lumin shard blood of canis weapon cratearmor drops rib cageweapon drops fang of canis tail of caniscosmetic drops skull cap"
+  },
+  {
+    "name": "2_46_Overseer Overseer Level 46 Bone Mines Miner's Hollow + Monster Notes A towering and terrifying skeletal force residing in the 'Well of Sorrow' at the center of Miner's Hollow. The Overseer has several abilities: Occasionally jumps high in the air before stomping, dropping boulders (which can be dodged) when he lands. Causes spontaneous eruptions of spikes from the ground. Red circles warn players just before they emerge and damage over time is inflicted in those areas while the spikes are active. At half health, Overseer begins hurling large bones which burst on impact, releasing smaller bones with potential to temporarily trap players. After 5 minutes of combat Overseer will get aggravated, turning red and dealing greater damage. Bosses no longer spawn routinely, but you can summon Overseer by placing a Soul Offering on the shrine in Feasting Den (see map). Players can spawn multiple bosses at a time, as long as they have the offerings. The player who makes the offering is the only one eligible to gain aggro once spawned. Players can be grouped to fight Overseer, but if the summoning player leaves the room or dies during combat it will regain full health. If the summoning player logs off, Overseer will disappear. Item Drops Lumin Shard Lost Soul Weapon CrateArmor Drops Overseer's GazeWeapon Drops Skeletal Wand Overseer's HandCosmetic Drops Skull Cap",
+    "icon": "/images/monsters/lumin_shard.png",
+    "category": "monsters",
+    "details": [],
+    "search": "2_46_overseer overseer level 46 bone mines miner's hollow + monster notes a towering and terrifying skeletal force residing in the 'well of sorrow' at the center of miner's hollow. the overseer has several abilities: occasionally jumps high in the air before stomping, dropping boulders (which can be dodged) when he lands. causes spontaneous eruptions of spikes from the ground. red circles warn players just before they emerge and damage over time is inflicted in those areas while the spikes are active. at half health, overseer begins hurling large bones which burst on impact, releasing smaller bones with potential to temporarily trap players. after 5 minutes of combat overseer will get aggravated, turning red and dealing greater damage. bosses no longer spawn routinely, but you can summon overseer by placing a soul offering on the shrine in feasting den (see map). players can spawn multiple bosses at a time, as long as they have the offerings. the player who makes the offering is the only one eligible to gain aggro once spawned. players can be grouped to fight overseer, but if the summoning player leaves the room or dies during combat it will regain full health. if the summoning player logs off, overseer will disappear. item drops lumin shard lost soul weapon cratearmor drops overseer's gazeweapon drops skeletal wand overseer's handcosmetic drops skull cap"
+  },
+  {
+    "name": "3_99_Bees Bees Level 99 Any Region Tree / Bush Nodes + Monster Notes Bees will randomly spawn while woodcutting or gathering berries. Once spawned, they will not move or follow but they will continuously attack the individual who triggered them (scalable damage) if they don't move. Bees cannot be killed, but they will disappear on their own after about 30 seconds.",
+    "icon": "/images/monsters/ani_bees.gif",
+    "category": "monsters",
+    "details": [],
+    "search": "3_99_bees bees level 99 any region tree / bush nodes + monster notes bees will randomly spawn while woodcutting or gathering berries. once spawned, they will not move or follow but they will continuously attack the individual who triggered them (scalable damage) if they don't move. bees cannot be killed, but they will disappear on their own after about 30 seconds."
+  },
+  {
+    "name": "3_99_Woodpecker Woodpecker Level 99 Any Region Tree / Bush Nodes + Monster Notes Woodpeckers will randomly spawn while woodcutting or gathering berries. Once spawned, they will follow the individual who triggered them and attack (scalable damage) until killed by that player. Item Drops Woodpecker Beak",
+    "icon": "/images/monsters/woodpecker_beak.png",
+    "category": "monsters",
+    "details": [],
+    "search": "3_99_woodpecker woodpecker level 99 any region tree / bush nodes + monster notes woodpeckers will randomly spawn while woodcutting or gathering berries. once spawned, they will follow the individual who triggered them and attack (scalable damage) until killed by that player. item drops woodpecker beak"
+  },
+  {
+    "name": "4_1_Dryad Bloom Dryad Bloom Level 1 - 99 Any Region Any Mob Location + Monster Notes Despite assuming the level of any normal monster spawn, this fragile bloom is harmless to even the weakest. The Dryad Bloom is only available during the Dryad Bloom Festival event in celebration of Heartwood's anniversary. Note: This item drops may include items from previous events, and not all are currently available ! Item Drops Dryad Blossom Pumpkin Spice",
+    "icon": "/images/monsters/dryad_blossom.png",
+    "category": "monsters",
+    "details": [],
+    "search": "4_1_dryad bloom dryad bloom level 1 - 99 any region any mob location + monster notes despite assuming the level of any normal monster spawn, this fragile bloom is harmless to even the weakest. the dryad bloom is only available during the dryad bloom festival event in celebration of heartwood's anniversary. note: this item drops may include items from previous events, and not all are currently available ! item drops dryad blossom pumpkin spice"
+  },
+  {
+    "name": "4_1_Naughty Elf Naughty Elf Level 1 - 99 Any Region Any Mob Location + Monster Notes The Naughty Elf may sometimes arrive during the Winterforge Event. The elves drop various items which are used to complete several Event Quests. Fun Fact! At the start of Winterforge, the Naughty Elf population was low and manageable but as we neared the end of the event players found themselves in a sea of elves in almost every corner of Heartwood (see screenshot above)! Note: This item drops may include items from previous events, and not all are currently available ! Item Drops Coal Innocent Doll Pattern Magic Snowflake Sinful Doll Pattern Stolen Naughty List Stolen Nice List Voodoo Essence Winterforge Giftbox",
+    "icon": "/images/monsters/coal.png",
+    "category": "monsters",
+    "details": [],
+    "search": "4_1_naughty elf naughty elf level 1 - 99 any region any mob location + monster notes the naughty elf may sometimes arrive during the winterforge event. the elves drop various items which are used to complete several event quests. fun fact! at the start of winterforge, the naughty elf population was low and manageable but as we neared the end of the event players found themselves in a sea of elves in almost every corner of heartwood (see screenshot above)! note: this item drops may include items from previous events, and not all are currently available ! item drops coal innocent doll pattern magic snowflake sinful doll pattern stolen naughty list stolen nice list voodoo essence winterforge giftbox"
+  }
+]

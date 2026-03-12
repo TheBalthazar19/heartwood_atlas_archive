@@ -1,0 +1,3132 @@
+[
+  {
+    "name": "Recipe",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Level"
+    ],
+    "search": "recipe level"
+  },
+  {
+    "name": "Cotton (3)",
+    "icon": "/images/recipes/light_cotton_fabric.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "cotton (3) 1"
+  },
+  {
+    "name": "Cotton (6)",
+    "icon": "/images/recipes/thread.png",
+    "category": "recipes",
+    "details": [
+      "5"
+    ],
+    "search": "cotton (6) 5"
+  },
+  {
+    "name": "Cotton (6)",
+    "icon": "/images/recipes/heavy_cotton_fabric.png",
+    "category": "recipes",
+    "details": [
+      "5"
+    ],
+    "search": "cotton (6) 5"
+  },
+  {
+    "name": "Wool (4)",
+    "icon": "/images/recipes/wool_fabric.png",
+    "category": "recipes",
+    "details": [
+      "15"
+    ],
+    "search": "wool (4) 15"
+  },
+  {
+    "name": "Wool (4)",
+    "icon": "/images/recipes/yarn.png",
+    "category": "recipes",
+    "details": [
+      "15"
+    ],
+    "search": "wool (4) 15"
+  },
+  {
+    "name": "Wool (4) Cotton (3)",
+    "icon": "/images/recipes/linen_fabric.png",
+    "category": "recipes",
+    "details": [
+      "25"
+    ],
+    "search": "wool (4) cotton (3) 25"
+  },
+  {
+    "name": "Silk (4)",
+    "icon": "/images/recipes/silk_thread.png",
+    "category": "recipes",
+    "details": [
+      "25"
+    ],
+    "search": "silk (4) 25"
+  },
+  {
+    "name": "Black Wool (10)",
+    "icon": "/images/recipes/black_wool_fabric.png",
+    "category": "recipes",
+    "details": [
+      "25"
+    ],
+    "search": "black wool (10) 25"
+  },
+  {
+    "name": "Silk (4)",
+    "icon": "/images/recipes/silk_fabric.png",
+    "category": "recipes",
+    "details": [
+      "35"
+    ],
+    "search": "silk (4) 35"
+  },
+  {
+    "name": "Wool (2) Silk (4) Mystic Thread (1)",
+    "icon": "/images/recipes/lace_fabric.png",
+    "category": "recipes",
+    "details": [
+      "45"
+    ],
+    "search": "wool (2) silk (4) mystic thread (1) 45"
+  },
+  {
+    "name": "Lace Fabric (4) Mystic Thread (1)",
+    "icon": "/images/recipes/runeweave_fabric.png",
+    "category": "recipes",
+    "details": [
+      "55"
+    ],
+    "search": "lace fabric (4) mystic thread (1) 55"
+  },
+  {
+    "name": "Lace Fabric (2) Obsidian Fragments (1)",
+    "icon": "/images/recipes/hexweave_fabric.png",
+    "category": "recipes",
+    "details": [
+      "65"
+    ],
+    "search": "lace fabric (2) obsidian fragments (1) 65"
+  },
+  {
+    "name": "Armor Slot",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Recipe",
+      "Level"
+    ],
+    "search": "armor slot recipe level"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/light_mantle.png",
+    "category": "recipes",
+    "details": [
+      "Light Cotton Fabric (8) Thread (2)",
+      "5"
+    ],
+    "search": "chest light cotton fabric (8) thread (2) 5"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/light_robes.png",
+    "category": "recipes",
+    "details": [
+      "Light Cotton Fabric (20) Thread (4)",
+      "5"
+    ],
+    "search": "chest light cotton fabric (20) thread (4) 5"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/light_vestments.png",
+    "category": "recipes",
+    "details": [
+      "Light Cotton Fabric (8) Thread (2)",
+      "5"
+    ],
+    "search": "chest light cotton fabric (8) thread (2) 5"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/light_trousers.png",
+    "category": "recipes",
+    "details": [
+      "Light Cotton Fabric (6) Thread (1)",
+      "5"
+    ],
+    "search": "legs light cotton fabric (6) thread (1) 5"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/light_waders.png",
+    "category": "recipes",
+    "details": [
+      "Light Cotton Fabric (6) Thread (1)",
+      "5"
+    ],
+    "search": "legs light cotton fabric (6) thread (1) 5"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/light_slippers.png",
+    "category": "recipes",
+    "details": [
+      "Light Cotton Fabric (4) Thread (1)",
+      "5"
+    ],
+    "search": "feet light cotton fabric (4) thread (1) 5"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/fishing_waders.png",
+    "category": "recipes",
+    "details": [
+      "Light Cotton Fabric (20) Thread (4)",
+      "7"
+    ],
+    "search": "legs light cotton fabric (20) thread (4) 7"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/heavy_mantle.png",
+    "category": "recipes",
+    "details": [
+      "Heavy Cotton Fabric (8) Thread (2)",
+      "10"
+    ],
+    "search": "chest heavy cotton fabric (8) thread (2) 10"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/heavy_vestments.png",
+    "category": "recipes",
+    "details": [
+      "Heavy Cotton Fabric (8) Thread (2)",
+      "10"
+    ],
+    "search": "chest heavy cotton fabric (8) thread (2) 10"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/heavy_robes.png",
+    "category": "recipes",
+    "details": [
+      "Heavy Cotton Fabric (20) Thread (4)",
+      "10"
+    ],
+    "search": "chest heavy cotton fabric (20) thread (4) 10"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/heavy_slippers.png",
+    "category": "recipes",
+    "details": [
+      "Heavy Cotton Fabric (4) Thread (1)",
+      "10"
+    ],
+    "search": "feet heavy cotton fabric (4) thread (1) 10"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/heavy_trousers.png",
+    "category": "recipes",
+    "details": [
+      "Heavy Cotton Fabric (6) Thread (1)",
+      "10"
+    ],
+    "search": "legs heavy cotton fabric (6) thread (1) 10"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/heavy_waders.png",
+    "category": "recipes",
+    "details": [
+      "Heavy Cotton Fabric (6) Thread (1)",
+      "10"
+    ],
+    "search": "legs heavy cotton fabric (6) thread (1) 10"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/fishing_vest.png",
+    "category": "recipes",
+    "details": [
+      "Heavy Cotton Fabric (20) Thread (4)",
+      "17"
+    ],
+    "search": "chest heavy cotton fabric (20) thread (4) 17"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/wool_trousers.png",
+    "category": "recipes",
+    "details": [
+      "Wool Fabric (6) Yarn (2)",
+      "20"
+    ],
+    "search": "legs wool fabric (6) yarn (2) 20"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/wool_cowl.png",
+    "category": "recipes",
+    "details": [
+      "Wool Fabric (10) Thread (2)",
+      "20"
+    ],
+    "search": "helmet wool fabric (10) thread (2) 20"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/wool_robes.png",
+    "category": "recipes",
+    "details": [
+      "Wool Fabric (20) Thread (4)",
+      "20"
+    ],
+    "search": "chest wool fabric (20) thread (4) 20"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/wool_mantle.png",
+    "category": "recipes",
+    "details": [
+      "Wool Fabric (8) Yarn (2)",
+      "20"
+    ],
+    "search": "chest wool fabric (8) yarn (2) 20"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/black_wool_ushanka.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Black Wool Ushanka (1) Black Wool Fabric (10) Yarn (10)",
+      "20"
+    ],
+    "search": "helmet magic recipe: black wool ushanka (1) black wool fabric (10) yarn (10) 20"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/forest_guardian_headdress.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Forest Guardian Headdress (1) Woodpecker Beak (10) Feather (25) Thread (1)",
+      "20"
+    ],
+    "search": "helmet magic recipe: forest guardian headdress (1) woodpecker beak (10) feather (25) thread (1) 20"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/wool_waders.png",
+    "category": "recipes",
+    "details": [
+      "Wool Fabric (6) Thread (1)",
+      "20"
+    ],
+    "search": "legs wool fabric (6) thread (1) 20"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/wool_vestments.png",
+    "category": "recipes",
+    "details": [
+      "Wool Fabric (8) Thread (2)",
+      "20"
+    ],
+    "search": "chest wool fabric (8) thread (2) 20"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/wool_slippers.png",
+    "category": "recipes",
+    "details": [
+      "Wool Fabric (4) Yarn (1)",
+      "20"
+    ],
+    "search": "feet wool fabric (4) yarn (1) 20"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/linen_robes.png",
+    "category": "recipes",
+    "details": [
+      "Linen Fabric (20) Thread (4)",
+      "30"
+    ],
+    "search": "chest linen fabric (20) thread (4) 30"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/linen_trousers.png",
+    "category": "recipes",
+    "details": [
+      "Linen Fabric (6) Yarn (2)",
+      "30"
+    ],
+    "search": "legs linen fabric (6) yarn (2) 30"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/linen_waders.png",
+    "category": "recipes",
+    "details": [
+      "Linen Fabric (6) Thread (1)",
+      "30"
+    ],
+    "search": "legs linen fabric (6) thread (1) 30"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/linen_slippers.png",
+    "category": "recipes",
+    "details": [
+      "Linen Fabric (4) Yarn (1)",
+      "30"
+    ],
+    "search": "feet linen fabric (4) yarn (1) 30"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/linen_vestments.png",
+    "category": "recipes",
+    "details": [
+      "Linen Fabric (8) Thread (2)",
+      "30"
+    ],
+    "search": "chest linen fabric (8) thread (2) 30"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/linen_mantle.png",
+    "category": "recipes",
+    "details": [
+      "Linen Fabric (8) Yarn (2)",
+      "30"
+    ],
+    "search": "chest linen fabric (8) yarn (2) 30"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/linen_cowl.png",
+    "category": "recipes",
+    "details": [
+      "Linen Fabric (10) Thread (2)",
+      "30"
+    ],
+    "search": "helmet linen fabric (10) thread (2) 30"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/silk_vestments.png",
+    "category": "recipes",
+    "details": [
+      "Silk Fabric (8) Thread (2)",
+      "40"
+    ],
+    "search": "chest silk fabric (8) thread (2) 40"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/silk_cowl.png",
+    "category": "recipes",
+    "details": [
+      "Silk Fabric (10) Thread (2)",
+      "40"
+    ],
+    "search": "helmet silk fabric (10) thread (2) 40"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/silk_waders.png",
+    "category": "recipes",
+    "details": [
+      "Silk Fabric (6) Thread (1)",
+      "40"
+    ],
+    "search": "legs silk fabric (6) thread (1) 40"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/silk_mantle.png",
+    "category": "recipes",
+    "details": [
+      "Silk Fabric (8) Yarn (2)",
+      "40"
+    ],
+    "search": "chest silk fabric (8) yarn (2) 40"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/silk_robes.png",
+    "category": "recipes",
+    "details": [
+      "Silk Fabric (20) Thread (4)",
+      "40"
+    ],
+    "search": "chest silk fabric (20) thread (4) 40"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/silk_trousers.png",
+    "category": "recipes",
+    "details": [
+      "Silk Fabric (6) Yarn (2)",
+      "40"
+    ],
+    "search": "legs silk fabric (6) yarn (2) 40"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/silk_slippers.png",
+    "category": "recipes",
+    "details": [
+      "Silk Fabric (4) Yarn (1)",
+      "40"
+    ],
+    "search": "feet silk fabric (4) yarn (1) 40"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/lace_robes.png",
+    "category": "recipes",
+    "details": [
+      "Lace Fabric (20) Thread (4)",
+      "50"
+    ],
+    "search": "chest lace fabric (20) thread (4) 50"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/lace_mantle.png",
+    "category": "recipes",
+    "details": [
+      "Lace Fabric (8) Yarn (2)",
+      "50"
+    ],
+    "search": "chest lace fabric (8) yarn (2) 50"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/lace_cowl.png",
+    "category": "recipes",
+    "details": [
+      "Lace Fabric (10) Thread (2)",
+      "50"
+    ],
+    "search": "helmet lace fabric (10) thread (2) 50"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/lace_waders.png",
+    "category": "recipes",
+    "details": [
+      "Lace Fabric (6) Thread (1)",
+      "50"
+    ],
+    "search": "legs lace fabric (6) thread (1) 50"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/lace_vestments.png",
+    "category": "recipes",
+    "details": [
+      "Lace Fabric (8) Thread (2)",
+      "50"
+    ],
+    "search": "chest lace fabric (8) thread (2) 50"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/lace_trousers.png",
+    "category": "recipes",
+    "details": [
+      "Lace Fabric (6) Yarn (2)",
+      "50"
+    ],
+    "search": "legs lace fabric (6) yarn (2) 50"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/lace_slippers.png",
+    "category": "recipes",
+    "details": [
+      "Lace Fabric (4) Yarn (1)",
+      "50"
+    ],
+    "search": "feet lace fabric (4) yarn (1) 50"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/runeweave_mantle.png",
+    "category": "recipes",
+    "details": [
+      "Runeweave Fabric (8) Yarn (2)",
+      "60"
+    ],
+    "search": "chest runeweave fabric (8) yarn (2) 60"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/runeweave_vestments.png",
+    "category": "recipes",
+    "details": [
+      "Runeweave Fabric (8) Thread (2)",
+      "60"
+    ],
+    "search": "chest runeweave fabric (8) thread (2) 60"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/runeweave_robes.png",
+    "category": "recipes",
+    "details": [
+      "Runeweave Fabric (20) Thread (4)",
+      "60"
+    ],
+    "search": "chest runeweave fabric (20) thread (4) 60"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/runeweave_trousers.png",
+    "category": "recipes",
+    "details": [
+      "Runeweave Fabric (6) Yarn (2)",
+      "60"
+    ],
+    "search": "legs runeweave fabric (6) yarn (2) 60"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/runeweave_waders.png",
+    "category": "recipes",
+    "details": [
+      "Runeweave Fabric (6) Thread (1)",
+      "60"
+    ],
+    "search": "legs runeweave fabric (6) thread (1) 60"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/runeweave_slippers.png",
+    "category": "recipes",
+    "details": [
+      "Runeweave Fabric (4) Yarn (1)",
+      "60"
+    ],
+    "search": "feet runeweave fabric (4) yarn (1) 60"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/runeweave_cowl.png",
+    "category": "recipes",
+    "details": [
+      "Runeweave Fabric (10) Thread (2)",
+      "60"
+    ],
+    "search": "helmet runeweave fabric (10) thread (2) 60"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/hexweave_cowl.png",
+    "category": "recipes",
+    "details": [
+      "Hexweave Fabric (10) Thread (2)",
+      "70"
+    ],
+    "search": "helmet hexweave fabric (10) thread (2) 70"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/hexweave_mantle.png",
+    "category": "recipes",
+    "details": [
+      "Hexweave Fabric (8) Yarn (2)",
+      "70"
+    ],
+    "search": "chest hexweave fabric (8) yarn (2) 70"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/hexweave_vestments.png",
+    "category": "recipes",
+    "details": [
+      "Hexweave Fabric (8) Thread (2)",
+      "70"
+    ],
+    "search": "chest hexweave fabric (8) thread (2) 70"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/hexweave_robes.png",
+    "category": "recipes",
+    "details": [
+      "Hexweave Fabric (20) Thread (4)",
+      "70"
+    ],
+    "search": "chest hexweave fabric (20) thread (4) 70"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/hexweave_trousers.png",
+    "category": "recipes",
+    "details": [
+      "Hexweave Fabric (6) Yarn (2)",
+      "70"
+    ],
+    "search": "legs hexweave fabric (6) yarn (2) 70"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/hexweave_waders.png",
+    "category": "recipes",
+    "details": [
+      "Hexweave Fabric (6) Thread (1)",
+      "70"
+    ],
+    "search": "legs hexweave fabric (6) thread (1) 70"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/hexweave_slippers.png",
+    "category": "recipes",
+    "details": [
+      "Hexweave Fabric (4) Yarn (1)",
+      "70"
+    ],
+    "search": "feet hexweave fabric (4) yarn (1) 70"
+  },
+  {
+    "name": "Armor Slot",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Recipe",
+      "Level"
+    ],
+    "search": "armor slot recipe level"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/oak_buckler.png",
+    "category": "recipes",
+    "details": [
+      "Oak Boards (10)",
+      "1"
+    ],
+    "search": "shield oak boards (10) 1"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/pine_buckler.png",
+    "category": "recipes",
+    "details": [
+      "Pine Boards (10)",
+      "10"
+    ],
+    "search": "shield pine boards (10) 10"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/birch_buckler.png",
+    "category": "recipes",
+    "details": [
+      "Birch Boards (10)",
+      "20"
+    ],
+    "search": "shield birch boards (10) 20"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/radiant_protector.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Radiant Protector (1) Rib Cage (1) Blood of Canis (5) Lumin Crystal (1)",
+      "25"
+    ],
+    "search": "shield magic blueprint: radiant protector (1) rib cage (1) blood of canis (5) lumin crystal (1) 25"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/maple_buckler.png",
+    "category": "recipes",
+    "details": [
+      "Maple Boards (10)",
+      "30"
+    ],
+    "search": "shield maple boards (10) 30"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/mandrove_buckler.png",
+    "category": "recipes",
+    "details": [
+      "Mandrove Boards (10)",
+      "40"
+    ],
+    "search": "shield mandrove boards (10) 40"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/spiked_scale_shield.png",
+    "category": "recipes",
+    "details": [
+      "Wet Blueprint: Spiked Scale Shield (1) Fish Barb (20) Fish Resin (1) Pearl (1) Fisherman's Tale (1)",
+      "45"
+    ],
+    "search": "shield wet blueprint: spiked scale shield (1) fish barb (20) fish resin (1) pearl (1) fisherman's tale (1) 45"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/shiny_scale_shield.png",
+    "category": "recipes",
+    "details": [
+      "Wet Blueprint: Shiny Scale Shield (1) Shiny Scale (20) Fish Resin (1) Pearl (1) Day Dreamer's Poem (1)",
+      "45"
+    ],
+    "search": "shield wet blueprint: shiny scale shield (1) shiny scale (20) fish resin (1) pearl (1) day dreamer's poem (1) 45"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/pecan_buckler.png",
+    "category": "recipes",
+    "details": [
+      "Pecan Boards (10)",
+      "50"
+    ],
+    "search": "shield pecan boards (10) 50"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/palm_buckler.png",
+    "category": "recipes",
+    "details": [
+      "Palm Boards (10)",
+      "60"
+    ],
+    "search": "shield palm boards (10) 60"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/willow_buckler.png",
+    "category": "recipes",
+    "details": [
+      "Willow Boards (10)",
+      "70"
+    ],
+    "search": "shield willow boards (10) 70"
+  },
+  {
+    "name": "Recipe",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Level"
+    ],
+    "search": "recipe level"
+  },
+  {
+    "name": "Oak Boards (1) Tin Bar (1)",
+    "icon": "/images/recipes/flimsy_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "oak boards (1) tin bar (1) 1"
+  },
+  {
+    "name": "Oak Boards (2) Tin Bar (2)",
+    "icon": "/images/recipes/tin_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "5"
+    ],
+    "search": "oak boards (2) tin bar (2) 5"
+  },
+  {
+    "name": "Pine Boards (2) Copper Bar (2)",
+    "icon": "/images/recipes/copper_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "10"
+    ],
+    "search": "pine boards (2) copper bar (2) 10"
+  },
+  {
+    "name": "Birch Boards (2) Steel Bar (2)",
+    "icon": "/images/recipes/steel_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "20"
+    ],
+    "search": "birch boards (2) steel bar (2) 20"
+  },
+  {
+    "name": "Maple Boards (2) Tungsten Bar (2)",
+    "icon": "/images/recipes/tungsten_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "30"
+    ],
+    "search": "maple boards (2) tungsten bar (2) 30"
+  },
+  {
+    "name": "Mandrove Boards (2) Platinum Bar (2)",
+    "icon": "/images/recipes/platinum_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "40"
+    ],
+    "search": "mandrove boards (2) platinum bar (2) 40"
+  },
+  {
+    "name": "Pecan Boards (2) Cobalt Bar (2)",
+    "icon": "/images/recipes/cobalt_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "50"
+    ],
+    "search": "pecan boards (2) cobalt bar (2) 50"
+  },
+  {
+    "name": "Palm Boards (2) Mythril Bar (2)",
+    "icon": "/images/recipes/mythril_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "60"
+    ],
+    "search": "palm boards (2) mythril bar (2) 60"
+  },
+  {
+    "name": "Willow Boards (2) Obsidian Bar (3)",
+    "icon": "/images/recipes/obsidian_pickaxe.png",
+    "category": "recipes",
+    "details": [
+      "70"
+    ],
+    "search": "willow boards (2) obsidian bar (3) 70"
+  },
+  {
+    "name": "Recipe",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Level"
+    ],
+    "search": "recipe level"
+  },
+  {
+    "name": "Oak Log (5)",
+    "icon": "/images/recipes/oak_boards.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "oak log (5) 1"
+  },
+  {
+    "name": "Pine Log (5)",
+    "icon": "/images/recipes/pine_boards.png",
+    "category": "recipes",
+    "details": [
+      "5"
+    ],
+    "search": "pine log (5) 5"
+  },
+  {
+    "name": "Birch Log (5)",
+    "icon": "/images/recipes/birch_boards.png",
+    "category": "recipes",
+    "details": [
+      "15"
+    ],
+    "search": "birch log (5) 15"
+  },
+  {
+    "name": "Maple Log (5)",
+    "icon": "/images/recipes/maple_boards.png",
+    "category": "recipes",
+    "details": [
+      "25"
+    ],
+    "search": "maple log (5) 25"
+  },
+  {
+    "name": "Mandrove Log (5)",
+    "icon": "/images/recipes/mandrove_boards.png",
+    "category": "recipes",
+    "details": [
+      "35"
+    ],
+    "search": "mandrove log (5) 35"
+  },
+  {
+    "name": "Pecan Log (5)",
+    "icon": "/images/recipes/pecan_boards.png",
+    "category": "recipes",
+    "details": [
+      "45"
+    ],
+    "search": "pecan log (5) 45"
+  },
+  {
+    "name": "Palm Log (5)",
+    "icon": "/images/recipes/palm_boards.png",
+    "category": "recipes",
+    "details": [
+      "55"
+    ],
+    "search": "palm log (5) 55"
+  },
+  {
+    "name": "Willow Log (5)",
+    "icon": "/images/recipes/willow_boards.png",
+    "category": "recipes",
+    "details": [
+      "65"
+    ],
+    "search": "willow log (5) 65"
+  },
+  {
+    "name": "Weapon Type",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Recipe",
+      "Level"
+    ],
+    "search": "weapon type recipe level"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/oak_bow.png",
+    "category": "recipes",
+    "details": [
+      "Oak Boards (10) Thread (1)",
+      "1"
+    ],
+    "search": "bow oak boards (10) thread (1) 1"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/wood_bow.png",
+    "category": "recipes",
+    "details": [
+      "Oak Boards (5) Thread (1)",
+      "1"
+    ],
+    "search": "bow oak boards (5) thread (1) 1"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/oak_harp.png",
+    "category": "recipes",
+    "details": [
+      "Oak Boards (10) Thread (1)",
+      "1"
+    ],
+    "search": "instrument oak boards (10) thread (1) 1"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/wood_wand.png",
+    "category": "recipes",
+    "details": [
+      "Oak Boards (3)",
+      "1"
+    ],
+    "search": "wand oak boards (3) 1"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/oak_wand.png",
+    "category": "recipes",
+    "details": [
+      "Oak Boards (5)",
+      "1"
+    ],
+    "search": "wand oak boards (5) 1"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/carrions_cry.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Carrion's Cry (1) Pine Boards (4) Feather (10) Thread (2)",
+      "8"
+    ],
+    "search": "bow magic recipe: carrion's cry (1) pine boards (4) feather (10) thread (2) 8"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/swine_fury.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Swine Fury (1) Oak Boards (10) Boar Tusk (10)",
+      "8"
+    ],
+    "search": "wand magic recipe: swine fury (1) oak boards (10) boar tusk (10) 8"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/pine_bow.png",
+    "category": "recipes",
+    "details": [
+      "Pine Boards (10) Thread (1)",
+      "10"
+    ],
+    "search": "bow pine boards (10) thread (1) 10"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/pine_mace.png",
+    "category": "recipes",
+    "details": [
+      "Pine Boards (5)",
+      "10"
+    ],
+    "search": "mace pine boards (5) 10"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/pine_harp.png",
+    "category": "recipes",
+    "details": [
+      "Pine Boards (10) Thread (2)",
+      "10"
+    ],
+    "search": "instrument pine boards (10) thread (2) 10"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/pine_wand.png",
+    "category": "recipes",
+    "details": [
+      "Pine Boards (5)",
+      "10"
+    ],
+    "search": "wand pine boards (5) 10"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/pine_staff.png",
+    "category": "recipes",
+    "details": [
+      "Pine Boards (10)",
+      "10"
+    ],
+    "search": "staff pine boards (10) 10"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/pillar_of_balance.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Pillar of Balance (1) Skeletal Staff (1) Lumin Crystal (1) Bone (10)",
+      "15"
+    ],
+    "search": "staff magic blueprint: pillar of balance (1) skeletal staff (1) lumin crystal (1) bone (10) 15"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/bone_harp.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Bone Harp (1) Birch Boards (10) Thread (10) Rib Cage (1)",
+      "15"
+    ],
+    "search": "instrument magic recipe: bone harp (1) birch boards (10) thread (10) rib cage (1) 15"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/memoriam.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Memoriam (1) Bone Harp (1) Blood of Canis (5) Lumin Crystal (3)",
+      "20"
+    ],
+    "search": "instrument magic blueprint: memoriam (1) bone harp (1) blood of canis (5) lumin crystal (3) 20"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/birch_staff.png",
+    "category": "recipes",
+    "details": [
+      "Birch Boards (10)",
+      "20"
+    ],
+    "search": "staff birch boards (10) 20"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/birch_wand.png",
+    "category": "recipes",
+    "details": [
+      "Birch Boards (5)",
+      "20"
+    ],
+    "search": "wand birch boards (5) 20"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/birch_harp.png",
+    "category": "recipes",
+    "details": [
+      "Birch Boards (10) Thread (3)",
+      "20"
+    ],
+    "search": "instrument birch boards (10) thread (3) 20"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/birch_mace.png",
+    "category": "recipes",
+    "details": [
+      "Birch Boards (5)",
+      "20"
+    ],
+    "search": "mace birch boards (5) 20"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/birch_bow.png",
+    "category": "recipes",
+    "details": [
+      "Birch Boards (10) Thread (1)",
+      "20"
+    ],
+    "search": "bow birch boards (10) thread (1) 20"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/ritual_staff.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Ritual Staff (1) Ceremonial Crucifix (1) Blessed Cudgel (2) Steel Bar (20)",
+      "25"
+    ],
+    "search": "staff magic recipe: ritual staff (1) ceremonial crucifix (1) blessed cudgel (2) steel bar (20) 25"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/loyalty_of_canis.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Loyalty of Canis (1) Tail of Canis (1) Blood of Canis (10) Lumin Crystal (2)",
+      "25"
+    ],
+    "search": "mace magic blueprint: loyalty of canis (1) tail of canis (1) blood of canis (10) lumin crystal (2) 25"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/maple_harp.png",
+    "category": "recipes",
+    "details": [
+      "Maple Boards (10) Thread (4)",
+      "30"
+    ],
+    "search": "instrument maple boards (10) thread (4) 30"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/maple_staff.png",
+    "category": "recipes",
+    "details": [
+      "Maple Boards (10)",
+      "30"
+    ],
+    "search": "staff maple boards (10) 30"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/maple_mace.png",
+    "category": "recipes",
+    "details": [
+      "Maple Boards (5)",
+      "30"
+    ],
+    "search": "mace maple boards (5) 30"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/maple_bow.png",
+    "category": "recipes",
+    "details": [
+      "Maple Boards (10) Thread (1)",
+      "30"
+    ],
+    "search": "bow maple boards (10) thread (1) 30"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/maple_wand.png",
+    "category": "recipes",
+    "details": [
+      "Maple Boards (5)",
+      "30"
+    ],
+    "search": "wand maple boards (5) 30"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/temporal_will.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Temporal Will (1) Skeletal Wand (1) Lumin Crystal (10) Lost Soul (30)",
+      "35"
+    ],
+    "search": "wand magic blueprint: temporal will (1) skeletal wand (1) lumin crystal (10) lost soul (30) 35"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/spinal_recurve.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Spinal Recurve (1) Skeletal Bow (1) Lumin Crystal (10) Lost Soul (30)",
+      "35"
+    ],
+    "search": "bow magic blueprint: spinal recurve (1) skeletal bow (1) lumin crystal (10) lost soul (30) 35"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/mandrove_harp.png",
+    "category": "recipes",
+    "details": [
+      "Mandrove Boards (10) Thread (5)",
+      "40"
+    ],
+    "search": "instrument mandrove boards (10) thread (5) 40"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/mandrove_staff.png",
+    "category": "recipes",
+    "details": [
+      "Mandrove Boards (10)",
+      "40"
+    ],
+    "search": "staff mandrove boards (10) 40"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/mandrove_wand.png",
+    "category": "recipes",
+    "details": [
+      "Mandrove Boards (5)",
+      "40"
+    ],
+    "search": "wand mandrove boards (5) 40"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/mandrove_bow.png",
+    "category": "recipes",
+    "details": [
+      "Mandrove Boards (10) Thread (1)",
+      "40"
+    ],
+    "search": "bow mandrove boards (10) thread (1) 40"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/mandrove_mace.png",
+    "category": "recipes",
+    "details": [
+      "Mandrove Boards (5)",
+      "40"
+    ],
+    "search": "mace mandrove boards (5) 40"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/sparkling_lasher.png",
+    "category": "recipes",
+    "details": [
+      "Lost Recipe: Sparkling Lasher (1) Shiny Scale (20) Pearl (1) Fish Resin (1)",
+      "45"
+    ],
+    "search": "mace lost recipe: sparkling lasher (1) shiny scale (20) pearl (1) fish resin (1) 45"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/pearl_wand.png",
+    "category": "recipes",
+    "details": [
+      "Lost Recipe: Pearl Wand (1) Shiny Scale (20) Pearl (1) Fish Resin (1)",
+      "45"
+    ],
+    "search": "wand lost recipe: pearl wand (1) shiny scale (20) pearl (1) fish resin (1) 45"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/pecan_harp.png",
+    "category": "recipes",
+    "details": [
+      "Pecan Boards (5) Thread (6)",
+      "50"
+    ],
+    "search": "instrument pecan boards (5) thread (6) 50"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/pecan_wand.png",
+    "category": "recipes",
+    "details": [
+      "Pecan Boards (5)",
+      "50"
+    ],
+    "search": "wand pecan boards (5) 50"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/pecan_staff.png",
+    "category": "recipes",
+    "details": [
+      "Pecan Boards (10)",
+      "50"
+    ],
+    "search": "staff pecan boards (10) 50"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/pecan_mace.png",
+    "category": "recipes",
+    "details": [
+      "Pecan Boards (5)",
+      "50"
+    ],
+    "search": "mace pecan boards (5) 50"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/pecan_bow.png",
+    "category": "recipes",
+    "details": [
+      "Pecan Boards (10) Thread (1)",
+      "50"
+    ],
+    "search": "bow pecan boards (10) thread (1) 50"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/palm_bow.png",
+    "category": "recipes",
+    "details": [
+      "Palm Boards (10) Thread (1)",
+      "60"
+    ],
+    "search": "bow palm boards (10) thread (1) 60"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/palm_mace.png",
+    "category": "recipes",
+    "details": [
+      "Palm Boards (5)",
+      "60"
+    ],
+    "search": "mace palm boards (5) 60"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/palm_harp.png",
+    "category": "recipes",
+    "details": [
+      "Palm Boards (10) Thread (7)",
+      "60"
+    ],
+    "search": "instrument palm boards (10) thread (7) 60"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/palm_wand.png",
+    "category": "recipes",
+    "details": [
+      "Palm Boards (5)",
+      "60"
+    ],
+    "search": "wand palm boards (5) 60"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/palm_staff.png",
+    "category": "recipes",
+    "details": [
+      "Palm Boards (10)",
+      "60"
+    ],
+    "search": "staff palm boards (10) 60"
+  },
+  {
+    "name": "Bow",
+    "icon": "/images/recipes/willow_bow.png",
+    "category": "recipes",
+    "details": [
+      "Willow Boards (10) Thread (1)",
+      "70"
+    ],
+    "search": "bow willow boards (10) thread (1) 70"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/willow_mace.png",
+    "category": "recipes",
+    "details": [
+      "Willow Boards (5)",
+      "70"
+    ],
+    "search": "mace willow boards (5) 70"
+  },
+  {
+    "name": "Instrument",
+    "icon": "/images/recipes/willow_harp.png",
+    "category": "recipes",
+    "details": [
+      "Willow Boards (10) Thread (8)",
+      "70"
+    ],
+    "search": "instrument willow boards (10) thread (8) 70"
+  },
+  {
+    "name": "Wand",
+    "icon": "/images/recipes/willow_wand.png",
+    "category": "recipes",
+    "details": [
+      "Willow Boards (5)",
+      "70"
+    ],
+    "search": "wand willow boards (5) 70"
+  },
+  {
+    "name": "Staff",
+    "icon": "/images/recipes/willow_staff.png",
+    "category": "recipes",
+    "details": [
+      "Willow Boards (10)",
+      "70"
+    ],
+    "search": "staff willow boards (10) 70"
+  },
+  {
+    "name": "Armor Slot",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Recipe",
+      "Level"
+    ],
+    "search": "armor slot recipe level"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/flimsy_coat.png",
+    "category": "recipes",
+    "details": [
+      "Flimsy Leather (15) Thread (1)",
+      "5"
+    ],
+    "search": "chest flimsy leather (15) thread (1) 5"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/flimsy_strides.png",
+    "category": "recipes",
+    "details": [
+      "Flimsy Leather (10) Thread (1)",
+      "5"
+    ],
+    "search": "legs flimsy leather (10) thread (1) 5"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/flimsy_boots.png",
+    "category": "recipes",
+    "details": [
+      "Flimsy Leather (5) Thread (1)",
+      "5"
+    ],
+    "search": "feet flimsy leather (5) thread (1) 5"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/lumberjack_pants.png",
+    "category": "recipes",
+    "details": [
+      "Flimsy Leather (10) Thread (1)",
+      "7"
+    ],
+    "search": "legs flimsy leather (10) thread (1) 7"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/plush_coat.png",
+    "category": "recipes",
+    "details": [
+      "Plush Leather (15) Thread (2)",
+      "10"
+    ],
+    "search": "chest plush leather (15) thread (2) 10"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/plush_strides.png",
+    "category": "recipes",
+    "details": [
+      "Plush Leather (10) Thread (2)",
+      "10"
+    ],
+    "search": "legs plush leather (10) thread (2) 10"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/plush_boots.png",
+    "category": "recipes",
+    "details": [
+      "Plush Leather (5) Thread (1)",
+      "10"
+    ],
+    "search": "feet plush leather (5) thread (1) 10"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/lumberjack_shirt.png",
+    "category": "recipes",
+    "details": [
+      "Plush Leather (10) Thread (2)",
+      "17"
+    ],
+    "search": "chest plush leather (10) thread (2) 17"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/fragile_coat.png",
+    "category": "recipes",
+    "details": [
+      "Fragile Leather (15) Yarn (3)",
+      "20"
+    ],
+    "search": "chest fragile leather (15) yarn (3) 20"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/fragile_hood.png",
+    "category": "recipes",
+    "details": [
+      "Fragile Leather (20) Yarn (4)",
+      "20"
+    ],
+    "search": "helmet fragile leather (20) yarn (4) 20"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/fragile_boots.png",
+    "category": "recipes",
+    "details": [
+      "Fragile Leather (5) Light Leather Cord (1)",
+      "20"
+    ],
+    "search": "feet fragile leather (5) light leather cord (1) 20"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/fragile_strides.png",
+    "category": "recipes",
+    "details": [
+      "Fragile Leather (10) Yarn (3)",
+      "20"
+    ],
+    "search": "legs fragile leather (10) yarn (3) 20"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/delicate_boots.png",
+    "category": "recipes",
+    "details": [
+      "Delicate Leather (5) Light Leather Cord (1)",
+      "30"
+    ],
+    "search": "feet delicate leather (5) light leather cord (1) 30"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/delicate_strides.png",
+    "category": "recipes",
+    "details": [
+      "Delicate Leather (10) Light Leather Cord (2)",
+      "30"
+    ],
+    "search": "legs delicate leather (10) light leather cord (2) 30"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/delicate_hood.png",
+    "category": "recipes",
+    "details": [
+      "Delicate Leather (20) Light Leather Cord (4)",
+      "30"
+    ],
+    "search": "helmet delicate leather (20) light leather cord (4) 30"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/delicate_coat.png",
+    "category": "recipes",
+    "details": [
+      "Delicate Leather (15) Light Leather Cord (4)",
+      "30"
+    ],
+    "search": "chest delicate leather (15) light leather cord (4) 30"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/graceful_coat.png",
+    "category": "recipes",
+    "details": [
+      "Graceful Leather (15) Heavy Leather Cord (3)",
+      "40"
+    ],
+    "search": "chest graceful leather (15) heavy leather cord (3) 40"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/graceful_boots.png",
+    "category": "recipes",
+    "details": [
+      "Graceful Leather (5) Light Leather Cord (1)",
+      "40"
+    ],
+    "search": "feet graceful leather (5) light leather cord (1) 40"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/graceful_hood.png",
+    "category": "recipes",
+    "details": [
+      "Graceful Leather (20) Light Leather Cord (4)",
+      "40"
+    ],
+    "search": "helmet graceful leather (20) light leather cord (4) 40"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/graceful_strides.png",
+    "category": "recipes",
+    "details": [
+      "Graceful Leather (10) Heavy Leather Cord (2)",
+      "40"
+    ],
+    "search": "legs graceful leather (10) heavy leather cord (2) 40"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/sturdy_boots.png",
+    "category": "recipes",
+    "details": [
+      "Sturdy Leather (5) Thread (1)",
+      "50"
+    ],
+    "search": "feet sturdy leather (5) thread (1) 50"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/sturdy_strides.png",
+    "category": "recipes",
+    "details": [
+      "Sturdy Leather (10) Thread (2)",
+      "50"
+    ],
+    "search": "legs sturdy leather (10) thread (2) 50"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/sturdy_coat.png",
+    "category": "recipes",
+    "details": [
+      "Sturdy Leather (15) Thread (3)",
+      "50"
+    ],
+    "search": "chest sturdy leather (15) thread (3) 50"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/sturdy_hood.png",
+    "category": "recipes",
+    "details": [
+      "Sturdy Leather (20) Thread (4)",
+      "50"
+    ],
+    "search": "helmet sturdy leather (20) thread (4) 50"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/durable_hood.png",
+    "category": "recipes",
+    "details": [
+      "Durable Leather (20) Light Leather Cord (4)",
+      "60"
+    ],
+    "search": "helmet durable leather (20) light leather cord (4) 60"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/durable_boots.png",
+    "category": "recipes",
+    "details": [
+      "Durable Leather (5) Light Leather Cord (1)",
+      "60"
+    ],
+    "search": "feet durable leather (5) light leather cord (1) 60"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/durable_coat.png",
+    "category": "recipes",
+    "details": [
+      "Durable Leather (15) Heavy Leather Cord (3)",
+      "60"
+    ],
+    "search": "chest durable leather (15) heavy leather cord (3) 60"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/durable_strides.png",
+    "category": "recipes",
+    "details": [
+      "Durable Leather (10) Heavy Leather Cord (2)",
+      "60"
+    ],
+    "search": "legs durable leather (10) heavy leather cord (2) 60"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/rugged_hood.png",
+    "category": "recipes",
+    "details": [
+      "Rugged Leather (20) Light Leather Cord (4)",
+      "70"
+    ],
+    "search": "helmet rugged leather (20) light leather cord (4) 70"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/rugged_coat.png",
+    "category": "recipes",
+    "details": [
+      "Rugged Leather (15) Heavy Leather Cord (3)",
+      "70"
+    ],
+    "search": "chest rugged leather (15) heavy leather cord (3) 70"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/rugged_strides.png",
+    "category": "recipes",
+    "details": [
+      "Rugged Leather (10) Heavy Leather Cord (2)",
+      "70"
+    ],
+    "search": "legs rugged leather (10) heavy leather cord (2) 70"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/rugged_boots.png",
+    "category": "recipes",
+    "details": [
+      "Rugged Leather (5) Light Leather Cord (1)",
+      "70"
+    ],
+    "search": "feet rugged leather (5) light leather cord (1) 70"
+  },
+  {
+    "name": "Armor Slot",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Recipe",
+      "Level"
+    ],
+    "search": "armor slot recipe level"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/tin_bucket_hat.png",
+    "category": "recipes",
+    "details": [
+      "Tin Bar (5)",
+      "1"
+    ],
+    "search": "helmet tin bar (5) 1"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/copper_breastplate.png",
+    "category": "recipes",
+    "details": [
+      "Copper Bar (4)",
+      "5"
+    ],
+    "search": "chest copper bar (4) 5"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/copper_boots.png",
+    "category": "recipes",
+    "details": [
+      "Copper Bar (2)",
+      "5"
+    ],
+    "search": "feet copper bar (2) 5"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/copper_platelegs.png",
+    "category": "recipes",
+    "details": [
+      "Copper Bar (3)",
+      "5"
+    ],
+    "search": "legs copper bar (3) 5"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/mining_pants.png",
+    "category": "recipes",
+    "details": [
+      "Tin Bar (10)",
+      "7"
+    ],
+    "search": "legs tin bar (10) 7"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/iron_shield.png",
+    "category": "recipes",
+    "details": [
+      "Iron Bar (4)",
+      "10"
+    ],
+    "search": "shield iron bar (4) 10"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/elders_crown.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Elder's Crown (1) Broken Stag Antler (3) Stag Rack (5)",
+      "10"
+    ],
+    "search": "helmet magic recipe: elder's crown (1) broken stag antler (3) stag rack (5) 10"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/iron_breastplate.png",
+    "category": "recipes",
+    "details": [
+      "Iron Bar (4)",
+      "10"
+    ],
+    "search": "chest iron bar (4) 10"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/iron_boots.png",
+    "category": "recipes",
+    "details": [
+      "Iron Bar (2)",
+      "10"
+    ],
+    "search": "feet iron bar (2) 10"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/iron_platelegs.png",
+    "category": "recipes",
+    "details": [
+      "Iron Bar (3)",
+      "10"
+    ],
+    "search": "legs iron bar (3) 10"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/mining_vest.png",
+    "category": "recipes",
+    "details": [
+      "Copper Bar (10)",
+      "17"
+    ],
+    "search": "chest copper bar (10) 17"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/steel_shield.png",
+    "category": "recipes",
+    "details": [
+      "Steel Bar (4)",
+      "20"
+    ],
+    "search": "shield steel bar (4) 20"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/steel_boots.png",
+    "category": "recipes",
+    "details": [
+      "Steel Bar (2)",
+      "20"
+    ],
+    "search": "feet steel bar (2) 20"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/steel_platelegs.png",
+    "category": "recipes",
+    "details": [
+      "Steel Bar (3)",
+      "20"
+    ],
+    "search": "legs steel bar (3) 20"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/steel_breastplate.png",
+    "category": "recipes",
+    "details": [
+      "Steel Bar (4)",
+      "20"
+    ],
+    "search": "chest steel bar (4) 20"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/steel_lid.png",
+    "category": "recipes",
+    "details": [
+      "Steel Bar (5)",
+      "20"
+    ],
+    "search": "helmet steel bar (5) 20"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/tungsten_platelegs.png",
+    "category": "recipes",
+    "details": [
+      "Tungsten Bar (3)",
+      "30"
+    ],
+    "search": "legs tungsten bar (3) 30"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/tungsten_breastplate.png",
+    "category": "recipes",
+    "details": [
+      "Tungsten Bar (4)",
+      "30"
+    ],
+    "search": "chest tungsten bar (4) 30"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/tungsten_lid.png",
+    "category": "recipes",
+    "details": [
+      "Tungsten Bar (5)",
+      "30"
+    ],
+    "search": "helmet tungsten bar (5) 30"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/tungsten_boots.png",
+    "category": "recipes",
+    "details": [
+      "Tungsten Bar (2)",
+      "30"
+    ],
+    "search": "feet tungsten bar (2) 30"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/tungsten_shield.png",
+    "category": "recipes",
+    "details": [
+      "Tungsten Bar (4)",
+      "30"
+    ],
+    "search": "shield tungsten bar (4) 30"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/platinum_breastplate.png",
+    "category": "recipes",
+    "details": [
+      "Platinum Bar (4)",
+      "40"
+    ],
+    "search": "chest platinum bar (4) 40"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/platinum_boots.png",
+    "category": "recipes",
+    "details": [
+      "Platinum Bar (2)",
+      "40"
+    ],
+    "search": "feet platinum bar (2) 40"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/platinum_platelegs.png",
+    "category": "recipes",
+    "details": [
+      "Platinum Bar (3)",
+      "40"
+    ],
+    "search": "legs platinum bar (3) 40"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/platinum_lid.png",
+    "category": "recipes",
+    "details": [
+      "Platinum Bar (5)",
+      "40"
+    ],
+    "search": "helmet platinum bar (5) 40"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/platinum_shield.png",
+    "category": "recipes",
+    "details": [
+      "Platinum Bar (4)",
+      "40"
+    ],
+    "search": "shield platinum bar (4) 40"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/hardened_scale_shield.png",
+    "category": "recipes",
+    "details": [
+      "Wet Blueprint: Hardened Scale Shield (1) Hardened Scale (20) Fish Resin (1) Pearl (1) Sailor's Song (1)",
+      "45"
+    ],
+    "search": "shield wet blueprint: hardened scale shield (1) hardened scale (20) fish resin (1) pearl (1) sailor's song (1) 45"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/cobalt_shield.png",
+    "category": "recipes",
+    "details": [
+      "Cobalt Bar (4)",
+      "50"
+    ],
+    "search": "shield cobalt bar (4) 50"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/cobalt_boots.png",
+    "category": "recipes",
+    "details": [
+      "Cobalt Bar (2)",
+      "50"
+    ],
+    "search": "feet cobalt bar (2) 50"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/cobalt_platelegs.png",
+    "category": "recipes",
+    "details": [
+      "Cobalt Bar (3)",
+      "50"
+    ],
+    "search": "legs cobalt bar (3) 50"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/cobalt_breastplate.png",
+    "category": "recipes",
+    "details": [
+      "Cobalt Bar (4)",
+      "50"
+    ],
+    "search": "chest cobalt bar (4) 50"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/cobalt_lid.png",
+    "category": "recipes",
+    "details": [
+      "Cobalt Bar (5)",
+      "50"
+    ],
+    "search": "helmet cobalt bar (5) 50"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/mythril_shield.png",
+    "category": "recipes",
+    "details": [
+      "Mythril Bar (4)",
+      "60"
+    ],
+    "search": "shield mythril bar (4) 60"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/mythril_helm.png",
+    "category": "recipes",
+    "details": [
+      "Mythril Bar (5)",
+      "60"
+    ],
+    "search": "helmet mythril bar (5) 60"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/mythril_breastplate.png",
+    "category": "recipes",
+    "details": [
+      "Mythril Bar (4)",
+      "60"
+    ],
+    "search": "chest mythril bar (4) 60"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/mythril_platelegs.png",
+    "category": "recipes",
+    "details": [
+      "Mythril Bar (3)",
+      "60"
+    ],
+    "search": "legs mythril bar (3) 60"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/mythril_boots.png",
+    "category": "recipes",
+    "details": [
+      "Mythril Bar (2)",
+      "60"
+    ],
+    "search": "feet mythril bar (2) 60"
+  },
+  {
+    "name": "Feet",
+    "icon": "/images/recipes/obsidian_boots.png",
+    "category": "recipes",
+    "details": [
+      "Obsidian Bar (2)",
+      "70"
+    ],
+    "search": "feet obsidian bar (2) 70"
+  },
+  {
+    "name": "Legs",
+    "icon": "/images/recipes/obsidian_platelegs.png",
+    "category": "recipes",
+    "details": [
+      "Obsidian Bar (3)",
+      "70"
+    ],
+    "search": "legs obsidian bar (3) 70"
+  },
+  {
+    "name": "Chest",
+    "icon": "/images/recipes/obsidian_breastplate.png",
+    "category": "recipes",
+    "details": [
+      "Obsidian Bar (4)",
+      "70"
+    ],
+    "search": "chest obsidian bar (4) 70"
+  },
+  {
+    "name": "Helmet",
+    "icon": "/images/recipes/obsidian_helm.png",
+    "category": "recipes",
+    "details": [
+      "Obsidian Bar (5)",
+      "70"
+    ],
+    "search": "helmet obsidian bar (5) 70"
+  },
+  {
+    "name": "Shield",
+    "icon": "/images/recipes/obsidian_shield.png",
+    "category": "recipes",
+    "details": [
+      "Obsidian Bar (4)",
+      "70"
+    ],
+    "search": "shield obsidian bar (4) 70"
+  },
+  {
+    "name": "Recipe",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Level"
+    ],
+    "search": "recipe level"
+  },
+  {
+    "name": "Oak Boards (1) Tin Bar (1)",
+    "icon": "/images/recipes/twig_rod.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "oak boards (1) tin bar (1) 1"
+  },
+  {
+    "name": "Oak Boards (1) Tin Bar (1) Fish Resin (1)",
+    "icon": "/images/recipes/novice_anglers_rod.png",
+    "category": "recipes",
+    "details": [
+      "5"
+    ],
+    "search": "oak boards (1) tin bar (1) fish resin (1) 5"
+  },
+  {
+    "name": "Pine Boards (2) Copper Bar (1) Fish Resin (1)",
+    "icon": "/images/recipes/apprentice_anglers_rod.png",
+    "category": "recipes",
+    "details": [
+      "10"
+    ],
+    "search": "pine boards (2) copper bar (1) fish resin (1) 10"
+  },
+  {
+    "name": "Birch Boards (2) Steel Bar (1) Fish Barb (2) Fish Resin (1)",
+    "icon": "/images/recipes/journeyman_anglers_rod.png",
+    "category": "recipes",
+    "details": [
+      "20"
+    ],
+    "search": "birch boards (2) steel bar (1) fish barb (2) fish resin (1) 20"
+  },
+  {
+    "name": "Maple Boards (2) Tungsten Bar (1) Hardened Scale (5) Fish Resin (1)",
+    "icon": "/images/recipes/proficient_anglers_rod.png",
+    "category": "recipes",
+    "details": [
+      "30"
+    ],
+    "search": "maple boards (2) tungsten bar (1) hardened scale (5) fish resin (1) 30"
+  },
+  {
+    "name": "Mandrove Boards (2) Platinum Bar (1) Pearl (1) Fish Resin (1)",
+    "icon": "/images/recipes/skilled_anglers_rod.png",
+    "category": "recipes",
+    "details": [
+      "40"
+    ],
+    "search": "mandrove boards (2) platinum bar (1) pearl (1) fish resin (1) 40"
+  },
+  {
+    "name": "Pecan Boards (2) Cobalt Bar (1) Pearl (1) Fish Resin (1)",
+    "icon": "/images/recipes/expert_anglers_rod.png",
+    "category": "recipes",
+    "details": [
+      "50"
+    ],
+    "search": "pecan boards (2) cobalt bar (1) pearl (1) fish resin (1) 50"
+  },
+  {
+    "name": "Palm Boards (2) Mythril Bar (1) Pearl (1) Fish Resin (1)",
+    "icon": "/images/recipes/veteran_anglers_rod.png",
+    "category": "recipes",
+    "details": [
+      "60"
+    ],
+    "search": "palm boards (2) mythril bar (1) pearl (1) fish resin (1) 60"
+  },
+  {
+    "name": "Willow Boards (2) Obsidian Bar (1) Pearl (1) Fish Resin (1)",
+    "icon": "/images/recipes/master_anglers_rod.png",
+    "category": "recipes",
+    "details": [
+      "70"
+    ],
+    "search": "willow boards (2) obsidian bar (1) pearl (1) fish resin (1) 70"
+  },
+  {
+    "name": "Recipe",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Level"
+    ],
+    "search": "recipe level"
+  },
+  {
+    "name": "Tin Ore (3) Coal (2)",
+    "icon": "/images/recipes/tin_bar.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "tin ore (3) coal (2) 1"
+  },
+  {
+    "name": "Wood (2)",
+    "icon": "/images/recipes/coal.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "wood (2) 1"
+  },
+  {
+    "name": "Copper Ore (3) Coal (2)",
+    "icon": "/images/recipes/copper_bar.png",
+    "category": "recipes",
+    "details": [
+      "5"
+    ],
+    "search": "copper ore (3) coal (2) 5"
+  },
+  {
+    "name": "Iron Ore (3) Coal (2)",
+    "icon": "/images/recipes/iron_bar.png",
+    "category": "recipes",
+    "details": [
+      "10"
+    ],
+    "search": "iron ore (3) coal (2) 10"
+  },
+  {
+    "name": "Iron Ore (6) Coal (3)",
+    "icon": "/images/recipes/steel_bar.png",
+    "category": "recipes",
+    "details": [
+      "15"
+    ],
+    "search": "iron ore (6) coal (3) 15"
+  },
+  {
+    "name": "Tungsten Ore (3) Coal (2)",
+    "icon": "/images/recipes/tungsten_bar.png",
+    "category": "recipes",
+    "details": [
+      "25"
+    ],
+    "search": "tungsten ore (3) coal (2) 25"
+  },
+  {
+    "name": "Platinum Ore (3) Coal (4)",
+    "icon": "/images/recipes/platinum_bar.png",
+    "category": "recipes",
+    "details": [
+      "35"
+    ],
+    "search": "platinum ore (3) coal (4) 35"
+  },
+  {
+    "name": "Cobalt Ore (3) Coal (4)",
+    "icon": "/images/recipes/cobalt_bar.png",
+    "category": "recipes",
+    "details": [
+      "45"
+    ],
+    "search": "cobalt ore (3) coal (4) 45"
+  },
+  {
+    "name": "Mythril Ore (3) Coal (4)",
+    "icon": "/images/recipes/mythril_bar.png",
+    "category": "recipes",
+    "details": [
+      "55"
+    ],
+    "search": "mythril ore (3) coal (4) 55"
+  },
+  {
+    "name": "Obsidian Ore (3) Coal (6)",
+    "icon": "/images/recipes/obsidian_bar.png",
+    "category": "recipes",
+    "details": [
+      "65"
+    ],
+    "search": "obsidian ore (3) coal (6) 65"
+  },
+  {
+    "name": "Radium Ore (3) Coal (6)",
+    "icon": "/images/recipes/radium_bar.png",
+    "category": "recipes",
+    "details": [
+      "75"
+    ],
+    "search": "radium ore (3) coal (6) 75"
+  },
+  {
+    "name": "Recipe",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Level"
+    ],
+    "search": "recipe level"
+  },
+  {
+    "name": "Gin Berry (1) Small Game Meat (1)",
+    "icon": "/images/recipes/meatball_bait.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "gin berry (1) small game meat (1) 1"
+  },
+  {
+    "name": "Stag Rack (10) Gin Berry (25) Shiny Scale (10) Exotic Bait Kit (1)",
+    "icon": "/images/recipes/deer_guardian_offering.png",
+    "category": "recipes",
+    "details": [
+      "5"
+    ],
+    "search": "stag rack (10) gin berry (25) shiny scale (10) exotic bait kit (1) 5"
+  },
+  {
+    "name": "Boar Tusk (20) Wild Turnip (25) Hardened Scale (10) Exotic Bait Kit (1)",
+    "icon": "/images/recipes/boar_guardian_offering.png",
+    "category": "recipes",
+    "details": [
+      "8"
+    ],
+    "search": "boar tusk (20) wild turnip (25) hardened scale (10) exotic bait kit (1) 8"
+  },
+  {
+    "name": "Gin Berry (1) White Fish Meat (1) Bait Kit (1)",
+    "icon": "/images/recipes/sweet_fish_paste.png",
+    "category": "recipes",
+    "details": [
+      "10"
+    ],
+    "search": "gin berry (1) white fish meat (1) bait kit (1) 10"
+  },
+  {
+    "name": "Feather (20) Grizzled Steak (10) Fish Barb (10) Exotic Bait Kit (1)",
+    "icon": "/images/recipes/vulture_guardian_offering.png",
+    "category": "recipes",
+    "details": [
+      "13"
+    ],
+    "search": "feather (20) grizzled steak (10) fish barb (10) exotic bait kit (1) 13"
+  },
+  {
+    "name": "Gin Berry (2) Grizzled Steak (1) Bait Kit (1)",
+    "icon": "/images/recipes/steak_bites.png",
+    "category": "recipes",
+    "details": [
+      "15"
+    ],
+    "search": "gin berry (2) grizzled steak (1) bait kit (1) 15"
+  },
+  {
+    "name": "Grizzled Steak (8) Lumin Shard (50) Exotic Bait Kit (1)",
+    "icon": "/images/recipes/blood_offering.png",
+    "category": "recipes",
+    "details": [
+      "18"
+    ],
+    "search": "grizzled steak (8) lumin shard (50) exotic bait kit (1) 18"
+  },
+  {
+    "name": "Wild Turnip (1) Orange Fish Meat (1) Bait Kit (1)",
+    "icon": "/images/recipes/bitter_pellet.png",
+    "category": "recipes",
+    "details": [
+      "20"
+    ],
+    "search": "wild turnip (1) orange fish meat (1) bait kit (1) 20"
+  },
+  {
+    "name": "Wild Turnip (2) Clam Meat (1) Bait Kit (1)",
+    "icon": "/images/recipes/clam_cubes.png",
+    "category": "recipes",
+    "details": [
+      "25"
+    ],
+    "search": "wild turnip (2) clam meat (1) bait kit (1) 25"
+  },
+  {
+    "name": "Bone (20) Lumin Shard (100) Exotic Bait Kit (1)",
+    "icon": "/images/recipes/soul_offering.png",
+    "category": "recipes",
+    "details": [
+      "28"
+    ],
+    "search": "bone (20) lumin shard (100) exotic bait kit (1) 28"
+  },
+  {
+    "name": "Blood of Canis (1) Fish Barb (1) Exotic Bait Kit (1)",
+    "icon": "/images/recipes/foul_blood_bait.png",
+    "category": "recipes",
+    "details": [
+      "35"
+    ],
+    "search": "blood of canis (1) fish barb (1) exotic bait kit (1) 35"
+  },
+  {
+    "name": "Clam Meat (10) Salty Anthology (1) Exotic Bait Kit (1)",
+    "icon": "/images/recipes/river_guardian_offering.png",
+    "category": "recipes",
+    "details": [
+      "35"
+    ],
+    "search": "clam meat (10) salty anthology (1) exotic bait kit (1) 35"
+  },
+  {
+    "name": "Lost Soul (1) Pearl (1) Exotic Bait Kit (1)",
+    "icon": "/images/recipes/spectral_fish_bait.png",
+    "category": "recipes",
+    "details": [
+      "45"
+    ],
+    "search": "lost soul (1) pearl (1) exotic bait kit (1) 45"
+  },
+  {
+    "name": "Recipe",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Level"
+    ],
+    "search": "recipe level"
+  },
+  {
+    "name": "Oak Boards (1) Tin Bar (1)",
+    "icon": "/images/recipes/flimsy_axe.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "oak boards (1) tin bar (1) 1"
+  },
+  {
+    "name": "Oak Boards (2) Tin Bar (1)",
+    "icon": "/images/recipes/tin_axe.png",
+    "category": "recipes",
+    "details": [
+      "5"
+    ],
+    "search": "oak boards (2) tin bar (1) 5"
+  },
+  {
+    "name": "Pine Boards (2) Copper Bar (1)",
+    "icon": "/images/recipes/copper_axe.png",
+    "category": "recipes",
+    "details": [
+      "10"
+    ],
+    "search": "pine boards (2) copper bar (1) 10"
+  },
+  {
+    "name": "Birch Boards (2) Steel Bar (1)",
+    "icon": "/images/recipes/steel_axe.png",
+    "category": "recipes",
+    "details": [
+      "20"
+    ],
+    "search": "birch boards (2) steel bar (1) 20"
+  },
+  {
+    "name": "Maple Boards (2) Tungsten Bar (1)",
+    "icon": "/images/recipes/tungsten_axe.png",
+    "category": "recipes",
+    "details": [
+      "30"
+    ],
+    "search": "maple boards (2) tungsten bar (1) 30"
+  },
+  {
+    "name": "Mandrove Boards (2) Platinum Bar (1)",
+    "icon": "/images/recipes/platinum_axe.png",
+    "category": "recipes",
+    "details": [
+      "40"
+    ],
+    "search": "mandrove boards (2) platinum bar (1) 40"
+  },
+  {
+    "name": "Pecan Boards (2) Cobalt Bar (1)",
+    "icon": "/images/recipes/cobalt_axe.png",
+    "category": "recipes",
+    "details": [
+      "50"
+    ],
+    "search": "pecan boards (2) cobalt bar (1) 50"
+  },
+  {
+    "name": "Palm Boards (2) Mythril Bar (1)",
+    "icon": "/images/recipes/mythril_axe.png",
+    "category": "recipes",
+    "details": [
+      "60"
+    ],
+    "search": "palm boards (2) mythril bar (1) 60"
+  },
+  {
+    "name": "Willow Boards (2) Obsidian Bar (1)",
+    "icon": "/images/recipes/obsidian_axe.png",
+    "category": "recipes",
+    "details": [
+      "70"
+    ],
+    "search": "willow boards (2) obsidian bar (1) 70"
+  },
+  {
+    "name": "Recipe",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Level"
+    ],
+    "search": "recipe level"
+  },
+  {
+    "name": "Rodent Pelt (2)",
+    "icon": "/images/recipes/flimsy_leather.png",
+    "category": "recipes",
+    "details": [
+      "1"
+    ],
+    "search": "rodent pelt (2) 1"
+  },
+  {
+    "name": "Rodent Pelt (2) Soft Hide (1)",
+    "icon": "/images/recipes/plush_leather.png",
+    "category": "recipes",
+    "details": [
+      "10"
+    ],
+    "search": "rodent pelt (2) soft hide (1) 10"
+  },
+  {
+    "name": "Soft Hide (2) Bone Dust (1)",
+    "icon": "/images/recipes/fragile_leather.png",
+    "category": "recipes",
+    "details": [
+      "15"
+    ],
+    "search": "soft hide (2) bone dust (1) 15"
+  },
+  {
+    "name": "Bone (2)",
+    "icon": "/images/recipes/bone_dust.png",
+    "category": "recipes",
+    "details": [
+      "15"
+    ],
+    "search": "bone (2) 15"
+  },
+  {
+    "name": "Rodent Pelt (6) Bone Dust (1)",
+    "icon": "/images/recipes/light_leather_cord.png",
+    "category": "recipes",
+    "details": [
+      "20"
+    ],
+    "search": "rodent pelt (6) bone dust (1) 20"
+  },
+  {
+    "name": "Rodent Pelt (2) Soft Hide (2) Bone Dust (1)",
+    "icon": "/images/recipes/delicate_leather.png",
+    "category": "recipes",
+    "details": [
+      "25"
+    ],
+    "search": "rodent pelt (2) soft hide (2) bone dust (1) 25"
+  },
+  {
+    "name": "Soft Hide (2) Medium Hide (2)",
+    "icon": "/images/recipes/heavy_leather_cord.png",
+    "category": "recipes",
+    "details": [
+      "30"
+    ],
+    "search": "soft hide (2) medium hide (2) 30"
+  },
+  {
+    "name": "Medium Hide (2) Bone Dust (1)",
+    "icon": "/images/recipes/graceful_leather.png",
+    "category": "recipes",
+    "details": [
+      "35"
+    ],
+    "search": "medium hide (2) bone dust (1) 35"
+  },
+  {
+    "name": "Soft Hide (2) Medium Hide (2) Leather Oil (1)",
+    "icon": "/images/recipes/sturdy_leather.png",
+    "category": "recipes",
+    "details": [
+      "45"
+    ],
+    "search": "soft hide (2) medium hide (2) leather oil (1) 45"
+  },
+  {
+    "name": "Thick Hide (2) Leather Oil (1)",
+    "icon": "/images/recipes/durable_leather.png",
+    "category": "recipes",
+    "details": [
+      "55"
+    ],
+    "search": "thick hide (2) leather oil (1) 55"
+  },
+  {
+    "name": "Medium Hide (2) Thick Hide (2) Leather Oil (1)",
+    "icon": "/images/recipes/rugged_leather.png",
+    "category": "recipes",
+    "details": [
+      "65"
+    ],
+    "search": "medium hide (2) thick hide (2) leather oil (1) 65"
+  },
+  {
+    "name": "Weapon Type",
+    "icon": null,
+    "category": "recipes",
+    "details": [
+      "Recipe",
+      "Level"
+    ],
+    "search": "weapon type recipe level"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/tin_sword.png",
+    "category": "recipes",
+    "details": [
+      "Tin Bar (5)",
+      "1"
+    ],
+    "search": "sword tin bar (5) 1"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/copper_sword.png",
+    "category": "recipes",
+    "details": [
+      "Copper Bar (5)",
+      "5"
+    ],
+    "search": "sword copper bar (5) 5"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/copper_dagger.png",
+    "category": "recipes",
+    "details": [
+      "Copper Bar (3)",
+      "5"
+    ],
+    "search": "dagger copper bar (3) 5"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/bone_blade.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Bone Blade (1) Steel Bar (5) Bone (10)",
+      "9"
+    ],
+    "search": "sword magic recipe: bone blade (1) steel bar (5) bone (10) 9"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/iron_sword.png",
+    "category": "recipes",
+    "details": [
+      "Iron Bar (5)",
+      "10"
+    ],
+    "search": "sword iron bar (5) 10"
+  },
+  {
+    "name": "Polearm",
+    "icon": "/images/recipes/iron_polearm.png",
+    "category": "recipes",
+    "details": [
+      "Iron Bar (10)",
+      "10"
+    ],
+    "search": "polearm iron bar (10) 10"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/spinal_tap.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Spinal Tap (1) Bone Blade (1) Lumin Crystal (1)",
+      "10"
+    ],
+    "search": "sword magic blueprint: spinal tap (1) bone blade (1) lumin crystal (1) 10"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/iron_dagger.png",
+    "category": "recipes",
+    "details": [
+      "Iron Bar (3)",
+      "10"
+    ],
+    "search": "dagger iron bar (3) 10"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/bone_splinter.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Bone Splinter (1) Skeletal Dagger (1) Lumin Crystal (2) Bone (10)",
+      "15"
+    ],
+    "search": "dagger magic blueprint: bone splinter (1) skeletal dagger (1) lumin crystal (2) bone (10) 15"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/steel_dagger.png",
+    "category": "recipes",
+    "details": [
+      "Steel Bar (3)",
+      "20"
+    ],
+    "search": "dagger steel bar (3) 20"
+  },
+  {
+    "name": "Polearm",
+    "icon": "/images/recipes/steel_polearm.png",
+    "category": "recipes",
+    "details": [
+      "Steel Bar (10)",
+      "20"
+    ],
+    "search": "polearm steel bar (10) 20"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/steel_sword.png",
+    "category": "recipes",
+    "details": [
+      "Steel Bar (5)",
+      "20"
+    ],
+    "search": "sword steel bar (5) 20"
+  },
+  {
+    "name": "Polearm",
+    "icon": "/images/recipes/oppressor.png",
+    "category": "recipes",
+    "details": [
+      "Magic Recipe: Oppressor (1) Bone (50) Steel Bar (10)",
+      "25"
+    ],
+    "search": "polearm magic recipe: oppressor (1) bone (50) steel bar (10) 25"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/wrath_of_canis.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Wrath of Canis (1) Fang of Canis (1) Blood of Canis (10) Lumin Crystal (2)",
+      "25"
+    ],
+    "search": "sword magic blueprint: wrath of canis (1) fang of canis (1) blood of canis (10) lumin crystal (2) 25"
+  },
+  {
+    "name": "Polearm",
+    "icon": "/images/recipes/tungsten_polearm.png",
+    "category": "recipes",
+    "details": [
+      "Tungsten Bar (10)",
+      "30"
+    ],
+    "search": "polearm tungsten bar (10) 30"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/tungsten_sword.png",
+    "category": "recipes",
+    "details": [
+      "Tungsten Bar (5)",
+      "30"
+    ],
+    "search": "sword tungsten bar (5) 30"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/tungsten_dagger.png",
+    "category": "recipes",
+    "details": [
+      "Tungsten Bar (3)",
+      "30"
+    ],
+    "search": "dagger tungsten bar (3) 30"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/overseers_grasp.png",
+    "category": "recipes",
+    "details": [
+      "Magic Blueprint: Overseer's Grasp (1) Overseer's Hand (1) Lost Soul (30) Lumin Crystal (10)",
+      "35"
+    ],
+    "search": "sword magic blueprint: overseer's grasp (1) overseer's hand (1) lost soul (30) lumin crystal (10) 35"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/platinum_sword.png",
+    "category": "recipes",
+    "details": [
+      "Platinum Bar (5)",
+      "40"
+    ],
+    "search": "sword platinum bar (5) 40"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/platinum_dagger.png",
+    "category": "recipes",
+    "details": [
+      "Platinum Bar (3)",
+      "40"
+    ],
+    "search": "dagger platinum bar (3) 40"
+  },
+  {
+    "name": "Polearm",
+    "icon": "/images/recipes/platinum_polearm.png",
+    "category": "recipes",
+    "details": [
+      "Platinum Bar (10)",
+      "40"
+    ],
+    "search": "polearm platinum bar (10) 40"
+  },
+  {
+    "name": "Mace",
+    "icon": "/images/recipes/stonescale_brutalizer.png",
+    "category": "recipes",
+    "details": [
+      "Lost Recipe: Stonescale Brutalizer (1) Hardened Scale (15) Fish Barb (5) Pearl (1) Fish Resin (1)",
+      "45"
+    ],
+    "search": "mace lost recipe: stonescale brutalizer (1) hardened scale (15) fish barb (5) pearl (1) fish resin (1) 45"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/barbed_chakram.png",
+    "category": "recipes",
+    "details": [
+      "Lost Recipe: Barbed Chakram (1) Fish Barb (15) Pearl (1) Fish Resin (1)",
+      "45"
+    ],
+    "search": "dagger lost recipe: barbed chakram (1) fish barb (15) pearl (1) fish resin (1) 45"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/cobalt_dagger.png",
+    "category": "recipes",
+    "details": [
+      "Cobalt Bar (3)",
+      "50"
+    ],
+    "search": "dagger cobalt bar (3) 50"
+  },
+  {
+    "name": "Polearm",
+    "icon": "/images/recipes/cobalt_polearm.png",
+    "category": "recipes",
+    "details": [
+      "Cobalt Bar (10)",
+      "50"
+    ],
+    "search": "polearm cobalt bar (10) 50"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/cobalt_sword.png",
+    "category": "recipes",
+    "details": [
+      "Cobalt Bar (5)",
+      "50"
+    ],
+    "search": "sword cobalt bar (5) 50"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/mythril_sword.png",
+    "category": "recipes",
+    "details": [
+      "Mythril Bar (5)",
+      "60"
+    ],
+    "search": "sword mythril bar (5) 60"
+  },
+  {
+    "name": "Polearm",
+    "icon": "/images/recipes/mythril_polearm.png",
+    "category": "recipes",
+    "details": [
+      "Mythril Bar (10)",
+      "60"
+    ],
+    "search": "polearm mythril bar (10) 60"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/mythril_dagger.png",
+    "category": "recipes",
+    "details": [
+      "Mythril Bar (3)",
+      "60"
+    ],
+    "search": "dagger mythril bar (3) 60"
+  },
+  {
+    "name": "Dagger",
+    "icon": "/images/recipes/obsidian_dagger.png",
+    "category": "recipes",
+    "details": [
+      "Obsidian Bar (3)",
+      "70"
+    ],
+    "search": "dagger obsidian bar (3) 70"
+  },
+  {
+    "name": "Sword",
+    "icon": "/images/recipes/obsidian_sword.png",
+    "category": "recipes",
+    "details": [
+      "Obsidian Bar (5)",
+      "70"
+    ],
+    "search": "sword obsidian bar (5) 70"
+  },
+  {
+    "name": "Polearm",
+    "icon": "/images/recipes/obsidian_polearm.png",
+    "category": "recipes",
+    "details": [
+      "Obsidian Bar (10)",
+      "70"
+    ],
+    "search": "polearm obsidian bar (10) 70"
+  }
+]
