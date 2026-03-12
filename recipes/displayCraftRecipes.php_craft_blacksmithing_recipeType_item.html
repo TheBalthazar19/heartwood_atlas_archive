@@ -1,0 +1,68 @@
+<TABLE BORDER='1' id='craftTable' class='tablesorter'>
+<input id="recipeSearch" type="text" placeholder="Search..">
+	<THEAD style='background-color: #f5f5f5; color: #757575; font-weight: bold;'><TR><TD>Manufactured Item</TD> <TD>Recipe</TD><TD>Level</TR></THEAD><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/tin_bar.png'> <span name="Tin Bar" title="" style="">Tin Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/tin_ore.png'> Tin Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(2)</TD><TD>1</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> <span name="Coal" title="" style="">Coal</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/wood.png'> Wood &nbsp;(2)</TD><TD>1</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/copper_bar.png'> <span name="Copper Bar" title="" style="">Copper Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/copper_ore.png'> Copper Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(2)</TD><TD>5</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/iron_bar.png'> <span name="Iron Bar" title="" style="">Iron Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/iron_ore.png'> Iron Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(2)</TD><TD>10</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/steel_bar.png'> <span name="Steel Bar" title="" style="">Steel Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/iron_ore.png'> Iron Ore &nbsp;(6)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(3)</TD><TD>15</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/tungsten_bar.png'> <span name="Tungsten Bar" title="" style="">Tungsten Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/tungsten_ore.png'> Tungsten Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(2)</TD><TD>25</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/platinum_bar.png'> <span name="Platinum Bar" title="" style="">Platinum Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/platinum_ore.png'> Platinum Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(4)</TD><TD>35</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/cobalt_bar.png'> <span name="Cobalt Bar" title="" style="">Cobalt Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/cobalt_ore.png'> Cobalt Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(4)</TD><TD>45</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/mythril_bar.png'> <span name="Mythril Bar" title="" style="">Mythril Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/mythril_ore.png'> Mythril Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(4)</TD><TD>55</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/obsidian_bar.png'> <span name="Obsidian Bar" title="" style="">Obsidian Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/obsidian_ore.png'> Obsidian Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(6)</TD><TD>65</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/radium_bar.png'> <span name="Radium Bar" title="" style="">Radium Bar</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/radium_ore.png'> Radium Ore &nbsp;(3)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/coal.png'> Coal &nbsp;(6)</TD><TD>75</TD></TR></TABLE><script src="https://kit.fontawesome.com/556d7a50d0.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://apps.heartwoodatlas.com/inc/jquery-ui.css">
+<link rel="stylesheet" href="https://apps.heartwoodatlas.com/inc/tablesorter/css/theme.default.min.css">
+<script src="https://apps.heartwoodatlas.com/inc/jquery-3.6.0.js"></script>
+<script src="https://apps.heartwoodatlas.com/inc/jquery-ui.js"></script>
+<script src="https://apps.heartwoodatlas.com/inc/tablesorter/js/jquery.tablesorter.combined.min.js"></script>
+<script>
+$( function() {
+  $( document ).tooltip({tooltipClass: 'weaponArmorTT'});
+
+  
+  
+  
+
+} );
+
+$("#craftTable").tablesorter({
+  sortList: [[3,0]],
+	widgets: ['zebra', 'StickyHeaders'],
+	widgetOptions : {
+		zebra : [ "normal-row", "alt-row" ],
+		stickyHeaders_attachTo: null
+	}
+  });	
+
+  $( document ).ready(function() {
+
+    $("#recipeSearch").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $("#craftTable tbody tr").filter(function() {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+      });
+
+	console.log( "ready! - #craftTable-blacksmithing-item" );
+});
+
+</script>
+<style>
+table.tablesorter tbody tr.normal-row td {
+	background: #B5A780; 
+  font-weight: bold;
+	color: #fff;
+  }
+  table.tablesorter tbody tr.alt-row td {
+	background: #A29472;
+  font-weight: bold;
+	color: #fff;
+  }
+label {
+  display: inline-block;
+  width: 5em;
+}
+.weaponArmorTT {
+    font-size: 12px;
+    border:1px solid #e74c3c;
+    background-color: #DBCCA9;
+}
+img {
+	vertical-align: middle;
+	height: auto;
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: crisp-edges;
+}
+</style>

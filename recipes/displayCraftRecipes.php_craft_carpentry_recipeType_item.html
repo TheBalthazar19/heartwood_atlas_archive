@@ -1,0 +1,68 @@
+<TABLE BORDER='1' id='craftTable' class='tablesorter'>
+<input id="recipeSearch" type="text" placeholder="Search..">
+	<THEAD style='background-color: #f5f5f5; color: #757575; font-weight: bold;'><TR><TD>Manufactured Item</TD> <TD>Recipe</TD><TD>Level</TR></THEAD><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/oak_boards.png'> <span name="Oak Boards" title="" style="">Oak Boards</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/oak_log.png'> Oak Log &nbsp;(5)</TD><TD>1</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/pine_boards.png'> <span name="Pine Boards" title="" style="">Pine Boards</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/pine_log.png'> Pine Log &nbsp;(5)</TD><TD>5</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/birch_boards.png'> <span name="Birch Boards" title="" style="">Birch Boards</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/birch_log.png'> Birch Log &nbsp;(5)</TD><TD>15</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/maple_boards.png'> <span name="Maple Boards" title="" style="">Maple Boards</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/maple_log.png'> Maple Log &nbsp;(5)</TD><TD>25</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/mandrove_boards.png'> <span name="Mandrove Boards" title="" style="">Mandrove Boards</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/mandrove_log.png'> Mandrove Log &nbsp;(5)</TD><TD>35</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/pecan_boards.png'> <span name="Pecan Boards" title="" style="">Pecan Boards</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/pecan_log.png'> Pecan Log &nbsp;(5)</TD><TD>45</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/palm_boards.png'> <span name="Palm Boards" title="" style="">Palm Boards</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/palm_log.png'> Palm Log &nbsp;(5)</TD><TD>55</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/willow_boards.png'> <span name="Willow Boards" title="" style="">Willow Boards</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/willow_log.png'> Willow Log &nbsp;(5)</TD><TD>65</TD></TR></TABLE><script src="https://kit.fontawesome.com/556d7a50d0.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://apps.heartwoodatlas.com/inc/jquery-ui.css">
+<link rel="stylesheet" href="https://apps.heartwoodatlas.com/inc/tablesorter/css/theme.default.min.css">
+<script src="https://apps.heartwoodatlas.com/inc/jquery-3.6.0.js"></script>
+<script src="https://apps.heartwoodatlas.com/inc/jquery-ui.js"></script>
+<script src="https://apps.heartwoodatlas.com/inc/tablesorter/js/jquery.tablesorter.combined.min.js"></script>
+<script>
+$( function() {
+  $( document ).tooltip({tooltipClass: 'weaponArmorTT'});
+
+  00000000
+  
+  
+
+} );
+
+$("#craftTable").tablesorter({
+  sortList: [[3,0]],
+	widgets: ['zebra', 'StickyHeaders'],
+	widgetOptions : {
+		zebra : [ "normal-row", "alt-row" ],
+		stickyHeaders_attachTo: null
+	}
+  });	
+
+  $( document ).ready(function() {
+
+    $("#recipeSearch").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $("#craftTable tbody tr").filter(function() {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+      });
+
+	console.log( "ready! - #craftTable-carpentry-item" );
+});
+
+</script>
+<style>
+table.tablesorter tbody tr.normal-row td {
+	background: #B5A780; 
+  font-weight: bold;
+	color: #fff;
+  }
+  table.tablesorter tbody tr.alt-row td {
+	background: #A29472;
+  font-weight: bold;
+	color: #fff;
+  }
+label {
+  display: inline-block;
+  width: 5em;
+}
+.weaponArmorTT {
+    font-size: 12px;
+    border:1px solid #e74c3c;
+    background-color: #DBCCA9;
+}
+img {
+	vertical-align: middle;
+	height: auto;
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: crisp-edges;
+}
+</style>

@@ -1,0 +1,68 @@
+<TABLE BORDER='1' id='craftTable' class='tablesorter'>
+<input id="recipeSearch" type="text" placeholder="Search..">
+	<THEAD style='background-color: #f5f5f5; color: #757575; font-weight: bold;'><TR><TD>Manufactured Item</TD> <TD>Recipe</TD><TD>Level</TR></THEAD><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/light_cotton_fabric.png'> <span name="Light Cotton Fabric" title="" style="">Light Cotton Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/cotton.png'> Cotton &nbsp;(3)</TD><TD>1</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/thread.png'> <span name="Thread" title="" style="">Thread</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/cotton.png'> Cotton &nbsp;(6)</TD><TD>5</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/heavy_cotton_fabric.png'> <span name="Heavy Cotton Fabric" title="" style="">Heavy Cotton Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/cotton.png'> Cotton &nbsp;(6)</TD><TD>5</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/wool_fabric.png'> <span name="Wool Fabric" title="" style="">Wool Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/wool.png'> Wool &nbsp;(4)</TD><TD>15</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/yarn.png'> <span name="Yarn" title="" style="">Yarn</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/wool.png'> Wool &nbsp;(4)</TD><TD>15</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/linen_fabric.png'> <span name="Linen Fabric" title="" style="">Linen Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/wool.png'> Wool &nbsp;(4)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/cotton.png'> Cotton &nbsp;(3)</TD><TD>25</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/silk_thread.png'> <span name="Silk Thread" title="" style="">Silk Thread</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/silk.png'> Silk &nbsp;(4)</TD><TD>25</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/black_wool_fabric.png'> <span name="Black Wool Fabric" title="" style="">Black Wool Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/black_wool.png'> Black Wool &nbsp;(10)</TD><TD>25</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/silk_fabric.png'> <span name="Silk Fabric" title="" style="">Silk Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/silk.png'> Silk &nbsp;(4)</TD><TD>35</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/lace_fabric.png'> <span name="Lace Fabric" title="" style="">Lace Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/wool.png'> Wool &nbsp;(2)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/silk.png'> Silk &nbsp;(4)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/mystic_thread.png'> Mystic Thread &nbsp;(1)</TD><TD>45</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/runeweave_fabric.png'> <span name="Runeweave Fabric" title="" style="">Runeweave Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/lace_fabric.png'> Lace Fabric &nbsp;(4)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/mystic_thread.png'> Mystic Thread &nbsp;(1)</TD><TD>55</TD></TR><TR><TD><img width='32px' src='https://heartwoodatlas.b-cdn.net/assets/items/hexweave_fabric.png'> <span name="Hexweave Fabric" title="" style="">Hexweave Fabric</span></TD><TD><img src='https://heartwoodatlas.b-cdn.net/assets/items/lace_fabric.png'> Lace Fabric &nbsp;(2)<br><img src='https://heartwoodatlas.b-cdn.net/assets/items/obsidian_fragments.png'> Obsidian Fragments &nbsp;(1)</TD><TD>65</TD></TR></TABLE><script src="https://kit.fontawesome.com/556d7a50d0.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://apps.heartwoodatlas.com/inc/jquery-ui.css">
+<link rel="stylesheet" href="https://apps.heartwoodatlas.com/inc/tablesorter/css/theme.default.min.css">
+<script src="https://apps.heartwoodatlas.com/inc/jquery-3.6.0.js"></script>
+<script src="https://apps.heartwoodatlas.com/inc/jquery-ui.js"></script>
+<script src="https://apps.heartwoodatlas.com/inc/tablesorter/js/jquery.tablesorter.combined.min.js"></script>
+<script>
+$( function() {
+  $( document ).tooltip({tooltipClass: 'weaponArmorTT'});
+
+  000000000000
+  
+  
+
+} );
+
+$("#craftTable").tablesorter({
+  sortList: [[3,0]],
+	widgets: ['zebra', 'StickyHeaders'],
+	widgetOptions : {
+		zebra : [ "normal-row", "alt-row" ],
+		stickyHeaders_attachTo: null
+	}
+  });	
+
+  $( document ).ready(function() {
+
+    $("#recipeSearch").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $("#craftTable tbody tr").filter(function() {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+      });
+
+	console.log( "ready! - #craftTable-tailoring-item" );
+});
+
+</script>
+<style>
+table.tablesorter tbody tr.normal-row td {
+	background: #B5A780; 
+  font-weight: bold;
+	color: #fff;
+  }
+  table.tablesorter tbody tr.alt-row td {
+	background: #A29472;
+  font-weight: bold;
+	color: #fff;
+  }
+label {
+  display: inline-block;
+  width: 5em;
+}
+.weaponArmorTT {
+    font-size: 12px;
+    border:1px solid #e74c3c;
+    background-color: #DBCCA9;
+}
+img {
+	vertical-align: middle;
+	height: auto;
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: crisp-edges;
+}
+</style>
