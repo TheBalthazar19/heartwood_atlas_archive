@@ -1,7 +1,7 @@
 [
   {
     "name": "Adventurer's Horse",
-    "icon": "/images/mounts/adventurers_horse.png",
+    "icon": "/public/images/mounts/adventurers_horse.png",
     "category": "mounts",
     "details": [
       "Adventurer's Horse Crate",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Ancient 01 (Stag)",
-    "icon": "/images/mounts/ancient_01_(stag).png",
+    "icon": "/public/images/mounts/ancient_01_(stag).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Jul 2023)",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Ancient 02 (Horse)",
-    "icon": "/images/mounts/ancient_02_(horse).png",
+    "icon": "/public/images/mounts/ancient_02_(horse).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Aug 2023)",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Ancient 03 (Rabbit)",
-    "icon": "/images/mounts/ancient_03_(rabbit).png",
+    "icon": "/public/images/mounts/ancient_03_(rabbit).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Sep 2023)",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Ancient 04 (Ram)",
-    "icon": "/images/mounts/ancient_04_(ram).png",
+    "icon": "/public/images/mounts/ancient_04_(ram).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Oct 2023)",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Ancient 05 (Vulture)",
-    "icon": "/images/mounts/ancient_05_(vulture).png",
+    "icon": "/public/images/mounts/ancient_05_(vulture).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Nov 2023)",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Ancient 06 (Boar)",
-    "icon": "/images/mounts/ancient_06_(boar).png",
+    "icon": "/public/images/mounts/ancient_06_(boar).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Dec 2023)",
@@ -71,7 +71,7 @@
   },
   {
     "name": "Ancient 07 (Wolf)",
-    "icon": "/images/mounts/ancient_07_(wolf).png",
+    "icon": "/public/images/mounts/ancient_07_(wolf).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Jan 2024)",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Ancient 08 (Rat)",
-    "icon": "/images/mounts/ancient_08_(rat).png",
+    "icon": "/public/images/mounts/ancient_08_(rat).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Feb 2024)",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Ancient 09 (Duck)",
-    "icon": "/images/mounts/ancient_09_(duck).png",
+    "icon": "/public/images/mounts/ancient_09_(duck).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Mar 2024)",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Ancient 10 (Bat)",
-    "icon": "/images/mounts/ancient_10_(bat).png",
+    "icon": "/public/images/mounts/ancient_10_(bat).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (Apr 2024)",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Ancient 11 (Worm)",
-    "icon": "/images/mounts/ancient_11_(worm).png",
+    "icon": "/public/images/mounts/ancient_11_(worm).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (May 2024)",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Ancient 12 (Tortoise)",
-    "icon": "/images/mounts/ancient_12_(tortoise).png",
+    "icon": "/public/images/mounts/ancient_12_(tortoise).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (June 2024)",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Ancient 13 (Fox)",
-    "icon": "/images/mounts/ancient_13_(fox).png",
+    "icon": "/public/images/mounts/ancient_13_(fox).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (July 2024)",
@@ -141,7 +141,7 @@
   },
   {
     "name": "Ancient 14 (Raccoon)",
-    "icon": "/images/mounts/ancient_14_(raccoon).png",
+    "icon": "/public/images/mounts/ancient_14_(raccoon).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (August 2024)",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Ancient 15 (Chicken)",
-    "icon": "/images/mounts/ancient_15_(chicken).png",
+    "icon": "/public/images/mounts/ancient_15_(chicken).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (September 2024)",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Ancient 16 (Beaver)",
-    "icon": "/images/mounts/ancient_16_(beaver).png",
+    "icon": "/public/images/mounts/ancient_16_(beaver).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (October 2024)",
@@ -171,7 +171,7 @@
   },
   {
     "name": "Ancient 17 (Bobcat)",
-    "icon": "/images/mounts/ancient_17_(bobcat).png",
+    "icon": "/public/images/mounts/ancient_17_(bobcat).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (November 2024)",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Ancient 18 (Bear)",
-    "icon": "/images/mounts/ancient_18_(bear).png",
+    "icon": "/public/images/mounts/ancient_18_(bear).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (December 2024)",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Ancient 19 (Raven)",
-    "icon": "/images/mounts/ancient_19_(raven).png",
+    "icon": "/public/images/mounts/ancient_19_(raven).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (January 2025)",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Ancient 20 (Cow)",
-    "icon": "/images/mounts/ancient_20_(cow).png",
+    "icon": "/public/images/mounts/ancient_20_(cow).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (February 2025)",
@@ -211,7 +211,7 @@
   },
   {
     "name": "Ancient 21 (Snail)",
-    "icon": "/images/mounts/ancient_21_(snail).png",
+    "icon": "/public/images/mounts/ancient_21_(snail).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (March 2025)",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Ancient 22 (Moose)",
-    "icon": "/images/mounts/ancient_22_(moose).png",
+    "icon": "/public/images/mounts/ancient_22_(moose).png",
     "category": "mounts",
     "details": [
       "Patreon Monthly Reward (April 2025)",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Bat",
-    "icon": "/images/mounts/bat.png",
+    "icon": "/public/images/mounts/bat.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Black Sheep",
-    "icon": "/images/mounts/black_sheep.png",
+    "icon": "/public/images/mounts/black_sheep.png",
     "category": "mounts",
     "details": [
       "Drop: Black Sheep",
@@ -251,7 +251,7 @@
   },
   {
     "name": "Blackthorn",
-    "icon": "/images/mounts/blackthorn.png",
+    "icon": "/public/images/mounts/blackthorn.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Blight",
-    "icon": "/images/mounts/blight.png",
+    "icon": "/public/images/mounts/blight.png",
     "category": "mounts",
     "details": [
       "Drop: Blight",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Blonde Horse",
-    "icon": "/images/mounts/blonde_horse.png",
+    "icon": "/public/images/mounts/blonde_horse.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -281,7 +281,7 @@
   },
   {
     "name": "Bloodhorn",
-    "icon": "/images/mounts/bloodhorn.png",
+    "icon": "/public/images/mounts/bloodhorn.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -291,7 +291,7 @@
   },
   {
     "name": "Boar",
-    "icon": "/images/mounts/boar.png",
+    "icon": "/public/images/mounts/boar.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -301,7 +301,7 @@
   },
   {
     "name": "Bones",
-    "icon": "/images/mounts/bones.png",
+    "icon": "/public/images/mounts/bones.png",
     "category": "mounts",
     "details": [
       "Drop: Bones",
@@ -311,7 +311,7 @@
   },
   {
     "name": "Brown Horse",
-    "icon": "/images/mounts/brown_horse.png",
+    "icon": "/public/images/mounts/brown_horse.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -321,7 +321,7 @@
   },
   {
     "name": "Buck",
-    "icon": "/images/mounts/buck.png",
+    "icon": "/public/images/mounts/buck.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -331,7 +331,7 @@
   },
   {
     "name": "Buckskin Horse",
-    "icon": "/images/mounts/buckskin_horse.png",
+    "icon": "/public/images/mounts/buckskin_horse.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -341,7 +341,7 @@
   },
   {
     "name": "Bug Tester",
-    "icon": "/images/mounts/bug_tester.png",
+    "icon": "/public/images/mounts/bug_tester.png",
     "category": "mounts",
     "details": [
       "Identifying a significant / unique bug in Heartwood",
@@ -351,7 +351,7 @@
   },
   {
     "name": "Chestnut Horse",
-    "icon": "/images/mounts/chestnut_horse.png",
+    "icon": "/public/images/mounts/chestnut_horse.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Doe",
-    "icon": "/images/mounts/doe.png",
+    "icon": "/public/images/mounts/doe.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -371,7 +371,7 @@
   },
   {
     "name": "Duck",
-    "icon": "/images/mounts/duck.png",
+    "icon": "/public/images/mounts/duck.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -381,7 +381,7 @@
   },
   {
     "name": "Elder Stag",
-    "icon": "/images/mounts/elder_stag.png",
+    "icon": "/public/images/mounts/elder_stag.png",
     "category": "mounts",
     "details": [
       "Drop: Elder Stag",
@@ -391,7 +391,7 @@
   },
   {
     "name": "Festive Reindeer",
-    "icon": "/images/mounts/festive_reindeer.png",
+    "icon": "/public/images/mounts/festive_reindeer.png",
     "category": "mounts",
     "details": [
       "(Event: Winterforge 2023) (Event: Winterforge 2025) Gem Shop Note: Available to obtain or purchase only during the event.",
@@ -401,7 +401,7 @@
   },
   {
     "name": "Fox",
-    "icon": "/images/mounts/fox.png",
+    "icon": "/public/images/mounts/fox.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -411,7 +411,7 @@
   },
   {
     "name": "Fur Trapper Mount",
-    "icon": "/images/mounts/fur_trapper_mount.png",
+    "icon": "/public/images/mounts/fur_trapper_mount.png",
     "category": "mounts",
     "details": [
       "Fur Trapper Horse Crate",
@@ -421,7 +421,7 @@
   },
   {
     "name": "Grey Horse",
-    "icon": "/images/mounts/grey_horse.png",
+    "icon": "/public/images/mounts/grey_horse.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -431,7 +431,7 @@
   },
   {
     "name": "Gypsy Horse",
-    "icon": "/images/mounts/gypsy_horse.png",
+    "icon": "/public/images/mounts/gypsy_horse.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -441,7 +441,7 @@
   },
   {
     "name": "Iceridge",
-    "icon": "/images/mounts/iceridge.png",
+    "icon": "/public/images/mounts/iceridge.png",
     "category": "mounts",
     "details": [
       "(Event: Winterforge 2024) (Event: Winterforge 2025) Gem Shop Container: Winterforge Giftbox Note: Available to obtain or purchase only during the event.",
@@ -451,7 +451,7 @@
   },
   {
     "name": "Mallard",
-    "icon": "/images/mounts/mallard.png",
+    "icon": "/public/images/mounts/mallard.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -461,7 +461,7 @@
   },
   {
     "name": "Nightmare",
-    "icon": "/images/mounts/nightmare.png",
+    "icon": "/public/images/mounts/nightmare.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -471,7 +471,7 @@
   },
   {
     "name": "Plaguewing",
-    "icon": "/images/mounts/plaguewing.png",
+    "icon": "/public/images/mounts/plaguewing.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -481,7 +481,7 @@
   },
   {
     "name": "Pumpkin Sludge",
-    "icon": "/images/mounts/pumpkin_sludge.png",
+    "icon": "/public/images/mounts/pumpkin_sludge.png",
     "category": "mounts",
     "details": [
       "(Event: Halloween 2025) Gem Shop Drop: Any Monster Note: Available to obtain or purchase only during the event.",
@@ -491,7 +491,7 @@
   },
   {
     "name": "Rabbit",
-    "icon": "/images/mounts/rabbit.png",
+    "icon": "/public/images/mounts/rabbit.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -501,7 +501,7 @@
   },
   {
     "name": "Raccoon",
-    "icon": "/images/mounts/raccoon.png",
+    "icon": "/public/images/mounts/raccoon.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -511,7 +511,7 @@
   },
   {
     "name": "Ram",
-    "icon": "/images/mounts/ram.png",
+    "icon": "/public/images/mounts/ram.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -521,7 +521,7 @@
   },
   {
     "name": "Rat",
-    "icon": "/images/mounts/rat.png",
+    "icon": "/public/images/mounts/rat.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -531,7 +531,7 @@
   },
   {
     "name": "Razorback",
-    "icon": "/images/mounts/razorback.png",
+    "icon": "/public/images/mounts/razorback.png",
     "category": "mounts",
     "details": [
       "Drop: Razorback",
@@ -541,7 +541,7 @@
   },
   {
     "name": "Shadowtusk",
-    "icon": "/images/mounts/shadowtusk.png",
+    "icon": "/public/images/mounts/shadowtusk.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -551,7 +551,7 @@
   },
   {
     "name": "Sheep",
-    "icon": "/images/mounts/sheep.png",
+    "icon": "/public/images/mounts/sheep.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -561,7 +561,7 @@
   },
   {
     "name": "Silk Worm",
-    "icon": "/images/mounts/silk_worm.png",
+    "icon": "/public/images/mounts/silk_worm.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -571,7 +571,7 @@
   },
   {
     "name": "Skeletal Dog",
-    "icon": "/images/mounts/skeletal_dog.png",
+    "icon": "/public/images/mounts/skeletal_dog.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -581,7 +581,7 @@
   },
   {
     "name": "Skeletal Steed",
-    "icon": "/images/mounts/skeletal_steed.png",
+    "icon": "/public/images/mounts/skeletal_steed.png",
     "category": "mounts",
     "details": [
       "Skeletal Steed Crate",
@@ -591,7 +591,7 @@
   },
   {
     "name": "Skully",
-    "icon": "/images/mounts/skully.png",
+    "icon": "/public/images/mounts/skully.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -601,7 +601,7 @@
   },
   {
     "name": "Spectral Steed",
-    "icon": "/images/mounts/spectral_steed.png",
+    "icon": "/public/images/mounts/spectral_steed.png",
     "category": "mounts",
     "details": [
       "(Event: Halloween 2023) Gem Shop Containers: Pumpkin Bag Royal Pumpkin Bag (Event: Halloween 2025) Gem Shop Note: Available to obtain or purchase only during the event.",
@@ -611,7 +611,7 @@
   },
   {
     "name": "Spectral Vulture",
-    "icon": "/images/mounts/spectral_vulture.png",
+    "icon": "/public/images/mounts/spectral_vulture.png",
     "category": "mounts",
     "details": [
       "(Event: Halloween 2024) Gem Shop Container: Fake Pumpkin Bag (Event: Halloween 2025) Gem Shop Note: Available to obtain or purchase only during the event.",
@@ -621,7 +621,7 @@
   },
   {
     "name": "Stag",
-    "icon": "/images/mounts/stag.png",
+    "icon": "/public/images/mounts/stag.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -631,7 +631,7 @@
   },
   {
     "name": "Stone Jaw",
-    "icon": "/images/mounts/stone_jaw.png",
+    "icon": "/public/images/mounts/stone_jaw.png",
     "category": "mounts",
     "details": [
       "Drop: Stone Jaw - Very rare reward from Fishing",
@@ -641,7 +641,7 @@
   },
   {
     "name": "The Void",
-    "icon": "/images/mounts/the_void.png",
+    "icon": "/public/images/mounts/the_void.png",
     "category": "mounts",
     "details": [
       "Unknown",
@@ -651,7 +651,7 @@
   },
   {
     "name": "Tortoise",
-    "icon": "/images/mounts/tortoise.png",
+    "icon": "/public/images/mounts/tortoise.png",
     "category": "mounts",
     "details": [
       "Gem Shop",
@@ -661,7 +661,7 @@
   },
   {
     "name": "Unicorn",
-    "icon": "/images/mounts/unicorn.png",
+    "icon": "/public/images/mounts/unicorn.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -671,7 +671,7 @@
   },
   {
     "name": "Vulture",
-    "icon": "/images/mounts/vulture.png",
+    "icon": "/public/images/mounts/vulture.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -681,7 +681,7 @@
   },
   {
     "name": "Wanderer's Horse",
-    "icon": "/images/mounts/wanderers_horse.png",
+    "icon": "/public/images/mounts/wanderers_horse.png",
     "category": "mounts",
     "details": [
       "Wanderer's Horse Crate",
@@ -691,7 +691,7 @@
   },
   {
     "name": "Warthog",
-    "icon": "/images/mounts/warthog.png",
+    "icon": "/public/images/mounts/warthog.png",
     "category": "mounts",
     "details": [
       "Gem Shop Forest Critters Mount Box",
@@ -701,7 +701,7 @@
   },
   {
     "name": "White Horse",
-    "icon": "/images/mounts/white_horse.png",
+    "icon": "/public/images/mounts/white_horse.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -711,7 +711,7 @@
   },
   {
     "name": "Wildhair Steed",
-    "icon": "/images/mounts/wildhair_steed.png",
+    "icon": "/public/images/mounts/wildhair_steed.png",
     "category": "mounts",
     "details": [
       "Gem Shop Horse Mount Box",
@@ -721,7 +721,7 @@
   },
   {
     "name": "Winterforge Reindeer",
-    "icon": "/images/mounts/winterforge_reindeer.png",
+    "icon": "/public/images/mounts/winterforge_reindeer.png",
     "category": "mounts",
     "details": [
       "(Event: Winterforge 2023) Winterforge Reindeer Giftbox Note: Available to obtain only during the event.",

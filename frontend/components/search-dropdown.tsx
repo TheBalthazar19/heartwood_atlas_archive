@@ -3,7 +3,7 @@
 import { useState, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { Search, ArrowRight } from "lucide-react";
-import { searchItems, getRarityColor, type GameItem, type Monster } from "@/lib/data";
+import { searchItems, getItemSlug, type GameItem, type Monster } from "@/lib/data";
 
 interface SearchDropdownProps {
   fullWidth?: boolean;
@@ -53,7 +53,7 @@ export function SearchDropdown({ fullWidth = false }: SearchDropdownProps) {
     } else if (e.key === "Enter") {
       e.preventDefault();
       if (selectedIndex >= 0 && results[selectedIndex]) {
-        router.push(`/item/${results[selectedIndex].id}`);
+        router.push(`/item/${getItemSlug(results[selectedIndex].name)}`);
         setIsOpen(false);
         setQuery("");
       } else if (query.trim()) {
@@ -65,8 +65,8 @@ export function SearchDropdown({ fullWidth = false }: SearchDropdownProps) {
     }
   };
 
-  const navigateToItem = (id: string) => {
-    router.push(`/item/${id}`);
+  const navigateToItem = (name: string) => {
+    router.push(`/item/${getItemSlug(name)}`);
     setIsOpen(false);
     setQuery("");
   };
@@ -95,9 +95,9 @@ export function SearchDropdown({ fullWidth = false }: SearchDropdownProps) {
           
           <ul className="relative py-2">
             {results.map((item, index) => (
-              <li key={item.id}>
+              <li key={item.name}>
                 <button
-                  onClick={() => navigateToItem(item.id)}
+                  onClick={() => navigateToItem(item.name)}
                   className={`w-full px-4 py-3 flex items-center gap-3 text-left transition-colors ${
                     index === selectedIndex
                       ? "bg-primary/10"
@@ -106,12 +106,12 @@ export function SearchDropdown({ fullWidth = false }: SearchDropdownProps) {
                 >
                   <span className="text-2xl">{item.icon}</span>
                   <div className="flex-1 min-w-0">
-                    <p className={`font-serif font-medium truncate ${getRarityColor(item.rarity)}`}>
+                  <p className="font-serif font-medium truncate">
                       {item.name}
                     </p>
                     <p className="text-xs text-muted-foreground truncate">
-                      {item.type} • Level {item.level}
-                    </p>
+  {item.category}
+</p>
                   </div>
                   <ArrowRight className="w-4 h-4 text-muted-foreground opacity-0 group-hover:opacity-100" />
                 </button>

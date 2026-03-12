@@ -11,7 +11,7 @@
   },
   {
     "name": "+16-19 Magic Damage",
-    "icon": "/images/weapons/blessed_cudgel.png",
+    "icon": "/public/images/weapons/blessed_cudgel.png",
     "category": "weapons",
     "details": [
       "11",
@@ -21,7 +21,7 @@
   },
   {
     "name": "+21-24 Attack Damage +9 Attack Power",
-    "icon": "/images/weapons/razorback_mauler.png",
+    "icon": "/public/images/weapons/razorback_mauler.png",
     "category": "weapons",
     "details": [
       "14",
@@ -31,7 +31,7 @@
   },
   {
     "name": "+29-32 Magic Damage +32 Focus",
-    "icon": "/images/weapons/pine_mace.png",
+    "icon": "/public/images/weapons/pine_mace.png",
     "category": "weapons",
     "details": [
       "20",
@@ -41,7 +41,7 @@
   },
   {
     "name": "+38-43 Magic Damage +17 Magic Power",
-    "icon": "/images/weapons/ceremonial_crucifix.png",
+    "icon": "/public/images/weapons/ceremonial_crucifix.png",
     "category": "weapons",
     "details": [
       "23",
@@ -51,7 +51,7 @@
   },
   {
     "name": "+43-48 Magic Damage +48 Focus",
-    "icon": "/images/weapons/birch_mace.png",
+    "icon": "/public/images/weapons/birch_mace.png",
     "category": "weapons",
     "details": [
       "30",
@@ -61,7 +61,7 @@
   },
   {
     "name": "+54-61 Magic Damage +24 Magic Power",
-    "icon": "/images/weapons/tail_of_canis.png",
+    "icon": "/public/images/weapons/tail_of_canis.png",
     "category": "weapons",
     "details": [
       "33",
@@ -71,7 +71,7 @@
   },
   {
     "name": "+80-91 Magic Damage +50 Magic Power +99 Critical Chance",
-    "icon": "/images/weapons/loyalty_of_canis.png",
+    "icon": "/public/images/weapons/loyalty_of_canis.png",
     "category": "weapons",
     "details": [
       "36",
@@ -81,7 +81,7 @@
   },
   {
     "name": "+57-64 Magic Damage +64 Focus",
-    "icon": "/images/weapons/maple_mace.png",
+    "icon": "/public/images/weapons/maple_mace.png",
     "category": "weapons",
     "details": [
       "40",
@@ -91,7 +91,7 @@
   },
   {
     "name": "+69-78 Attack Damage +14 Attack Power Ground Stomp: +1s Stun Duration",
-    "icon": "/images/weapons/stonescale_brutalizer.png",
+    "icon": "/public/images/weapons/stonescale_brutalizer.png",
     "category": "weapons",
     "details": [
       "40",
@@ -101,7 +101,7 @@
   },
   {
     "name": "+65-74 Magic Damage +29 Magic Power Lightning Strike: +1s CDR",
-    "icon": "/images/weapons/sparkling_lasher.png",
+    "icon": "/public/images/weapons/sparkling_lasher.png",
     "category": "weapons",
     "details": [
       "40",
@@ -111,7 +111,7 @@
   },
   {
     "name": "+71-80 Magic Damage +80 Focus",
-    "icon": "/images/weapons/mandrove_mace.png",
+    "icon": "/public/images/weapons/mandrove_mace.png",
     "category": "weapons",
     "details": [
       "50",
@@ -121,7 +121,7 @@
   },
   {
     "name": "+85-96 Magic Damage +96 Focus",
-    "icon": "/images/weapons/pecan_mace.png",
+    "icon": "/public/images/weapons/pecan_mace.png",
     "category": "weapons",
     "details": [
       "60",
@@ -131,7 +131,7 @@
   },
   {
     "name": "+99-112 Magic Damage +112 Focus",
-    "icon": "/images/weapons/palm_mace.png",
+    "icon": "/public/images/weapons/palm_mace.png",
     "category": "weapons",
     "details": [
       "70",
@@ -141,7 +141,7 @@
   },
   {
     "name": "+113-128 Magic Damage +128 Focus",
-    "icon": "/images/weapons/willow_mace.png",
+    "icon": "/public/images/weapons/willow_mace.png",
     "category": "weapons",
     "details": [
       "80",
@@ -161,7 +161,7 @@
   },
   {
     "name": "+3-4 Magic Damage",
-    "icon": "/images/weapons/trapper_wand.png",
+    "icon": "/public/images/weapons/trapper_wand.png",
     "category": "weapons",
     "details": [
       "2",
@@ -171,7 +171,7 @@
   },
   {
     "name": "+4-5 Magic Damage +1 Cooldown Reduction +1 Critical Chance",
-    "icon": "/images/weapons/wood_wand.png",
+    "icon": "/public/images/weapons/wood_wand.png",
     "category": "weapons",
     "details": [
       "3",
@@ -181,7 +181,7 @@
   },
   {
     "name": "+11-14 Magic Damage",
-    "icon": "/images/weapons/crooked_wand.png",
+    "icon": "/public/images/weapons/crooked_wand.png",
     "category": "weapons",
     "details": [
       "8",
@@ -191,7 +191,7 @@
   },
   {
     "name": "+14-17 Magic Damage +8 Cooldown Reduction +5 Critical Chance",
-    "icon": "/images/weapons/oak_wand.png",
+    "icon": "/public/images/weapons/oak_wand.png",
     "category": "weapons",
     "details": [
       "10",
@@ -201,7 +201,7 @@
   },
   {
     "name": "+17-20 Magic Damage",
-    "icon": "/images/weapons/smoulder_wand.png",
+    "icon": "/public/images/weapons/smoulder_wand.png",
     "category": "weapons",
     "details": [
       "12",
@@ -211,7 +211,7 @@
   },
   {
     "name": "+22-27 Magic Damage +10 Magic Power",
-    "icon": "/images/weapons/swine_fury.png",
+    "icon": "/public/images/weapons/swine_fury.png",
     "category": "weapons",
     "details": [
       "14",
@@ -221,7 +221,7 @@
   },
   {
     "name": "+27-33 Magic Damage +16 Cooldown Reduction +10 Critical Chance",
-    "icon": "/images/weapons/pine_wand.png",
+    "icon": "/public/images/weapons/pine_wand.png",
     "category": "weapons",
     "details": [
       "20",
@@ -231,7 +231,7 @@
   },
   {
     "name": "+37-46 Magic Damage +17 Magic Power",
-    "icon": "/images/weapons/stalkers_claw.png",
+    "icon": "/public/images/weapons/stalkers_claw.png",
     "category": "weapons",
     "details": [
       "24",
@@ -241,7 +241,7 @@
   },
   {
     "name": "+41-50 Magic Damage +24 Cooldown Reduction +14 Critical Chance",
-    "icon": "/images/weapons/birch_wand.png",
+    "icon": "/public/images/weapons/birch_wand.png",
     "category": "weapons",
     "details": [
       "30",
@@ -251,7 +251,7 @@
   },
   {
     "name": "+63-76 Magic Damage +22 Magic Power Purify: +1s CDR",
-    "icon": "/images/weapons/pearl_wand.png",
+    "icon": "/public/images/weapons/pearl_wand.png",
     "category": "weapons",
     "details": [
       "40",
@@ -261,7 +261,7 @@
   },
   {
     "name": "+54-66 Magic Damage +32 Cooldown Reduction +19 Critical Chance",
-    "icon": "/images/weapons/maple_wand.png",
+    "icon": "/public/images/weapons/maple_wand.png",
     "category": "weapons",
     "details": [
       "40",
@@ -271,7 +271,7 @@
   },
   {
     "name": "+71-86 Magic Damage +32 Magic Power",
-    "icon": "/images/weapons/skeletal_wand.png",
+    "icon": "/public/images/weapons/skeletal_wand.png",
     "category": "weapons",
     "details": [
       "45",
@@ -281,7 +281,7 @@
   },
   {
     "name": "+80-97 Magic Damage +52 Magic Power +104 Critical Chance",
-    "icon": "/images/weapons/temporal_will.png",
+    "icon": "/public/images/weapons/temporal_will.png",
     "category": "weapons",
     "details": [
       "48",
@@ -291,7 +291,7 @@
   },
   {
     "name": "+68-83 Magic Damage +40 Cooldown Reduction +24 Critical Chance",
-    "icon": "/images/weapons/mandrove_wand.png",
+    "icon": "/public/images/weapons/mandrove_wand.png",
     "category": "weapons",
     "details": [
       "50",
@@ -301,7 +301,7 @@
   },
   {
     "name": "+81-99 Magic Damage +48 Cooldown Reduction +29 Critical Chance",
-    "icon": "/images/weapons/pecan_wand.png",
+    "icon": "/public/images/weapons/pecan_wand.png",
     "category": "weapons",
     "details": [
       "60",
@@ -311,7 +311,7 @@
   },
   {
     "name": "+95-116 Magic Damage +56 Cooldown Reduction +34 Critical Chance",
-    "icon": "/images/weapons/palm_wand.png",
+    "icon": "/public/images/weapons/palm_wand.png",
     "category": "weapons",
     "details": [
       "70",
@@ -321,7 +321,7 @@
   },
   {
     "name": "+108-132 Magic Damage +64 Cooldown Reduction +38 Critical Chance",
-    "icon": "/images/weapons/willow_wand.png",
+    "icon": "/public/images/weapons/willow_wand.png",
     "category": "weapons",
     "details": [
       "80",
@@ -341,7 +341,7 @@
   },
   {
     "name": "+20-29 Attack Damage",
-    "icon": "/images/weapons/peasant_spear.png",
+    "icon": "/public/images/weapons/peasant_spear.png",
     "category": "weapons",
     "details": [
       "12",
@@ -351,7 +351,7 @@
   },
   {
     "name": "+23-34 Attack Damage +45 Health Regen",
-    "icon": "/images/weapons/big_game_spear.png",
+    "icon": "/public/images/weapons/big_game_spear.png",
     "category": "weapons",
     "details": [
       "14",
@@ -361,7 +361,7 @@
   },
   {
     "name": "+32-48 Attack Damage +19 Critical Damage",
-    "icon": "/images/weapons/iron_polearm.png",
+    "icon": "/public/images/weapons/iron_polearm.png",
     "category": "weapons",
     "details": [
       "20",
@@ -371,7 +371,7 @@
   },
   {
     "name": "+40-59 Attack Damage +43 Attack Power +43 Critical Damage",
-    "icon": "/images/weapons/ancient_glaive.png",
+    "icon": "/public/images/weapons/ancient_glaive.png",
     "category": "weapons",
     "details": [
       "20",
@@ -381,7 +381,7 @@
   },
   {
     "name": "+48-72 Attack Damage +29 Critical Damage",
-    "icon": "/images/weapons/steel_polearm.png",
+    "icon": "/public/images/weapons/steel_polearm.png",
     "category": "weapons",
     "details": [
       "30",
@@ -391,7 +391,7 @@
   },
   {
     "name": "+71-106 Attack Damage +78 Attack Power +78 Critical Damage",
-    "icon": "/images/weapons/spectral_polearm.png",
+    "icon": "/public/images/weapons/spectral_polearm.png",
     "category": "weapons",
     "details": [
       "36",
@@ -401,7 +401,7 @@
   },
   {
     "name": "+70-105 Attack Damage +55 Attack Power",
-    "icon": "/images/weapons/oppressor.png",
+    "icon": "/public/images/weapons/oppressor.png",
     "category": "weapons",
     "details": [
       "38",
@@ -411,7 +411,7 @@
   },
   {
     "name": "+64-96 Attack Damage +38 Critical Damage",
-    "icon": "/images/weapons/tungsten_polearm.png",
+    "icon": "/public/images/weapons/tungsten_polearm.png",
     "category": "weapons",
     "details": [
       "40",
@@ -421,7 +421,7 @@
   },
   {
     "name": "+80-121 Attack Damage +48 Critical Damage",
-    "icon": "/images/weapons/platinum_polearm.png",
+    "icon": "/public/images/weapons/platinum_polearm.png",
     "category": "weapons",
     "details": [
       "50",
@@ -431,7 +431,7 @@
   },
   {
     "name": "+96-144 Attack Damage +58 Critical Chance",
-    "icon": "/images/weapons/cobalt_polearm.png",
+    "icon": "/public/images/weapons/cobalt_polearm.png",
     "category": "weapons",
     "details": [
       "60",
@@ -441,7 +441,7 @@
   },
   {
     "name": "+112-168 Attack Damage +67 Critical Damage",
-    "icon": "/images/weapons/mythril_polearm.png",
+    "icon": "/public/images/weapons/mythril_polearm.png",
     "category": "weapons",
     "details": [
       "70",
@@ -451,7 +451,7 @@
   },
   {
     "name": "+128-192 Attack Damage +77 Critical Damage",
-    "icon": "/images/weapons/obsidian_polearm.png",
+    "icon": "/public/images/weapons/obsidian_polearm.png",
     "category": "weapons",
     "details": [
       "80",
@@ -471,7 +471,7 @@
   },
   {
     "name": "+14-15 Attack Damage",
-    "icon": "/images/weapons/gypsy_shiv.png",
+    "icon": "/public/images/weapons/gypsy_shiv.png",
     "category": "weapons",
     "details": [
       "9",
@@ -481,7 +481,7 @@
   },
   {
     "name": "+15-16 Attack Damage +2 Dodge Chance +5 Critical Chance",
-    "icon": "/images/weapons/copper_dagger.png",
+    "icon": "/public/images/weapons/copper_dagger.png",
     "category": "weapons",
     "details": [
       "10",
@@ -491,7 +491,7 @@
   },
   {
     "name": "+19-20 Attack Damage +4 Attack Power +8 Critical Chance",
-    "icon": "/images/weapons/hunting_knife.png",
+    "icon": "/public/images/weapons/hunting_knife.png",
     "category": "weapons",
     "details": [
       "11",
@@ -501,7 +501,7 @@
   },
   {
     "name": "+19-21 Attack Damage",
-    "icon": "/images/weapons/camping_knife.png",
+    "icon": "/public/images/weapons/camping_knife.png",
     "category": "weapons",
     "details": [
       "13",
@@ -511,7 +511,7 @@
   },
   {
     "name": "+29-32 Attack Damage +5 Dodge Chance +10 Critical Chance",
-    "icon": "/images/weapons/iron_dagger.png",
+    "icon": "/public/images/weapons/iron_dagger.png",
     "category": "weapons",
     "details": [
       "20",
@@ -521,7 +521,7 @@
   },
   {
     "name": "+43-48 Attack Damage +19 Attack Power",
-    "icon": "/images/weapons/skeletal_dagger.png",
+    "icon": "/public/images/weapons/skeletal_dagger.png",
     "category": "weapons",
     "details": [
       "26",
@@ -531,7 +531,7 @@
   },
   {
     "name": "+51-56 Attack Damage +31 Attack Power +63 Critical Chance",
-    "icon": "/images/weapons/bone_splinter.png",
+    "icon": "/public/images/weapons/bone_splinter.png",
     "category": "weapons",
     "details": [
       "29",
@@ -541,7 +541,7 @@
   },
   {
     "name": "+43-48 Attack Damage +7 Dodge Chance +14 Critical Chance",
-    "icon": "/images/weapons/steel_dagger.png",
+    "icon": "/public/images/weapons/steel_dagger.png",
     "category": "weapons",
     "details": [
       "30",
@@ -551,7 +551,7 @@
   },
   {
     "name": "+57-63 Attack Damage +10 Dodge Chance +19 Critical Chance",
-    "icon": "/images/weapons/tungsten_dagger.png",
+    "icon": "/public/images/weapons/tungsten_dagger.png",
     "category": "weapons",
     "details": [
       "40",
@@ -561,7 +561,7 @@
   },
   {
     "name": "+66-73 Attack Damage +14 Attack Power +29 Critical Chance Shuriken Storm: +1 Shuriken",
-    "icon": "/images/weapons/barbed_chakram.png",
+    "icon": "/public/images/weapons/barbed_chakram.png",
     "category": "weapons",
     "details": [
       "40",
@@ -571,7 +571,7 @@
   },
   {
     "name": "+72-79 Attack Damage +12 Dodge Chance +24 Critical Chance",
-    "icon": "/images/weapons/platinum_dagger.png",
+    "icon": "/public/images/weapons/platinum_dagger.png",
     "category": "weapons",
     "details": [
       "50",
@@ -581,7 +581,7 @@
   },
   {
     "name": "+86-95 Attack Damage +14 Dodge Chance +29 Critical Chance",
-    "icon": "/images/weapons/cobalt_dagger.png",
+    "icon": "/public/images/weapons/cobalt_dagger.png",
     "category": "weapons",
     "details": [
       "60",
@@ -591,7 +591,7 @@
   },
   {
     "name": "+100-111 Attack Damage +17 Dodge Chance +34 Critical Chance",
-    "icon": "/images/weapons/mythril_dagger.png",
+    "icon": "/public/images/weapons/mythril_dagger.png",
     "category": "weapons",
     "details": [
       "70",
@@ -601,7 +601,7 @@
   },
   {
     "name": "+114-126 Attack Damage +19 Dodge Chance +38 Critical Chance",
-    "icon": "/images/weapons/obsidian_dagger.png",
+    "icon": "/public/images/weapons/obsidian_dagger.png",
     "category": "weapons",
     "details": [
       "80",
@@ -621,7 +621,7 @@
   },
   {
     "name": "+18-23 Magic Damage +32 Cooldown Reduction",
-    "icon": "/images/weapons/oak_harp.png",
+    "icon": "/public/images/weapons/oak_harp.png",
     "category": "weapons",
     "details": [
       "10",
@@ -631,7 +631,7 @@
   },
   {
     "name": "+22-27 Magic Damage",
-    "icon": "/images/weapons/nimble_harp.png",
+    "icon": "/public/images/weapons/nimble_harp.png",
     "category": "weapons",
     "details": [
       "12",
@@ -641,7 +641,7 @@
   },
   {
     "name": "+29-36 Magic Damage +34 Health Regen +34 Cooldown Reduction",
-    "icon": "/images/weapons/vagabond_harp.png",
+    "icon": "/public/images/weapons/vagabond_harp.png",
     "category": "weapons",
     "details": [
       "14",
@@ -651,7 +651,7 @@
   },
   {
     "name": "+20-25 Magic Damage +37 Critical Chance",
-    "icon": "/images/weapons/scavengers_song.png",
+    "icon": "/public/images/weapons/scavengers_song.png",
     "category": "weapons",
     "details": [
       "14",
@@ -661,7 +661,7 @@
   },
   {
     "name": "+36-45 Magic Damage +64 Cooldown Reduction",
-    "icon": "/images/weapons/pine_harp.png",
+    "icon": "/public/images/weapons/pine_harp.png",
     "category": "weapons",
     "details": [
       "20",
@@ -671,7 +671,7 @@
   },
   {
     "name": "+53-68 Magic Damage +37 Magic Power",
-    "icon": "/images/weapons/bone_harp.png",
+    "icon": "/public/images/weapons/bone_harp.png",
     "category": "weapons",
     "details": [
       "26",
@@ -681,7 +681,7 @@
   },
   {
     "name": "+63-80 Magic Damage +63 Magic Power +125 Critical Chance",
-    "icon": "/images/weapons/memoriam.png",
+    "icon": "/public/images/weapons/memoriam.png",
     "category": "weapons",
     "details": [
       "29",
@@ -691,7 +691,7 @@
   },
   {
     "name": "+53-68 Magic Damage +96 Cooldown Reduction",
-    "icon": "/images/weapons/birch_harp.png",
+    "icon": "/public/images/weapons/birch_harp.png",
     "category": "weapons",
     "details": [
       "30",
@@ -701,7 +701,7 @@
   },
   {
     "name": "+71-90 Magic Damage +128 Cooldown Reduction",
-    "icon": "/images/weapons/maple_harp.png",
+    "icon": "/public/images/weapons/maple_harp.png",
     "category": "weapons",
     "details": [
       "40",
@@ -711,7 +711,7 @@
   },
   {
     "name": "+88-112 Magic Damage +160 Cooldown Reduction",
-    "icon": "/images/weapons/mandrove_harp.png",
+    "icon": "/public/images/weapons/mandrove_harp.png",
     "category": "weapons",
     "details": [
       "50",
@@ -721,7 +721,7 @@
   },
   {
     "name": "+106-135 Magic Damage +192 Cooldown Reduction",
-    "icon": "/images/weapons/pecan_harp.png",
+    "icon": "/public/images/weapons/pecan_harp.png",
     "category": "weapons",
     "details": [
       "60",
@@ -731,7 +731,7 @@
   },
   {
     "name": "+124-157 Magic Damage +224 Cooldown Reduction",
-    "icon": "/images/weapons/palm_harp.png",
+    "icon": "/public/images/weapons/palm_harp.png",
     "category": "weapons",
     "details": [
       "70",
@@ -741,7 +741,7 @@
   },
   {
     "name": "+141-180 Magic Damage +256 Cooldown Reduction",
-    "icon": "/images/weapons/willow_harp.png",
+    "icon": "/public/images/weapons/willow_harp.png",
     "category": "weapons",
     "details": [
       "80",
@@ -761,7 +761,7 @@
   },
   {
     "name": "+17-23 Magic Damage +72 Health Regen +22 Critical Damage",
-    "icon": "/images/weapons/pumpkin_staff.png",
+    "icon": "/public/images/weapons/pumpkin_staff.png",
     "category": "weapons",
     "details": [
       "1",
@@ -771,7 +771,7 @@
   },
   {
     "name": "+9-12 Magic Damage +36 Health Regen +11 Critical Damage",
-    "icon": "/images/weapons/fake_pumpkin_staff.png",
+    "icon": "/public/images/weapons/fake_pumpkin_staff.png",
     "category": "weapons",
     "details": [
       "1",
@@ -781,7 +781,7 @@
   },
   {
     "name": "+21-28 Magic Damage",
-    "icon": "/images/weapons/shepherd_staff.png",
+    "icon": "/public/images/weapons/shepherd_staff.png",
     "category": "weapons",
     "details": [
       "12",
@@ -791,7 +791,7 @@
   },
   {
     "name": "+24-33 Magic Damage +13 Critical Damage",
-    "icon": "/images/weapons/walking_stick.png",
+    "icon": "/public/images/weapons/walking_stick.png",
     "category": "weapons",
     "details": [
       "14",
@@ -801,7 +801,7 @@
   },
   {
     "name": "+38-51 Magic Damage +26 Attack Power +26 Magic Power",
-    "icon": "/images/weapons/blossom_branch.png",
+    "icon": "/public/images/weapons/blossom_branch.png",
     "category": "weapons",
     "details": [
       "15",
@@ -811,7 +811,7 @@
   },
   {
     "name": "+34-46 Magic Damage +19 Critical Damage",
-    "icon": "/images/weapons/pine_staff.png",
+    "icon": "/public/images/weapons/pine_staff.png",
     "category": "weapons",
     "details": [
       "20",
@@ -821,7 +821,7 @@
   },
   {
     "name": "+41-56 Magic Damage +30 Magic Power",
-    "icon": "/images/weapons/skeletal_staff.png",
+    "icon": "/public/images/weapons/skeletal_staff.png",
     "category": "weapons",
     "details": [
       "21",
@@ -831,7 +831,7 @@
   },
   {
     "name": "+51-68 Magic Damage +52 Magic Power +52 Critical Damage",
-    "icon": "/images/weapons/pillar_of_balance.png",
+    "icon": "/public/images/weapons/pillar_of_balance.png",
     "category": "weapons",
     "details": [
       "24",
@@ -841,7 +841,7 @@
   },
   {
     "name": "+51-69 Magic Damage +29 Critical Damage",
-    "icon": "/images/weapons/birch_staff.png",
+    "icon": "/public/images/weapons/birch_staff.png",
     "category": "weapons",
     "details": [
       "30",
@@ -851,7 +851,7 @@
   },
   {
     "name": "+75-102 Magic Damage +78 Magic Power +78 Critical Damage",
-    "icon": "/images/weapons/spectral_staff.png",
+    "icon": "/public/images/weapons/spectral_staff.png",
     "category": "weapons",
     "details": [
       "36",
@@ -861,7 +861,7 @@
   },
   {
     "name": "+80-107 Magic Damage +274 Health Regen +274 Cooldown Reduction",
-    "icon": "/images/weapons/ritual_staff.png",
+    "icon": "/public/images/weapons/ritual_staff.png",
     "category": "weapons",
     "details": [
       "38",
@@ -871,7 +871,7 @@
   },
   {
     "name": "+68-92 Magic Damage +38 Critical Damage",
-    "icon": "/images/weapons/maple_staff.png",
+    "icon": "/public/images/weapons/maple_staff.png",
     "category": "weapons",
     "details": [
       "40",
@@ -881,7 +881,7 @@
   },
   {
     "name": "+85-115 Magic Damage +48 Critical Damage",
-    "icon": "/images/weapons/mandrove_staff.png",
+    "icon": "/public/images/weapons/mandrove_staff.png",
     "category": "weapons",
     "details": [
       "50",
@@ -891,7 +891,7 @@
   },
   {
     "name": "+102-138 Magic Damage +58 Critical Damage",
-    "icon": "/images/weapons/pecan_staff.png",
+    "icon": "/public/images/weapons/pecan_staff.png",
     "category": "weapons",
     "details": [
       "60",
@@ -901,7 +901,7 @@
   },
   {
     "name": "+119-161 Magic Damage +67 Critical Damage",
-    "icon": "/images/weapons/palm_staff.png",
+    "icon": "/public/images/weapons/palm_staff.png",
     "category": "weapons",
     "details": [
       "70",
@@ -911,7 +911,7 @@
   },
   {
     "name": "+136-184 Magic Damage +77 Critical Damage",
-    "icon": "/images/weapons/willow_staff.png",
+    "icon": "/public/images/weapons/willow_staff.png",
     "category": "weapons",
     "details": [
       "80",
@@ -931,7 +931,7 @@
   },
   {
     "name": "+2-3 Attack Damage",
-    "icon": "/images/weapons/wooden_sword.png",
+    "icon": "/public/images/weapons/wooden_sword.png",
     "category": "weapons",
     "details": [
       "1",
@@ -941,7 +941,7 @@
   },
   {
     "name": "+3-4 Attack Damage",
-    "icon": "/images/weapons/trapper_sword.png",
+    "icon": "/public/images/weapons/trapper_sword.png",
     "category": "weapons",
     "details": [
       "2",
@@ -951,7 +951,7 @@
   },
   {
     "name": "+4-5 Attack Damage +1 Critical Chance",
-    "icon": "/images/weapons/tin_sword.png",
+    "icon": "/public/images/weapons/tin_sword.png",
     "category": "weapons",
     "details": [
       "3",
@@ -961,7 +961,7 @@
   },
   {
     "name": "+11-12 Attack Damage",
-    "icon": "/images/weapons/short_sword.png",
+    "icon": "/public/images/weapons/short_sword.png",
     "category": "weapons",
     "details": [
       "7",
@@ -971,7 +971,7 @@
   },
   {
     "name": "+12-13 Attack Damage +5 Attack Power",
-    "icon": "/images/weapons/broken_stag_antler.png",
+    "icon": "/public/images/weapons/broken_stag_antler.png",
     "category": "weapons",
     "details": [
       "7",
@@ -981,7 +981,7 @@
   },
   {
     "name": "+14-17 Attack Damage +10 Critical Chance",
-    "icon": "/images/weapons/copper_sword.png",
+    "icon": "/public/images/weapons/copper_sword.png",
     "category": "weapons",
     "details": [
       "10",
@@ -991,7 +991,7 @@
   },
   {
     "name": "+17-20 Attack Damage",
-    "icon": "/images/weapons/broadsword.png",
+    "icon": "/public/images/weapons/broadsword.png",
     "category": "weapons",
     "details": [
       "12",
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "+21-24 Attack Damage +9 Attack Power",
-    "icon": "/images/weapons/hunters_broadsword.png",
+    "icon": "/public/images/weapons/hunters_broadsword.png",
     "category": "weapons",
     "details": [
       "13",
@@ -1011,7 +1011,7 @@
   },
   {
     "name": "+20-23 Attack Damage",
-    "icon": "/images/weapons/battered_longsword.png",
+    "icon": "/public/images/weapons/battered_longsword.png",
     "category": "weapons",
     "details": [
       "14",
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "+29-34 Attack Damage +18 Attack Power +22 Critical Damage",
-    "icon": "/images/weapons/bone_blade.png",
+    "icon": "/public/images/weapons/bone_blade.png",
     "category": "weapons",
     "details": [
       "17",
@@ -1031,7 +1031,7 @@
   },
   {
     "name": "+28-33 Attack Damage +19 Critical Chance",
-    "icon": "/images/weapons/iron_sword.png",
+    "icon": "/public/images/weapons/iron_sword.png",
     "category": "weapons",
     "details": [
       "20",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "+35-40 Attack Damage +22 Attack Power +43 Critical Chance",
-    "icon": "/images/weapons/spinal_tap.png",
+    "icon": "/public/images/weapons/spinal_tap.png",
     "category": "weapons",
     "details": [
       "20",
@@ -1051,7 +1051,7 @@
   },
   {
     "name": "+38-45 Attack Damage +17 Attack Power",
-    "icon": "/images/weapons/stalkers_blade.png",
+    "icon": "/public/images/weapons/stalkers_blade.png",
     "category": "weapons",
     "details": [
       "24",
@@ -1061,7 +1061,7 @@
   },
   {
     "name": "+42-49 Attack Damage +29 Critical Chance",
-    "icon": "/images/weapons/steel_sword.png",
+    "icon": "/public/images/weapons/steel_sword.png",
     "category": "weapons",
     "details": [
       "30",
@@ -1071,7 +1071,7 @@
   },
   {
     "name": "+49-58 Attack Damage +25 Attack Power",
-    "icon": "/images/weapons/fang_of_canis.png",
+    "icon": "/public/images/weapons/fang_of_canis.png",
     "category": "weapons",
     "details": [
       "35",
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "+65-76 Attack Damage +137 Health Regen +41 Attack Power",
-    "icon": "/images/weapons/wrath_of_canis.png",
+    "icon": "/public/images/weapons/wrath_of_canis.png",
     "category": "weapons",
     "details": [
       "38",
@@ -1091,7 +1091,7 @@
   },
   {
     "name": "+56-65 Attack Damage +38 Critical Chance",
-    "icon": "/images/weapons/tungsten_sword.png",
+    "icon": "/public/images/weapons/tungsten_sword.png",
     "category": "weapons",
     "details": [
       "40",
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "+73-86 Attack Damage +46 Attack Power +93 Critical Chance",
-    "icon": "/images/weapons/ancient_longsword.png",
+    "icon": "/public/images/weapons/ancient_longsword.png",
     "category": "weapons",
     "details": [
       "43",
@@ -1111,7 +1111,7 @@
   },
   {
     "name": "+77-90 Attack Damage +49 Attack Power +97 Critical Chance",
-    "icon": "/images/weapons/overseers_hand.png",
+    "icon": "/public/images/weapons/overseers_hand.png",
     "category": "weapons",
     "details": [
       "45",
@@ -1121,7 +1121,7 @@
   },
   {
     "name": "+81-96 Attack Damage +52 Attack Power +104 Critical Chance",
-    "icon": "/images/weapons/overseers_grasp.png",
+    "icon": "/public/images/weapons/overseers_grasp.png",
     "category": "weapons",
     "details": [
       "48",
@@ -1131,7 +1131,7 @@
   },
   {
     "name": "+69-81 Attack Damage +48 Critical Chance",
-    "icon": "/images/weapons/platinum_sword.png",
+    "icon": "/public/images/weapons/platinum_sword.png",
     "category": "weapons",
     "details": [
       "50",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "+83-98 Attack Damage +58 Critical Chance",
-    "icon": "/images/weapons/cobalt_sword.png",
+    "icon": "/public/images/weapons/cobalt_sword.png",
     "category": "weapons",
     "details": [
       "60",
@@ -1151,7 +1151,7 @@
   },
   {
     "name": "+97-114 Attack Damage +67 Critical Chance",
-    "icon": "/images/weapons/mythril_sword.png",
+    "icon": "/public/images/weapons/mythril_sword.png",
     "category": "weapons",
     "details": [
       "70",
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "+111-130 Attack Damage +77 Critical Chance",
-    "icon": "/images/weapons/obsidian_sword.png",
+    "icon": "/public/images/weapons/obsidian_sword.png",
     "category": "weapons",
     "details": [
       "80",
@@ -1181,7 +1181,7 @@
   },
   {
     "name": "+6-7 Attack Damage",
-    "icon": "/images/weapons/trapper_bow.png",
+    "icon": "/public/images/weapons/trapper_bow.png",
     "category": "weapons",
     "details": [
       "2",
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "+8-9 Attack Damage +1 Critical Chance +1 Critical Damage",
-    "icon": "/images/weapons/wood_bow.png",
+    "icon": "/public/images/weapons/wood_bow.png",
     "category": "weapons",
     "details": [
       "3",
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "+15-18 Attack Damage",
-    "icon": "/images/weapons/flimsy_longbow.png",
+    "icon": "/public/images/weapons/flimsy_longbow.png",
     "category": "weapons",
     "details": [
       "8",
@@ -1211,7 +1211,7 @@
   },
   {
     "name": "+18-23 Attack Damage +10 Critical Chance +5 Critical Damage",
-    "icon": "/images/weapons/oak_bow.png",
+    "icon": "/public/images/weapons/oak_bow.png",
     "category": "weapons",
     "details": [
       "10",
@@ -1221,7 +1221,7 @@
   },
   {
     "name": "+22-27 Attack Damage",
-    "icon": "/images/weapons/snap_bow.png",
+    "icon": "/public/images/weapons/snap_bow.png",
     "category": "weapons",
     "details": [
       "12",
@@ -1231,7 +1231,7 @@
   },
   {
     "name": "+25-32 Attack Damage +13 Attack Power",
-    "icon": "/images/weapons/huntsman_bow.png",
+    "icon": "/public/images/weapons/huntsman_bow.png",
     "category": "weapons",
     "details": [
       "14",
@@ -1241,7 +1241,7 @@
   },
   {
     "name": "+29-36 Attack Damage +20 Attack Power",
-    "icon": "/images/weapons/carrions_cry.png",
+    "icon": "/public/images/weapons/carrions_cry.png",
     "category": "weapons",
     "details": [
       "14",
@@ -1251,7 +1251,7 @@
   },
   {
     "name": "+36-45 Attack Damage +19 Critical Chance +10 Critical Damage",
-    "icon": "/images/weapons/pine_bow.png",
+    "icon": "/public/images/weapons/pine_bow.png",
     "category": "weapons",
     "details": [
       "20",
@@ -1261,7 +1261,7 @@
   },
   {
     "name": "+45-56 Attack Damage +24 Attack Power",
-    "icon": "/images/weapons/greenflock_bow.png",
+    "icon": "/public/images/weapons/greenflock_bow.png",
     "category": "weapons",
     "details": [
       "25",
@@ -1271,7 +1271,7 @@
   },
   {
     "name": "+54-67 Attack Damage +29 Critical Chance +14 Critical Damage",
-    "icon": "/images/weapons/birch_bow.png",
+    "icon": "/public/images/weapons/birch_bow.png",
     "category": "weapons",
     "details": [
       "30",
@@ -1281,7 +1281,7 @@
   },
   {
     "name": "+72-89 Attack Damage +38 Critical Chance +19 Critical Damage",
-    "icon": "/images/weapons/maple_bow.png",
+    "icon": "/public/images/weapons/maple_bow.png",
     "category": "weapons",
     "details": [
       "40",
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "+87-108 Attack Damage +60 Attack Power",
-    "icon": "/images/weapons/skeletal_bow.png",
+    "icon": "/public/images/weapons/skeletal_bow.png",
     "category": "weapons",
     "details": [
       "42",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "+94-117 Attack Damage +93 Attack Power +83 Critical Chance",
-    "icon": "/images/weapons/greenflock_seeker.png",
+    "icon": "/public/images/weapons/greenflock_seeker.png",
     "category": "weapons",
     "details": [
       "43",
@@ -1311,7 +1311,7 @@
   },
   {
     "name": "+98-123 Attack Damage +97 Attack Power +86 Critical Chance",
-    "icon": "/images/weapons/spinal_recurve.png",
+    "icon": "/public/images/weapons/spinal_recurve.png",
     "category": "weapons",
     "details": [
       "45",
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "+89-111 Attack Damage +48 Critical Chance +24 Critical Damage",
-    "icon": "/images/weapons/mandrove_bow.png",
+    "icon": "/public/images/weapons/mandrove_bow.png",
     "category": "weapons",
     "details": [
       "50",
@@ -1331,7 +1331,7 @@
   },
   {
     "name": "+107-134 Attack Damage +58 Critical Chance +29 Critical Damage",
-    "icon": "/images/weapons/pecan_bow.png",
+    "icon": "/public/images/weapons/pecan_bow.png",
     "category": "weapons",
     "details": [
       "60",
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "+125-156 Attack Damage +67 Critical Chance +34 Critical Damage",
-    "icon": "/images/weapons/palm_bow.png",
+    "icon": "/public/images/weapons/palm_bow.png",
     "category": "weapons",
     "details": [
       "70",
@@ -1351,7 +1351,7 @@
   },
   {
     "name": "+143-178 Attack Damage +77 Critical Chance +38 Critical Damage",
-    "icon": "/images/weapons/willow_bow.png",
+    "icon": "/public/images/weapons/willow_bow.png",
     "category": "weapons",
     "details": [
       "80",

@@ -12,7 +12,7 @@
   },
   {
     "name": "15 Fishing Strength",
-    "icon": "/images/tools/twig_rod.png",
+    "icon": "/public/images/tools/twig_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Oak Boards (1) Tin Bar (1)",
@@ -23,7 +23,7 @@
   },
   {
     "name": "25 Fishing Strength",
-    "icon": "/images/tools/novice_anglers_rod.png",
+    "icon": "/public/images/tools/novice_anglers_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Oak Boards (1) Tin Bar (1) Fish Resin (1)",
@@ -34,7 +34,7 @@
   },
   {
     "name": "50 Fishing Strength",
-    "icon": "/images/tools/apprentice_anglers_rod.png",
+    "icon": "/public/images/tools/apprentice_anglers_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Pine Boards (2) Copper Bar (1) Fish Resin (1)",
@@ -45,7 +45,7 @@
   },
   {
     "name": "100 Fishing Strength",
-    "icon": "/images/tools/journeyman_anglers_rod.png",
+    "icon": "/public/images/tools/journeyman_anglers_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Birch Boards (2) Steel Bar (1) Fish Barb (2) Fish Resin (1)",
@@ -56,7 +56,7 @@
   },
   {
     "name": "150 Fishing Strength",
-    "icon": "/images/tools/proficient_anglers_rod.png",
+    "icon": "/public/images/tools/proficient_anglers_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Maple Boards (2) Tungsten Bar (1) Hardened Scale (5) Fish Resin (1)",
@@ -67,7 +67,7 @@
   },
   {
     "name": "200 Fishing Strength",
-    "icon": "/images/tools/skilled_anglers_rod.png",
+    "icon": "/public/images/tools/skilled_anglers_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Mandrove Boards (2) Platinum Bar (1) Pearl (1) Fish Resin (1)",
@@ -78,7 +78,7 @@
   },
   {
     "name": "300 Fishing Strength",
-    "icon": "/images/tools/expert_anglers_rod.png",
+    "icon": "/public/images/tools/expert_anglers_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Pecan Boards (2) Cobalt Bar (1) Pearl (1) Fish Resin (1)",
@@ -89,7 +89,7 @@
   },
   {
     "name": "400 Fishing Strength",
-    "icon": "/images/tools/veteran_anglers_rod.png",
+    "icon": "/public/images/tools/veteran_anglers_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Palm Boards (2) Mythril Bar (1) Pearl (1) Fish Resin (1)",
@@ -100,7 +100,7 @@
   },
   {
     "name": "500 Fishing Strength",
-    "icon": "/images/tools/master_anglers_rod.png",
+    "icon": "/public/images/tools/master_anglers_rod.png",
     "category": "tools",
     "details": [
       "Carpentry: Willow Boards (2) Obsidian Bar (1) Pearl (1) Fish Resin (1)",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Blacksmithing: Oak Boards (1) Tin Bar (1)",
-    "icon": "/images/tools/flimsy_pickaxe.png",
+    "icon": "/public/images/tools/flimsy_pickaxe.png",
     "category": "tools",
     "details": [
       "1",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Blacksmithing: Oak Boards (2) Tin Bar (2)",
-    "icon": "/images/tools/tin_pickaxe.png",
+    "icon": "/public/images/tools/tin_pickaxe.png",
     "category": "tools",
     "details": [
       "5",
@@ -141,7 +141,7 @@
   },
   {
     "name": "Blacksmithing: Pine Boards (2) Copper Bar (2)",
-    "icon": "/images/tools/copper_pickaxe.png",
+    "icon": "/public/images/tools/copper_pickaxe.png",
     "category": "tools",
     "details": [
       "10",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Blacksmithing: Birch Boards (2) Steel Bar (2)",
-    "icon": "/images/tools/steel_pickaxe.png",
+    "icon": "/public/images/tools/steel_pickaxe.png",
     "category": "tools",
     "details": [
       "20",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Blacksmithing: Maple Boards (2) Tungsten Bar (2)",
-    "icon": "/images/tools/tungsten_pickaxe.png",
+    "icon": "/public/images/tools/tungsten_pickaxe.png",
     "category": "tools",
     "details": [
       "30",
@@ -171,7 +171,7 @@
   },
   {
     "name": "Blacksmithing: Mandrove Boards (2) Platinum Bar (2)",
-    "icon": "/images/tools/platinum_pickaxe.png",
+    "icon": "/public/images/tools/platinum_pickaxe.png",
     "category": "tools",
     "details": [
       "40",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Blacksmithing: Pecan Boards (2) Cobalt Bar (2)",
-    "icon": "/images/tools/cobalt_pickaxe.png",
+    "icon": "/public/images/tools/cobalt_pickaxe.png",
     "category": "tools",
     "details": [
       "50",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Blacksmithing: Palm Boards (2) Mythril Bar (2)",
-    "icon": "/images/tools/mythril_pickaxe.png",
+    "icon": "/public/images/tools/mythril_pickaxe.png",
     "category": "tools",
     "details": [
       "60",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Blacksmithing: Willow Boards (2) Obsidian Bar (3)",
-    "icon": "/images/tools/obsidian_pickaxe.png",
+    "icon": "/public/images/tools/obsidian_pickaxe.png",
     "category": "tools",
     "details": [
       "70",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Carpentry: Oak Boards (1) Tin Bar (1)",
-    "icon": "/images/tools/flimsy_axe.png",
+    "icon": "/public/images/tools/flimsy_axe.png",
     "category": "tools",
     "details": [
       "1",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Carpentry: Oak Boards (2) Tin Bar (1)",
-    "icon": "/images/tools/tin_axe.png",
+    "icon": "/public/images/tools/tin_axe.png",
     "category": "tools",
     "details": [
       "5",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Carpentry: Pine Boards (2) Copper Bar (1)",
-    "icon": "/images/tools/copper_axe.png",
+    "icon": "/public/images/tools/copper_axe.png",
     "category": "tools",
     "details": [
       "10",
@@ -251,7 +251,7 @@
   },
   {
     "name": "Carpentry: Birch Boards (2) Steel Bar (1)",
-    "icon": "/images/tools/steel_axe.png",
+    "icon": "/public/images/tools/steel_axe.png",
     "category": "tools",
     "details": [
       "20",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Carpentry: Maple Boards (2) Tungsten Bar (1)",
-    "icon": "/images/tools/tungsten_axe.png",
+    "icon": "/public/images/tools/tungsten_axe.png",
     "category": "tools",
     "details": [
       "30",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Carpentry: Mandrove Boards (2) Platinum Bar (1)",
-    "icon": "/images/tools/platinum_axe.png",
+    "icon": "/public/images/tools/platinum_axe.png",
     "category": "tools",
     "details": [
       "40",
@@ -281,7 +281,7 @@
   },
   {
     "name": "Carpentry: Pecan Boards (2) Cobalt Bar (1)",
-    "icon": "/images/tools/cobalt_axe.png",
+    "icon": "/public/images/tools/cobalt_axe.png",
     "category": "tools",
     "details": [
       "50",
@@ -291,7 +291,7 @@
   },
   {
     "name": "Carpentry: Palm Boards (2) Mythril Bar (1)",
-    "icon": "/images/tools/mythril_axe.png",
+    "icon": "/public/images/tools/mythril_axe.png",
     "category": "tools",
     "details": [
       "60",
@@ -301,7 +301,7 @@
   },
   {
     "name": "Carpentry: Willow Boards (2) Obsidian Bar (1)",
-    "icon": "/images/tools/obsidian_axe.png",
+    "icon": "/public/images/tools/obsidian_axe.png",
     "category": "tools",
     "details": [
       "70",

@@ -1,7 +1,7 @@
 [
   {
     "name": "Ancestor Mask 01 (Stag)",
-    "icon": "/images/cosmetics/ancestor_mask_01_(stag).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_01_(stag).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Ancestor Mask 02 (Horse)",
-    "icon": "/images/cosmetics/ancestor_mask_02_(horse).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_02_(horse).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Ancestor Mask 03 (Rabbit)",
-    "icon": "/images/cosmetics/ancestor_mask_03_(rabbit).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_03_(rabbit).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Ancestor Mask 04 (Ram)",
-    "icon": "/images/cosmetics/ancestor_mask_04_(ram).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_04_(ram).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Ancestor Mask 05 (Vulture)",
-    "icon": "/images/cosmetics/ancestor_mask_05_(vulture).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_05_(vulture).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Ancestor Mask 06 (Boar)",
-    "icon": "/images/cosmetics/ancestor_mask_06_(boar).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_06_(boar).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Ancestor Mask 07 (Wolf)",
-    "icon": "/images/cosmetics/ancestor_mask_07_(wolf).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_07_(wolf).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -71,7 +71,7 @@
   },
   {
     "name": "Ancestor Mask 08 (Rat)",
-    "icon": "/images/cosmetics/ancestor_mask_08_(rat).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_08_(rat).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Ancestor Mask 09 (Duck)",
-    "icon": "/images/cosmetics/ancestor_mask_09_(duck).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_09_(duck).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Ancestor Mask 10 (Bat)",
-    "icon": "/images/cosmetics/ancestor_mask_10_(bat).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_10_(bat).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Ancestor Mask 11 (Worm)",
-    "icon": "/images/cosmetics/ancestor_mask_11_(worm).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_11_(worm).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Ancestor Mask 12 (Tortoise)",
-    "icon": "/images/cosmetics/ancestor_mask_12_(tortoise).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_12_(tortoise).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Ancestor Mask 13 (Fox)",
-    "icon": "/images/cosmetics/ancestor_mask_13_(fox).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_13_(fox).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Ancestor Mask 14 (Raccoon)",
-    "icon": "/images/cosmetics/ancestor_mask_14_(raccoon).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_14_(raccoon).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -141,7 +141,7 @@
   },
   {
     "name": "Ancestor Mask 15 (Chicken)",
-    "icon": "/images/cosmetics/ancestor_mask_15_(chicken).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_15_(chicken).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Ancestor Mask 16 (Beaver)",
-    "icon": "/images/cosmetics/ancestor_mask_16_(beaver).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_16_(beaver).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Ancestor Mask 17 (Bobcat)",
-    "icon": "/images/cosmetics/ancestor_mask_17_(bobcat).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_17_(bobcat).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -171,7 +171,7 @@
   },
   {
     "name": "Ancestor Mask 18 (Bear)",
-    "icon": "/images/cosmetics/ancestor_mask_18_(bear).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_18_(bear).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Ancestor Mask 19 (Raven)",
-    "icon": "/images/cosmetics/ancestor_mask_19_(raven).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_19_(raven).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Ancestor Mask 20 (Cow)",
-    "icon": "/images/cosmetics/ancestor_mask_20_(cow).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_20_(cow).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Ancestor Mask 21 (Snail)",
-    "icon": "/images/cosmetics/ancestor_mask_21_(snail).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_21_(snail).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -211,7 +211,7 @@
   },
   {
     "name": "Ancestor Mask 22 (Moose)",
-    "icon": "/images/cosmetics/ancestor_mask_22_(moose).png",
+    "icon": "/public/images/cosmetics/ancestor_mask_22_(moose).png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Beanie",
-    "icon": "/images/cosmetics/beanie.png",
+    "icon": "/public/images/cosmetics/beanie.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Bucket Hat",
-    "icon": "/images/cosmetics/bucket_hat.png",
+    "icon": "/public/images/cosmetics/bucket_hat.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Filigree Antlers",
-    "icon": "/images/cosmetics/filigree_antlers.png",
+    "icon": "/public/images/cosmetics/filigree_antlers.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -251,7 +251,7 @@
   },
   {
     "name": "First Starbloom Crown",
-    "icon": "/images/cosmetics/first_starbloom_crown.png",
+    "icon": "/public/images/cosmetics/first_starbloom_crown.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Flower Veil",
-    "icon": "/images/cosmetics/flower_veil.png",
+    "icon": "/public/images/cosmetics/flower_veil.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Pumpkin Hat",
-    "icon": "/images/cosmetics/pumpkin_hat.png",
+    "icon": "/public/images/cosmetics/pumpkin_hat.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -281,7 +281,7 @@
   },
   {
     "name": "Reindeer Headdress",
-    "icon": "/images/cosmetics/reindeer_headdress.png",
+    "icon": "/public/images/cosmetics/reindeer_headdress.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -291,7 +291,7 @@
   },
   {
     "name": "Second Starbloom Crown",
-    "icon": "/images/cosmetics/second_starbloom_crown.png",
+    "icon": "/public/images/cosmetics/second_starbloom_crown.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -301,7 +301,7 @@
   },
   {
     "name": "Skull Cap",
-    "icon": "/images/cosmetics/skull_cap.png",
+    "icon": "/public/images/cosmetics/skull_cap.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -311,7 +311,7 @@
   },
   {
     "name": "Wool Winter Hat",
-    "icon": "/images/cosmetics/wool_winter_hat.png",
+    "icon": "/public/images/cosmetics/wool_winter_hat.png",
     "category": "cosmetics",
     "details": [
       "Head",
@@ -321,7 +321,7 @@
   },
   {
     "name": "Genesis Branch",
-    "icon": "/images/cosmetics/genesis_branch.png",
+    "icon": "/public/images/cosmetics/genesis_branch.png",
     "category": "cosmetics",
     "details": [
       "Weapon",

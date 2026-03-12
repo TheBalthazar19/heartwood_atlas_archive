@@ -1,12 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { items, getRarityColor, getRarityBgColor } from "@/lib/data";
+import { allItems, getRarityColor, getRarityBgColor, getItemSlug } from "@/lib/data";
 import { SectionDivider } from "./fantasy-decorations";
 
 export function FeaturedItems() {
   // Get legendary and epic items for featured section
-  const featuredItems = items
+  const featuredItems = allItems
     .filter((item) => item.rarity === "legendary" || item.rarity === "epic")
     .slice(0, 4);
 
@@ -48,7 +48,8 @@ export function FeaturedItems() {
         {/* Featured Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {featuredItems.map((item, index) => (
-            <Link key={item.id} href={`/item/${item.id}`}>
+            <Link key={item.name}
+            href={`/item/${getItemSlug(item.name)}`}>
               <div 
                 className={`group relative h-full ${item.rarity === 'legendary' ? 'legendary-glow' : item.rarity === 'epic' ? 'epic-glow' : ''}`}
                 style={{ animationDelay: `${index * 150}ms` }}
@@ -108,34 +109,19 @@ export function FeaturedItems() {
 
                   {/* Type & Level */}
                   <p className="text-xs text-muted-foreground/70 font-serif mb-3 text-center uppercase tracking-widest">
-                    {item.type} &bull; Level {item.level}
-                  </p>
+  {item.category}
+</p>
 
                   {/* Decorative line */}
                   <div className="w-16 h-px mx-auto mb-3 bg-gradient-to-r from-transparent via-primary/30 to-transparent" />
 
                   {/* Description */}
                   <p className="text-sm text-muted-foreground font-serif line-clamp-2 text-center leading-relaxed">
-                    {item.description}
+                  {item.description ?? item.name}
                   </p>
 
                   {/* Stats Preview */}
-                  {item.stats && (
-                    <div className="mt-4 pt-4 border-t border-border/30">
-                      <div className="flex flex-wrap justify-center gap-2">
-                        {Object.entries(item.stats)
-                          .slice(0, 2)
-                          .map(([key, value]) => (
-                            <span
-                              key={key}
-                              className="text-xs px-2.5 py-1 bg-background/40 rounded-full font-serif border border-border/30"
-                            >
-                              <span className="text-primary/80">{key}:</span> {value}
-                            </span>
-                          ))}
-                      </div>
-                    </div>
-                  )}
+                  
                 </div>
               </div>
             </Link>

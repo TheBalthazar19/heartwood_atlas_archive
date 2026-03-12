@@ -1,7 +1,7 @@
 [
   {
     "name": "legs",
-    "icon": "/images/armor/flimsy_strides.png",
+    "icon": "/public/images/armor/flimsy_strides.png",
     "category": "armor",
     "details": [
       "+37 Health +12 Dodge Chance",
@@ -12,7 +12,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/flimsy_boots.png",
+    "icon": "/public/images/armor/flimsy_boots.png",
     "category": "armor",
     "details": [
       "+18 Health +6 Dodge Chance",
@@ -23,7 +23,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/flimsy_coat.png",
+    "icon": "/public/images/armor/flimsy_coat.png",
     "category": "armor",
     "details": [
       "+46 Health +17 Health Regen +10 Dodge Chance",
@@ -34,7 +34,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/plush_strides.png",
+    "icon": "/public/images/armor/plush_strides.png",
     "category": "armor",
     "details": [
       "+70 Health +23 Dodge Chance",
@@ -45,7 +45,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/plush_boots.png",
+    "icon": "/public/images/armor/plush_boots.png",
     "category": "armor",
     "details": [
       "+34 Health +11 Dodge Chance",
@@ -56,7 +56,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/plush_coat.png",
+    "icon": "/public/images/armor/plush_coat.png",
     "category": "armor",
     "details": [
       "+85 Health +31 Health Regen +18 Dodge Chance",
@@ -67,7 +67,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/fragile_boots.png",
+    "icon": "/public/images/armor/fragile_boots.png",
     "category": "armor",
     "details": [
       "+50 Health +17 Dodge Chance",
@@ -78,7 +78,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/fragile_strides.png",
+    "icon": "/public/images/armor/fragile_strides.png",
     "category": "armor",
     "details": [
       "+103 Health +33 Dodge Chance",
@@ -89,7 +89,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/fragile_coat.png",
+    "icon": "/public/images/armor/fragile_coat.png",
     "category": "armor",
     "details": [
       "+124 Health +45 Health Regen +27 Dodge Chance",
@@ -100,7 +100,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/fragile_hood.png",
+    "icon": "/public/images/armor/fragile_hood.png",
     "category": "armor",
     "details": [
       "+70 Health +16 Dodge Chance +8 Attack Power",
@@ -111,7 +111,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/delicate_boots.png",
+    "icon": "/public/images/armor/delicate_boots.png",
     "category": "armor",
     "details": [
       "+66 Health +22 Dodge Chance",
@@ -122,7 +122,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/delicate_strides.png",
+    "icon": "/public/images/armor/delicate_strides.png",
     "category": "armor",
     "details": [
       "+137 Health +44 Dodge Chance",
@@ -133,7 +133,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/delicate_coat.png",
+    "icon": "/public/images/armor/delicate_coat.png",
     "category": "armor",
     "details": [
       "+162 Health +59 Health Regen +35 Dodge Chance",
@@ -144,7 +144,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/delicate_hood.png",
+    "icon": "/public/images/armor/delicate_hood.png",
     "category": "armor",
     "details": [
       "+92 Health +21 Dodge Chance +10 Attack Power",
@@ -155,7 +155,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/graceful_strides.png",
+    "icon": "/public/images/armor/graceful_strides.png",
     "category": "armor",
     "details": [
       "+170 Health +54 Dodge Chance",
@@ -166,7 +166,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/graceful_boots.png",
+    "icon": "/public/images/armor/graceful_boots.png",
     "category": "armor",
     "details": [
       "+82 Health +28 Dodge Chance",
@@ -177,7 +177,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/graceful_coat.png",
+    "icon": "/public/images/armor/graceful_coat.png",
     "category": "armor",
     "details": [
       "+201 Health +73 Health Regen +44 Dodge Chance",
@@ -188,7 +188,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/graceful_hood.png",
+    "icon": "/public/images/armor/graceful_hood.png",
     "category": "armor",
     "details": [
       "+113 Health +25 Dodge Chance +13 Attack Power",
@@ -199,7 +199,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/sturdy_boots.png",
+    "icon": "/public/images/armor/sturdy_boots.png",
     "category": "armor",
     "details": [
       "+98 Health +33 Dodge Chance",
@@ -210,7 +210,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/sturdy_strides.png",
+    "icon": "/public/images/armor/sturdy_strides.png",
     "category": "armor",
     "details": [
       "+203 Health +66 Dodge Chance",
@@ -221,7 +221,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/sturdy_coat.png",
+    "icon": "/public/images/armor/sturdy_coat.png",
     "category": "armor",
     "details": [
       "+240 Health +87 Health Regen +52 Dodge Chance",
@@ -232,7 +232,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/sturdy_hood.png",
+    "icon": "/public/images/armor/sturdy_hood.png",
     "category": "armor",
     "details": [
       "+134 Health +30 Dodge Chance +15 Attack Power",
@@ -243,7 +243,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/durable_strides.png",
+    "icon": "/public/images/armor/durable_strides.png",
     "category": "armor",
     "details": [
       "+237 Health +77 Dodge Chance",
@@ -254,7 +254,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/durable_boots.png",
+    "icon": "/public/images/armor/durable_boots.png",
     "category": "armor",
     "details": [
       "+114 Health +38 Dodge Chance",
@@ -265,7 +265,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/durable_coat.png",
+    "icon": "/public/images/armor/durable_coat.png",
     "category": "armor",
     "details": [
       "+278 Health +101 Health Regen +60 Dodge Chance",
@@ -276,7 +276,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/durable_hood.png",
+    "icon": "/public/images/armor/durable_hood.png",
     "category": "armor",
     "details": [
       "+156 Health +35 Dodge Chance +18 Attack Power",
@@ -287,7 +287,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/rugged_strides.png",
+    "icon": "/public/images/armor/rugged_strides.png",
     "category": "armor",
     "details": [
       "+270 Health +87 Dodge Chance",
@@ -298,7 +298,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/rugged_boots.png",
+    "icon": "/public/images/armor/rugged_boots.png",
     "category": "armor",
     "details": [
       "+130 Health +44 Dodge Chance",
@@ -309,7 +309,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/rugged_coat.png",
+    "icon": "/public/images/armor/rugged_coat.png",
     "category": "armor",
     "details": [
       "+317 Health +115 Health Regen +69 Dodge Chance",
@@ -320,7 +320,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/rugged_hood.png",
+    "icon": "/public/images/armor/rugged_hood.png",
     "category": "armor",
     "details": [
       "+177 Health +40 Dodge Chance +20 Attack Power",
@@ -331,7 +331,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/light_waders.png",
+    "icon": "/public/images/armor/light_waders.png",
     "category": "armor",
     "details": [
       "+37 Health +40 Focus",
@@ -342,7 +342,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/light_slippers.png",
+    "icon": "/public/images/armor/light_slippers.png",
     "category": "armor",
     "details": [
       "+18 Health +20 Cooldown Reduction",
@@ -353,7 +353,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/light_robes.png",
+    "icon": "/public/images/armor/light_robes.png",
     "category": "armor",
     "details": [
       "+46 Health +17 Health Regen +34 Cooldown Reduction",
@@ -364,7 +364,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/light_vestments.png",
+    "icon": "/public/images/armor/light_vestments.png",
     "category": "armor",
     "details": [
       "+46 Health +10 Focus +17 Cooldown Reduction",
@@ -375,7 +375,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/heavy_waders.png",
+    "icon": "/public/images/armor/heavy_waders.png",
     "category": "armor",
     "details": [
       "+70 Health +76 Focus",
@@ -386,7 +386,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/heavy_slippers.png",
+    "icon": "/public/images/armor/heavy_slippers.png",
     "category": "armor",
     "details": [
       "+34 Health +38 Cooldown Reduction",
@@ -397,7 +397,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/heavy_vestments.png",
+    "icon": "/public/images/armor/heavy_vestments.png",
     "category": "armor",
     "details": [
       "+85 Health +18 Focus +31 Cooldown Reduction",
@@ -408,7 +408,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/heavy_robes.png",
+    "icon": "/public/images/armor/heavy_robes.png",
     "category": "armor",
     "details": [
       "+85 Health +31 Health Regen +62 Cooldown Reduction",
@@ -419,7 +419,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/wool_waders.png",
+    "icon": "/public/images/armor/wool_waders.png",
     "category": "armor",
     "details": [
       "+103 Health +112 Focus",
@@ -430,7 +430,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/wool_slippers.png",
+    "icon": "/public/images/armor/wool_slippers.png",
     "category": "armor",
     "details": [
       "+50 Health +56 Cooldown Reduction",
@@ -441,7 +441,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/wool_vestments.png",
+    "icon": "/public/images/armor/wool_vestments.png",
     "category": "armor",
     "details": [
       "+124 Health +27 Focus +45 Cooldown Reduction",
@@ -452,7 +452,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/wool_robes.png",
+    "icon": "/public/images/armor/wool_robes.png",
     "category": "armor",
     "details": [
       "+124 Health +45 Health Regen +90 Cooldown Reduction",
@@ -463,7 +463,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/wool_cowl.png",
+    "icon": "/public/images/armor/wool_cowl.png",
     "category": "armor",
     "details": [
       "+70 Health +8 Magic Power +53 Cooldown Reduction",
@@ -474,7 +474,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/linen_waders.png",
+    "icon": "/public/images/armor/linen_waders.png",
     "category": "armor",
     "details": [
       "+137 Health +148 Focus",
@@ -485,7 +485,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/linen_slippers.png",
+    "icon": "/public/images/armor/linen_slippers.png",
     "category": "armor",
     "details": [
       "+66 Health +74 Cooldown Reduction",
@@ -496,7 +496,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/linen_robes.png",
+    "icon": "/public/images/armor/linen_robes.png",
     "category": "armor",
     "details": [
       "+162 Health +59 Health Regen +118 Cooldown Reduction",
@@ -507,7 +507,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/linen_vestments.png",
+    "icon": "/public/images/armor/linen_vestments.png",
     "category": "armor",
     "details": [
       "+162 Health +35 Focus +59 Cooldown Reduction",
@@ -518,7 +518,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/linen_cowl.png",
+    "icon": "/public/images/armor/linen_cowl.png",
     "category": "armor",
     "details": [
       "+92 Health +10 Magic Power +69 Cooldown Reduction",
@@ -529,7 +529,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/silk_slippers.png",
+    "icon": "/public/images/armor/silk_slippers.png",
     "category": "armor",
     "details": [
       "+82 Health +92 Cooldown Reduction",
@@ -540,7 +540,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/silk_waders.png",
+    "icon": "/public/images/armor/silk_waders.png",
     "category": "armor",
     "details": [
       "+170 Health +184 Focus",
@@ -551,7 +551,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/silk_vestments.png",
+    "icon": "/public/images/armor/silk_vestments.png",
     "category": "armor",
     "details": [
       "+201 Health +44 Focus +73 Cooldown Reduction",
@@ -562,7 +562,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/silk_robes.png",
+    "icon": "/public/images/armor/silk_robes.png",
     "category": "armor",
     "details": [
       "+201 Health +73 Health Regen +146 Cooldown Reduction",
@@ -573,7 +573,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/silk_cowl.png",
+    "icon": "/public/images/armor/silk_cowl.png",
     "category": "armor",
     "details": [
       "+113 Health +13 Magic Power +85 Cooldown Reduction",
@@ -584,7 +584,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/lace_waders.png",
+    "icon": "/public/images/armor/lace_waders.png",
     "category": "armor",
     "details": [
       "+203 Health +220 Focus",
@@ -595,7 +595,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/lace_slippers.png",
+    "icon": "/public/images/armor/lace_slippers.png",
     "category": "armor",
     "details": [
       "+98 Health +110 Cooldown Reduction",
@@ -606,7 +606,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/lace_vestments.png",
+    "icon": "/public/images/armor/lace_vestments.png",
     "category": "armor",
     "details": [
       "+240 Health +52 Focus +87 Cooldown Reduction",
@@ -617,7 +617,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/lace_robes.png",
+    "icon": "/public/images/armor/lace_robes.png",
     "category": "armor",
     "details": [
       "+240 Health +87 Health Regen +174 Cooldown Reduction",
@@ -628,7 +628,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/lace_cowl.png",
+    "icon": "/public/images/armor/lace_cowl.png",
     "category": "armor",
     "details": [
       "+134 Health +15 Magic Power +101 Cooldown Reduction",
@@ -639,7 +639,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/runeweave_waders.png",
+    "icon": "/public/images/armor/runeweave_waders.png",
     "category": "armor",
     "details": [
       "+237 Health +256 Focus",
@@ -650,7 +650,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/runeweave_slippers.png",
+    "icon": "/public/images/armor/runeweave_slippers.png",
     "category": "armor",
     "details": [
       "+114 Health +128 Cooldown Reduction",
@@ -661,7 +661,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/runeweave_vestments.png",
+    "icon": "/public/images/armor/runeweave_vestments.png",
     "category": "armor",
     "details": [
       "+278 Health +60 Focus +101 Cooldown Reduction",
@@ -672,7 +672,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/runeweave_robes.png",
+    "icon": "/public/images/armor/runeweave_robes.png",
     "category": "armor",
     "details": [
       "+278 Health +101 Health Regen +202 Cooldown Reduction",
@@ -683,7 +683,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/runeweave_cowl.png",
+    "icon": "/public/images/armor/runeweave_cowl.png",
     "category": "armor",
     "details": [
       "+156 Health +18 Magic Power +117 Cooldown Reduction",
@@ -694,7 +694,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/hexweave_waders.png",
+    "icon": "/public/images/armor/hexweave_waders.png",
     "category": "armor",
     "details": [
       "+270 Health +292 Focus",
@@ -705,7 +705,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/hexweave_slippers.png",
+    "icon": "/public/images/armor/hexweave_slippers.png",
     "category": "armor",
     "details": [
       "+130 Health +146 Cooldown Reduction",
@@ -716,7 +716,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/hexweave_vestments.png",
+    "icon": "/public/images/armor/hexweave_vestments.png",
     "category": "armor",
     "details": [
       "+317 Health +69 Focus +115 Cooldown Reduction",
@@ -727,7 +727,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/hexweave_robes.png",
+    "icon": "/public/images/armor/hexweave_robes.png",
     "category": "armor",
     "details": [
       "+317 Health +115 Health Regen +230 Cooldown Reduction",
@@ -738,7 +738,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/hexweave_cowl.png",
+    "icon": "/public/images/armor/hexweave_cowl.png",
     "category": "armor",
     "details": [
       "+177 Health +20 Magic Power +133 Cooldown Reduction",
@@ -749,7 +749,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/copper_platelegs.png",
+    "icon": "/public/images/armor/copper_platelegs.png",
     "category": "armor",
     "details": [
       "+44 Armor +37 Health",
@@ -760,7 +760,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/copper_boots.png",
+    "icon": "/public/images/armor/copper_boots.png",
     "category": "armor",
     "details": [
       "+22 Armor +18 Health",
@@ -771,7 +771,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/copper_breastplate.png",
+    "icon": "/public/images/armor/copper_breastplate.png",
     "category": "armor",
     "details": [
       "+37 Armor +46 Health +17 Health Regen",
@@ -782,7 +782,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/iron_platelegs.png",
+    "icon": "/public/images/armor/iron_platelegs.png",
     "category": "armor",
     "details": [
       "+83 Armor +70 Health",
@@ -793,7 +793,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/iron_boots.png",
+    "icon": "/public/images/armor/iron_boots.png",
     "category": "armor",
     "details": [
       "+42 Armor +34 Health",
@@ -804,7 +804,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/iron_breastplate.png",
+    "icon": "/public/images/armor/iron_breastplate.png",
     "category": "armor",
     "details": [
       "+68 Armor +85 Health +31 Health Regen",
@@ -815,7 +815,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/steel_platelegs.png",
+    "icon": "/public/images/armor/steel_platelegs.png",
     "category": "armor",
     "details": [
       "+123 Armor +103 Health",
@@ -826,7 +826,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/steel_boots.png",
+    "icon": "/public/images/armor/steel_boots.png",
     "category": "armor",
     "details": [
       "+61 Armor +50 Health",
@@ -837,7 +837,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/steel_breastplate.png",
+    "icon": "/public/images/armor/steel_breastplate.png",
     "category": "armor",
     "details": [
       "+99 Armor +124 Health +45 Health Regen",
@@ -848,7 +848,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/steel_lid.png",
+    "icon": "/public/images/armor/steel_lid.png",
     "category": "armor",
     "details": [
       "+58 Armor +70 Health +8 Attack Power",
@@ -859,7 +859,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/tungsten_platelegs.png",
+    "icon": "/public/images/armor/tungsten_platelegs.png",
     "category": "armor",
     "details": [
       "+162 Armor +137 Health",
@@ -870,7 +870,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/tungsten_boots.png",
+    "icon": "/public/images/armor/tungsten_boots.png",
     "category": "armor",
     "details": [
       "+81 Armor +66 Health",
@@ -881,7 +881,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/tungsten_breastplate.png",
+    "icon": "/public/images/armor/tungsten_breastplate.png",
     "category": "armor",
     "details": [
       "+129 Armor +162 Health +59 Health Regen",
@@ -892,7 +892,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/tungsten_lid.png",
+    "icon": "/public/images/armor/tungsten_lid.png",
     "category": "armor",
     "details": [
       "+76 Armor +92 Health +10 Attack Power",
@@ -903,7 +903,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/platinum_boots.png",
+    "icon": "/public/images/armor/platinum_boots.png",
     "category": "armor",
     "details": [
       "+101 Armor +82 Health",
@@ -914,7 +914,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/platinum_platelegs.png",
+    "icon": "/public/images/armor/platinum_platelegs.png",
     "category": "armor",
     "details": [
       "+202 Armor +170 Health",
@@ -925,7 +925,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/platinum_breastplate.png",
+    "icon": "/public/images/armor/platinum_breastplate.png",
     "category": "armor",
     "details": [
       "+160 Armor +201 Health +73 Health Regen",
@@ -936,7 +936,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/platinum_lid.png",
+    "icon": "/public/images/armor/platinum_lid.png",
     "category": "armor",
     "details": [
       "+93 Armor +113 Health +13 Attack Power",
@@ -947,7 +947,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/cobalt_platelegs.png",
+    "icon": "/public/images/armor/cobalt_platelegs.png",
     "category": "armor",
     "details": [
       "+242 Armor +203 Health",
@@ -958,7 +958,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/cobalt_boots.png",
+    "icon": "/public/images/armor/cobalt_boots.png",
     "category": "armor",
     "details": [
       "+121 Armor +98 Health",
@@ -969,7 +969,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/cobalt_breastplate.png",
+    "icon": "/public/images/armor/cobalt_breastplate.png",
     "category": "armor",
     "details": [
       "+191 Armor +240 Health +87 Health Regen",
@@ -980,7 +980,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/cobalt_lid.png",
+    "icon": "/public/images/armor/cobalt_lid.png",
     "category": "armor",
     "details": [
       "+111 Armor +134 Health +15 Attack Power",
@@ -991,7 +991,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/mythril_platelegs.png",
+    "icon": "/public/images/armor/mythril_platelegs.png",
     "category": "armor",
     "details": [
       "+281 Armor +237 Health",
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/mythril_boots.png",
+    "icon": "/public/images/armor/mythril_boots.png",
     "category": "armor",
     "details": [
       "+141 Armor +114 Health",
@@ -1013,7 +1013,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/mythril_breastplate.png",
+    "icon": "/public/images/armor/mythril_breastplate.png",
     "category": "armor",
     "details": [
       "+222 Armor +278 Health +101 Health Regen",
@@ -1024,7 +1024,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/mythril_helm.png",
+    "icon": "/public/images/armor/mythril_helm.png",
     "category": "armor",
     "details": [
       "+128 Armor +156 Health +18 Attack Power",
@@ -1035,7 +1035,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/obsidian_boots.png",
+    "icon": "/public/images/armor/obsidian_boots.png",
     "category": "armor",
     "details": [
       "+160 Armor +130 Health",
@@ -1046,7 +1046,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/obsidian_platelegs.png",
+    "icon": "/public/images/armor/obsidian_platelegs.png",
     "category": "armor",
     "details": [
       "+321 Armor +270 Health",
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/obsidian_breastplate.png",
+    "icon": "/public/images/armor/obsidian_breastplate.png",
     "category": "armor",
     "details": [
       "+253 Armor +317 Health +115 Health Regen",
@@ -1068,7 +1068,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/obsidian_helm.png",
+    "icon": "/public/images/armor/obsidian_helm.png",
     "category": "armor",
     "details": [
       "+146 Armor +177 Health +20 Attack Power",
@@ -1079,7 +1079,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/light_trousers.png",
+    "icon": "/public/images/armor/light_trousers.png",
     "category": "armor",
     "details": [
       "+37 Health +12 Critical Damage",
@@ -1090,7 +1090,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/light_slippers.png",
+    "icon": "/public/images/armor/light_slippers.png",
     "category": "armor",
     "details": [
       "+18 Health +20 Cooldown Reduction",
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/light_robes.png",
+    "icon": "/public/images/armor/light_robes.png",
     "category": "armor",
     "details": [
       "+46 Health +17 Health Regen +34 Cooldown Reduction",
@@ -1112,7 +1112,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/light_mantle.png",
+    "icon": "/public/images/armor/light_mantle.png",
     "category": "armor",
     "details": [
       "+46 Health +10 Critical Damage +17 Cooldown Reduction",
@@ -1123,7 +1123,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/heavy_trousers.png",
+    "icon": "/public/images/armor/heavy_trousers.png",
     "category": "armor",
     "details": [
       "+70 Health +23 Critical Damage",
@@ -1134,7 +1134,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/heavy_slippers.png",
+    "icon": "/public/images/armor/heavy_slippers.png",
     "category": "armor",
     "details": [
       "+34 Health +38 Cooldown Reduction",
@@ -1145,7 +1145,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/heavy_mantle.png",
+    "icon": "/public/images/armor/heavy_mantle.png",
     "category": "armor",
     "details": [
       "+85 Health +18 Critical Damage +31 Cooldown Reduction",
@@ -1156,7 +1156,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/heavy_robes.png",
+    "icon": "/public/images/armor/heavy_robes.png",
     "category": "armor",
     "details": [
       "+85 Health +31 Health Regen +62 Cooldown Reduction",
@@ -1167,7 +1167,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/wool_trousers.png",
+    "icon": "/public/images/armor/wool_trousers.png",
     "category": "armor",
     "details": [
       "+103 Health +33 Critical Damage",
@@ -1178,7 +1178,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/wool_slippers.png",
+    "icon": "/public/images/armor/wool_slippers.png",
     "category": "armor",
     "details": [
       "+50 Health +56 Cooldown Reduction",
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/wool_mantle.png",
+    "icon": "/public/images/armor/wool_mantle.png",
     "category": "armor",
     "details": [
       "+124 Health +27 Critical Damage +45 Cooldown Reduction",
@@ -1200,7 +1200,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/wool_robes.png",
+    "icon": "/public/images/armor/wool_robes.png",
     "category": "armor",
     "details": [
       "+124 Health +45 Health Regen +90 Cooldown Reduction",
@@ -1211,7 +1211,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/wool_cowl.png",
+    "icon": "/public/images/armor/wool_cowl.png",
     "category": "armor",
     "details": [
       "+70 Health +8 Magic Power +53 Cooldown Reduction",
@@ -1222,7 +1222,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/linen_trousers.png",
+    "icon": "/public/images/armor/linen_trousers.png",
     "category": "armor",
     "details": [
       "+137 Health +44 Critical Damage",
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/linen_slippers.png",
+    "icon": "/public/images/armor/linen_slippers.png",
     "category": "armor",
     "details": [
       "+66 Health +74 Cooldown Reduction",
@@ -1244,7 +1244,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/linen_robes.png",
+    "icon": "/public/images/armor/linen_robes.png",
     "category": "armor",
     "details": [
       "+162 Health +59 Health Regen +118 Cooldown Reduction",
@@ -1255,7 +1255,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/linen_mantle.png",
+    "icon": "/public/images/armor/linen_mantle.png",
     "category": "armor",
     "details": [
       "+162 Health +35 Critical Damage +59 Cooldown Reduction",
@@ -1266,7 +1266,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/linen_cowl.png",
+    "icon": "/public/images/armor/linen_cowl.png",
     "category": "armor",
     "details": [
       "+92 Health +10 Magic Power +69 Cooldown Reduction",
@@ -1277,7 +1277,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/silk_slippers.png",
+    "icon": "/public/images/armor/silk_slippers.png",
     "category": "armor",
     "details": [
       "+82 Health +92 Cooldown Reduction",
@@ -1288,7 +1288,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/silk_trousers.png",
+    "icon": "/public/images/armor/silk_trousers.png",
     "category": "armor",
     "details": [
       "+170 Health +55 Critical Damage",
@@ -1299,7 +1299,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/silk_mantle.png",
+    "icon": "/public/images/armor/silk_mantle.png",
     "category": "armor",
     "details": [
       "+201 Health +44 Critical Damage +73 Cooldown Reduction",
@@ -1310,7 +1310,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/silk_robes.png",
+    "icon": "/public/images/armor/silk_robes.png",
     "category": "armor",
     "details": [
       "+201 Health +73 Health Regen +146 Cooldown Reduction",
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/silk_cowl.png",
+    "icon": "/public/images/armor/silk_cowl.png",
     "category": "armor",
     "details": [
       "+113 Health +13 Magic Power +85 Cooldown Reduction",
@@ -1332,7 +1332,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/lace_trousers.png",
+    "icon": "/public/images/armor/lace_trousers.png",
     "category": "armor",
     "details": [
       "+203 Health +66 Critical Damage",
@@ -1343,7 +1343,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/lace_slippers.png",
+    "icon": "/public/images/armor/lace_slippers.png",
     "category": "armor",
     "details": [
       "+98 Health +110 Cooldown Reduction",
@@ -1354,7 +1354,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/lace_mantle.png",
+    "icon": "/public/images/armor/lace_mantle.png",
     "category": "armor",
     "details": [
       "+240 Health +52 Critical Damage +87 Cooldown Reduction",
@@ -1365,7 +1365,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/lace_robes.png",
+    "icon": "/public/images/armor/lace_robes.png",
     "category": "armor",
     "details": [
       "+240 Health +87 Health Regen +174 Cooldown Reduction",
@@ -1376,7 +1376,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/lace_cowl.png",
+    "icon": "/public/images/armor/lace_cowl.png",
     "category": "armor",
     "details": [
       "+134 Health +15 Magic Power +101 Cooldown Reduction",
@@ -1387,7 +1387,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/runeweave_slippers.png",
+    "icon": "/public/images/armor/runeweave_slippers.png",
     "category": "armor",
     "details": [
       "+114 Health +128 Cooldown Reduction",
@@ -1398,7 +1398,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/runeweave_trousers.png",
+    "icon": "/public/images/armor/runeweave_trousers.png",
     "category": "armor",
     "details": [
       "+237 Health +77 Critical Damage",
@@ -1409,7 +1409,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/runeweave_mantle.png",
+    "icon": "/public/images/armor/runeweave_mantle.png",
     "category": "armor",
     "details": [
       "+278 Health +60 Critical Damage +101 Cooldown Reduction",
@@ -1420,7 +1420,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/runeweave_robes.png",
+    "icon": "/public/images/armor/runeweave_robes.png",
     "category": "armor",
     "details": [
       "+278 Health +101 Health Regen +202 Cooldown Reduction",
@@ -1431,7 +1431,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/runeweave_cowl.png",
+    "icon": "/public/images/armor/runeweave_cowl.png",
     "category": "armor",
     "details": [
       "+156 Health +18 Magic Power +117 Cooldown Reduction",
@@ -1442,7 +1442,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/hexweave_trousers.png",
+    "icon": "/public/images/armor/hexweave_trousers.png",
     "category": "armor",
     "details": [
       "+270 Health +87 Critical Damage",
@@ -1453,7 +1453,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/hexweave_slippers.png",
+    "icon": "/public/images/armor/hexweave_slippers.png",
     "category": "armor",
     "details": [
       "+130 Health +146 Cooldown Reduction",
@@ -1464,7 +1464,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/hexweave_mantle.png",
+    "icon": "/public/images/armor/hexweave_mantle.png",
     "category": "armor",
     "details": [
       "+317 Health +69 Critical Damage +115 Cooldown Reduction",
@@ -1475,7 +1475,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/hexweave_robes.png",
+    "icon": "/public/images/armor/hexweave_robes.png",
     "category": "armor",
     "details": [
       "+317 Health +115 Health Regen +230 Cooldown Reduction",
@@ -1486,7 +1486,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/hexweave_cowl.png",
+    "icon": "/public/images/armor/hexweave_cowl.png",
     "category": "armor",
     "details": [
       "+177 Health +20 Magic Power +133 Cooldown Reduction",
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "neck",
-    "icon": "/images/armor/pumpkin_necklace.png",
+    "icon": "/public/images/armor/pumpkin_necklace.png",
     "category": "armor",
     "details": [
       "+8 Health Regen +2 Attack Power +2 Magic Power",
@@ -1508,7 +1508,7 @@
   },
   {
     "name": "ring",
-    "icon": "/images/armor/pumpkin_ring.png",
+    "icon": "/public/images/armor/pumpkin_ring.png",
     "category": "armor",
     "details": [
       "+8 Health Regen +2 Attack Power +2 Magic Power",
@@ -1519,7 +1519,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/cursed_elf_hat.png",
+    "icon": "/public/images/armor/cursed_elf_hat.png",
     "category": "armor",
     "details": [
       "+70 Health +12 Attack Power +12 Magic Power",
@@ -1530,7 +1530,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/forest_guardian_headdress.png",
+    "icon": "/public/images/armor/forest_guardian_headdress.png",
     "category": "armor",
     "details": [
       "+14 Health",
@@ -1541,7 +1541,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/new_adventurer_shirt.png",
+    "icon": "/public/images/armor/new_adventurer_shirt.png",
     "category": "armor",
     "details": [
       "+5 Armor +4 Health",
@@ -1552,7 +1552,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/new_adventurer_pants.png",
+    "icon": "/public/images/armor/new_adventurer_pants.png",
     "category": "armor",
     "details": [
       "+4 Armor +3 Health",
@@ -1563,7 +1563,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/blessed_elf_hat.png",
+    "icon": "/public/images/armor/blessed_elf_hat.png",
     "category": "armor",
     "details": [
       "+70 Health +12 Attack Power +12 Magic Power",
@@ -1574,7 +1574,7 @@
   },
   {
     "name": "Neck",
-    "icon": "/images/armor/winterforge_coal_necklace.png",
+    "icon": "/public/images/armor/winterforge_coal_necklace.png",
     "category": "armor",
     "details": [
       "+2 Health Regen +1 Attack Power +1 Magic Power",
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/trapper_boots.png",
+    "icon": "/public/images/armor/trapper_boots.png",
     "category": "armor",
     "details": [
       "+13 Health",
@@ -1596,7 +1596,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/trapper_vest.png",
+    "icon": "/public/images/armor/trapper_vest.png",
     "category": "armor",
     "details": [
       "+23 Armor +19 Health",
@@ -1607,7 +1607,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/lumberjack_boots.png",
+    "icon": "/public/images/armor/lumberjack_boots.png",
     "category": "armor",
     "details": [
       "+12 Health 15 Woodcutting (1.5% Extra Wood Chance)",
@@ -1618,7 +1618,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/tin_bucket_hat.png",
+    "icon": "/public/images/armor/tin_bucket_hat.png",
     "category": "armor",
     "details": [
       "+13 Armor +11 Health",
@@ -1629,7 +1629,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/lumberjack_pants.png",
+    "icon": "/public/images/armor/lumberjack_pants.png",
     "category": "armor",
     "details": [
       "+20 Health 15 Woodcutting (1.5% Extra Wood Chance)",
@@ -1640,7 +1640,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/wooden_buckler.png",
+    "icon": "/public/images/armor/wooden_buckler.png",
     "category": "armor",
     "details": [
       "+6 Block",
@@ -1651,7 +1651,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/ragged_hat.png",
+    "icon": "/public/images/armor/ragged_hat.png",
     "category": "armor",
     "details": [
       "+15 Health +5 Magic Power",
@@ -1662,7 +1662,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/trapper_trousers.png",
+    "icon": "/public/images/armor/trapper_trousers.png",
     "category": "armor",
     "details": [
       "+32 Armor +27 Health",
@@ -1673,7 +1673,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/lumberjack_shirt.png",
+    "icon": "/public/images/armor/lumberjack_shirt.png",
     "category": "armor",
     "details": [
       "+31 Health 15 Woodcutting (1.5% Extra Wood Chance)",
@@ -1684,7 +1684,7 @@
   },
   {
     "name": "Neck",
-    "icon": "/images/armor/spectral_pendant.png",
+    "icon": "/public/images/armor/spectral_pendant.png",
     "category": "armor",
     "details": [
       "+12 Health Regen +4 Attack Power +4 Magic Power",
@@ -1695,7 +1695,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/oak_buckler.png",
+    "icon": "/public/images/armor/oak_buckler.png",
     "category": "armor",
     "details": [
       "+11 Block +9 Health +2 Dodge Chance",
@@ -1706,7 +1706,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/lumberjack_hat.png",
+    "icon": "/public/images/armor/lumberjack_hat.png",
     "category": "armor",
     "details": [
       "+24 Health +48 Health Regen 15 Woodcutting (1.5% Extra Wood Chance)",
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/hunters_hat.png",
+    "icon": "/public/images/armor/hunters_hat.png",
     "category": "armor",
     "details": [
       "+35 Health +6 Attack Power +6 Magic Power",
@@ -1728,7 +1728,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/pig_skin_shield.png",
+    "icon": "/public/images/armor/pig_skin_shield.png",
     "category": "armor",
     "details": [
       "+13 Block +22 Health",
@@ -1739,7 +1739,7 @@
   },
   {
     "name": "ring",
-    "icon": "/images/armor/promise_ring.png",
+    "icon": "/public/images/armor/promise_ring.png",
     "category": "armor",
     "details": [
       "+5 Attack Power +5 Magic Power",
@@ -1750,7 +1750,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/cutting_board.png",
+    "icon": "/public/images/armor/cutting_board.png",
     "category": "armor",
     "details": [
       "+19 Block +36 Health Regen",
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/mining_pants.png",
+    "icon": "/public/images/armor/mining_pants.png",
     "category": "armor",
     "details": [
       "+50 Health 15 Mining (1.5% Extra Ore Chance)",
@@ -1772,7 +1772,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/elders_crown.png",
+    "icon": "/public/images/armor/elders_crown.png",
     "category": "armor",
     "details": [
       "+72 Health +24 Magic Power",
@@ -1783,7 +1783,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/mining_vest.png",
+    "icon": "/public/images/armor/mining_vest.png",
     "category": "armor",
     "details": [
       "+62 Health 15 Mining (1.5% Extra Ore Chance)",
@@ -1794,7 +1794,7 @@
   },
   {
     "name": "neck",
-    "icon": "/images/armor/bone_collar.png",
+    "icon": "/public/images/armor/bone_collar.png",
     "category": "armor",
     "details": [
       "+4 Attack Power +4 Magic Power",
@@ -1805,7 +1805,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/mining_boots.png",
+    "icon": "/public/images/armor/mining_boots.png",
     "category": "armor",
     "details": [
       "+15 Attack Power 15 Mining (1.5% Extra Ore Chance)",
@@ -1816,7 +1816,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/mining_helmet.png",
+    "icon": "/public/images/armor/mining_helmet.png",
     "category": "armor",
     "details": [
       "+43 Health +86 Health Regen 15 Mining (1.5% Extra Ore Chance)",
@@ -1827,7 +1827,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/iron_shield.png",
+    "icon": "/public/images/armor/iron_shield.png",
     "category": "armor",
     "details": [
       "+18 Armor +22 Block +19 Health",
@@ -1838,7 +1838,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/pine_buckler.png",
+    "icon": "/public/images/armor/pine_buckler.png",
     "category": "armor",
     "details": [
       "+22 Block +19 Health +5 Dodge Chance",
@@ -1849,7 +1849,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/fishing_boots.png",
+    "icon": "/public/images/armor/fishing_boots.png",
     "category": "armor",
     "details": [
       "+54 Health Regen 10 Fishing Strength",
@@ -1860,7 +1860,7 @@
   },
   {
     "name": "legs",
-    "icon": "/images/armor/fishing_waders.png",
+    "icon": "/public/images/armor/fishing_waders.png",
     "category": "armor",
     "details": [
       "+70 Health 10 Fishing Strength",
@@ -1871,7 +1871,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/wool_ushanka.png",
+    "icon": "/public/images/armor/wool_ushanka.png",
     "category": "armor",
     "details": [
       "+45 Health +8 Attack Power +8 Magic Power",
@@ -1882,7 +1882,7 @@
   },
   {
     "name": "ring",
-    "icon": "/images/armor/skeletal_ring.png",
+    "icon": "/public/images/armor/skeletal_ring.png",
     "category": "armor",
     "details": [
       "+8 Attack Power +8 Magic Power",
@@ -1893,7 +1893,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/1st_dryad_bloom_robes.png",
+    "icon": "/public/images/armor/1st_dryad_bloom_robes.png",
     "category": "armor",
     "details": [
       "+191 Health +69 Health Regen +139 Cooldown Reduction",
@@ -1904,7 +1904,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/2nd_dryad_bloom_robes.png",
+    "icon": "/public/images/armor/2nd_dryad_bloom_robes.png",
     "category": "armor",
     "details": [
       "+191 Health +69 Health Regen +139 Cooldown Reduction",
@@ -1915,7 +1915,7 @@
   },
   {
     "name": "chest",
-    "icon": "/images/armor/fishing_vest.png",
+    "icon": "/public/images/armor/fishing_vest.png",
     "category": "armor",
     "details": [
       "+89 Health 10 Fishing Strength",
@@ -1926,7 +1926,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/anglers_hat.png",
+    "icon": "/public/images/armor/anglers_hat.png",
     "category": "armor",
     "details": [
       "+60 Health +120 Health Regen +6 Attack Power 10 Fishing Strength",
@@ -1937,7 +1937,7 @@
   },
   {
     "name": "feet",
-    "icon": "/images/armor/climbing_boots.png",
+    "icon": "/public/images/armor/climbing_boots.png",
     "category": "armor",
     "details": [
       "+40 Health",
@@ -1948,7 +1948,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/steel_shield.png",
+    "icon": "/public/images/armor/steel_shield.png",
     "category": "armor",
     "details": [
       "+26 Armor +33 Block +28 Health",
@@ -1959,7 +1959,7 @@
   },
   {
     "name": "neck",
-    "icon": "/images/armor/ceremonial_beads.png",
+    "icon": "/public/images/armor/ceremonial_beads.png",
     "category": "armor",
     "details": [
       "+11 Attack Power +11 Magic Power",
@@ -1970,7 +1970,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/birch_buckler.png",
+    "icon": "/public/images/armor/birch_buckler.png",
     "category": "armor",
     "details": [
       "+33 Block +28 Health +7 Dodge Chance",
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/prospector_helmet.png",
+    "icon": "/public/images/armor/prospector_helmet.png",
     "category": "armor",
     "details": [
       "+122 Health +245 Health Regen +28 Attack Power +28 Magic Power",
@@ -1992,7 +1992,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/bat_fur_shield.png",
+    "icon": "/public/images/armor/bat_fur_shield.png",
     "category": "armor",
     "details": [
       "+43 Block +82 Health Regen",
@@ -2003,7 +2003,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/rib_cage.png",
+    "icon": "/public/images/armor/rib_cage.png",
     "category": "armor",
     "details": [
       "+43 Block +48 Health",
@@ -2014,7 +2014,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/radiant_protector.png",
+    "icon": "/public/images/armor/radiant_protector.png",
     "category": "armor",
     "details": [
       "+49 Block +78 Health +133 Health Regen",
@@ -2025,7 +2025,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/tungsten_shield.png",
+    "icon": "/public/images/armor/tungsten_shield.png",
     "category": "armor",
     "details": [
       "+35 Armor +44 Block +37 Health",
@@ -2036,7 +2036,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/shiny_scale_shield.png",
+    "icon": "/public/images/armor/shiny_scale_shield.png",
     "category": "armor",
     "details": [
       "+50 Block +29 Magic Power Barrier: +30 hp",
@@ -2047,7 +2047,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/spiked_scale_shield.png",
+    "icon": "/public/images/armor/spiked_scale_shield.png",
     "category": "armor",
     "details": [
       "+50 Block +14 Attack Power +29 Critical Chance",
@@ -2058,7 +2058,7 @@
   },
   {
     "name": "neck",
-    "icon": "/images/armor/tooth_necklace.png",
+    "icon": "/public/images/armor/tooth_necklace.png",
     "category": "armor",
     "details": [
       "+14 Attack Power +14 Magic Power",
@@ -2069,7 +2069,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/maple_buckler.png",
+    "icon": "/public/images/armor/maple_buckler.png",
     "category": "armor",
     "details": [
       "+44 Block +37 Health +10 Dodge Chance",
@@ -2080,7 +2080,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/hardened_scale_shield.png",
+    "icon": "/public/images/armor/hardened_scale_shield.png",
     "category": "armor",
     "details": [
       "+53 Armor +54 Block +48 Health Regen",
@@ -2091,7 +2091,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/overseers_gaze.png",
+    "icon": "/public/images/armor/overseers_gaze.png",
     "category": "armor",
     "details": [
       "+60 Block +95 Health +162 Health Regen",
@@ -2102,7 +2102,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/greenflock_beret.png",
+    "icon": "/public/images/armor/greenflock_beret.png",
     "category": "armor",
     "details": [
       "+221 Health +75 Dodge Chance +75 Attack Power",
@@ -2113,7 +2113,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/mandrove_buckler.png",
+    "icon": "/public/images/armor/mandrove_buckler.png",
     "category": "armor",
     "details": [
       "+55 Block +47 Health +12 Dodge Chance",
@@ -2124,7 +2124,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/platinum_shield.png",
+    "icon": "/public/images/armor/platinum_shield.png",
     "category": "armor",
     "details": [
       "+44 Armor +55 Block +47 Health",
@@ -2135,7 +2135,7 @@
   },
   {
     "name": "helmet",
-    "icon": "/images/armor/black_wool_ushanka.png",
+    "icon": "/public/images/armor/black_wool_ushanka.png",
     "category": "armor",
     "details": [
       "+259 Health +389 Health Regen +44 Attack Power +44 Magic Power",
@@ -2146,7 +2146,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/cobalt_shield.png",
+    "icon": "/public/images/armor/cobalt_shield.png",
     "category": "armor",
     "details": [
       "+53 Armor +66 Block +56 Health",
@@ -2157,7 +2157,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/pecan_buckler.png",
+    "icon": "/public/images/armor/pecan_buckler.png",
     "category": "armor",
     "details": [
       "+66 Block +56 Health +14 Dodge Chance",
@@ -2168,7 +2168,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/mythril_shield.png",
+    "icon": "/public/images/armor/mythril_shield.png",
     "category": "armor",
     "details": [
       "+62 Armor +77 Block +65 Health",
@@ -2179,7 +2179,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/palm_buckler.png",
+    "icon": "/public/images/armor/palm_buckler.png",
     "category": "armor",
     "details": [
       "+77 Block +65 Health +17 Dodge Chance",
@@ -2190,7 +2190,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/willow_buckler.png",
+    "icon": "/public/images/armor/willow_buckler.png",
     "category": "armor",
     "details": [
       "+88 Block +75 Health +19 Dodge Chance",
@@ -2201,7 +2201,7 @@
   },
   {
     "name": "shield",
-    "icon": "/images/armor/obsidian_shield.png",
+    "icon": "/public/images/armor/obsidian_shield.png",
     "category": "armor",
     "details": [
       "+70 Armor +88 Block +75 Health",

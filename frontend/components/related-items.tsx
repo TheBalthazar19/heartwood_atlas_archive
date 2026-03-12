@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { getItemById, getRarityColor, getRarityBgColor } from "@/lib/data";
-
+import { getItemSlug } from "@/lib/data";
 interface RelatedItemsProps {
   itemIds: string[];
 }
@@ -24,7 +24,7 @@ export function RelatedItems({ itemIds }: RelatedItemsProps) {
         {relatedItems.map(
           (item) =>
             item && (
-              <Link key={item.id} href={`/item/${item.id}`}>
+              <Link key={item.id} href={`/item/${getItemSlug(item.name)}`}>
                 <div className="group relative h-full">
                   {/* Glow effect */}
                   <div className="absolute -inset-px rounded-xl bg-gradient-to-br from-primary/0 via-primary/0 to-primary/0 group-hover:from-primary/30 group-hover:via-accent/10 group-hover:to-primary/30 transition-all duration-500 blur-sm" />
@@ -44,9 +44,9 @@ export function RelatedItems({ itemIds }: RelatedItemsProps) {
                         >
                           {item.name}
                         </p>
-                        <p className="text-xs text-muted-foreground truncate">
-                          {item.type} • Lv. {item.level}
-                        </p>
+                        <p className="text-xs text-muted-foreground text-center">
+  {item.category}
+</p>
                       </div>
                     </div>
                   </div>
